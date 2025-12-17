@@ -11,3 +11,4 @@ editor: visual
 Soy Anabella Molina, politóloga, doctora en Ciencias Sociales y trabajo en investigación, docencia y proyectos aplicados con datos.
 
 Este es el inicio de mi sitio web personal construido con Quarto que aun está en construcción. 
+
