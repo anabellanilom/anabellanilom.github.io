@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publicaciones",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "research",
     "section": "",
-    "text": "Publicaciones\nAcá van a ir mis publicaciones.\n\nArtículo 1…\nArtículo 2…"
+    "text": "Research"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "Anabella Molina",
     "section": "",
     "text": "Short bio\nSoy Anabella Molina, politóloga, doctora en Ciencias Sociales y trabajo en investigación, docencia y proyectos aplicados con datos.\nEste es el inicio de mi sitio web personal construido con Quarto."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "Publicaciones\nAcá van a ir mis publicaciones.\n\nArtículo 1…\nArtículo 2…"
   }
 ]
