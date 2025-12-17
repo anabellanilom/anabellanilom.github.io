@@ -1,5 +1,55 @@
 ---
-title: "teaching"
+title: "Actividad docente"
 format: html
 editor: visual
 ---
+
+Mi docencia combina **métodos (cuantitativos y cualitativos)**, **política comparada** e **instituciones**, con experiencia en **grado y posgrado** en UBA, UTDT, UCALP y UNSAM. 
+
+## Cursos actuales
+
+**Profesora a cargo — Métodos y Técnicas Cuantitativas para la Planificación y la Evaluación**  
+Maestría en Planificación y Evaluación de Políticas Públicas, UNSAM — *2025–actualidad* 
+
+**Profesora Asociada — Sistemas Políticos Comparados**  
+Lic. en Ciencia Política y Relaciones Internacionales, Universidad Católica de La Plata (UCALP) — *2025–actualidad* 
+
+**Profesora Asistente — Política y Economía Comparada en América del Sur**
+Maestría en Estudios Internacionales, UTDT — *2025–actualidad* 
+
+**Profesora a cargo — Taller de Tesis Externo (maestrías y doctorado)**  
+Facultad de Derecho, UBA — *2024–actualidad* 
+
+**Profesora Asistente — Instrumentos de Análisis Cualitativo**  
+Maestría en Políticas Públicas, UTDT — *2024–actualidad* 
+
+**Profesora Asistente — Actores y Procesos Políticos**  
+Lic. en Ciencia Política y Relaciones Internacionales, UTDT — *2023–actualidad* 
+
+**Profesora Asistente — Diseño y Metodología de Investigación**  
+Lic. en Ciencia Política y Relaciones Internacionales, UTDT — *2021–actualidad* 
+
+**Ayudante de Primera Interina — Sociología Política**  
+Facultad de Ciencias Sociales, UBA — *2018–actualidad* 
+
+## Cursos intensivos dictados
+
+**Profesora a cargo — QCA (Análisis Cualitativo Comparado) con R**  
+Programa de Metodología Aplicada en Investigación Política y Social, UNSAM — *octubre 2025* 
+
+## Experiencia docente previa (selección)
+
+**Profesora a cargo — Género y Diversidad**  
+Centro Internacional de Estudios Políticos, UNSAM — *2024* 
+
+**Miembro del equipo docente — Teoría Política Feminista (Taller de Estudio Profundizado)**  
+Facultad de Derecho, UBA — *2024* 
+
+**Profesora Adjunta ad honorem — Género y Política Comparada**  
+Facultad de Ciencias Sociales, UBA — *2022–2024* 
+
+**Profesora Asistente — Política Comparada**  
+Lic. en Ciencia Política y Relaciones Internacionales, UTDT — *2020–2023* 
+
+**Profesora Asistente — Introducción a la Ciencia Política**  
+Lic. en Ciencia Política y Relaciones Internacionales, UTDT — *2018–2021* 

@@ -13,11 +13,13 @@ website:
       - href: research.qmd
         text: Investigación
       - href: teaching.qmd
-        text: Teaching
+        text: Actividad docente
       - href: networks.qmd
         text: Redes
       - href: education.qmd
         text: Educación
+      - href: consultoria.qmd
+        text: Consultoria
       - href: cv.qmd
         text: CV
     right:
