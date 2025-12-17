@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "research",
-    "section": "",
-    "text": "Research"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Anabella Molina",
-    "section": "",
-    "text": "Short bio\nSoy Anabella Molina, politóloga, doctora en Ciencias Sociales y trabajo en investigación, docencia y proyectos aplicados con datos.\nEste es el inicio de mi sitio web personal construido con Quarto que aun está en construcción."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publicaciones",
     "section": "",
-    "text": "Publicaciones\nAcá van a ir mis publicaciones.\n\nArtículo 1…\nArtículo 2…"
+    "text": "CAMERLO, M., CLERICI, P., & Molina, A. (2024). “Poderes partidarios y reclutamiento ministerial: El caso argentino.” Colombia Internacional, 120.\nArtículo sobre cómo se vinculan los poderes partidarios y los patrones de reclutamiento ministerial en Argentina.\n(Go to the article)\nMolina, A. (2024). “La representación de género en los gabinetes de gobierno (1997–2023).” Revista SAAP, 18(1).\nAnálisis de la representación de género en gabinetes de gobierno para el período 1997–2023.\n(Go to the article)\nMolina, A. (2023). “Presidentes débiles y ministras presentes: La representación de género en América Latina (1999–2019).” Estado, Gobierno y Gestión Pública, 21(41).\nTrabajo sobre representación de género en América Latina (1999–2019), con foco en el vínculo entre fortaleza presidencial y presencia de ministras.\n(Go to the article)\nCAMERLO, M., MALAMUD, A., & Molina, A. (2022). “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” Regional & Federal Studies.\nTrayectorias de acceso al gabinete en un sistema presidencial federal, con evidencia de Argentina (1983–2020).\n(Go to the article)"
   },
   {
     "objectID": "publications.html#peer-reviewed-articles",
@@ -33,5 +19,19 @@
     "title": "Publicaciones",
     "section": "Other articles",
     "text": "Other articles\nGAMBOA, R., Segovia, C., Dockendorff, A., Cárdenas Arguedas, S., Hernández-Gutiérrez, J. C., Chasquetti, D., González, E., & Molina, A. (2025). “Representación Descriptiva y Sustantiva en América Latina. Avances y desafíos.” IBEROAMERICANA. América Latina, 25(89), 209–246. (Foro de debate)\nForo de debate sobre avances y desafíos en representación descriptiva y sustantiva en América Latina.\n(Go to the article) · (DOI)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anabella Molina",
+    "section": "",
+    "text": "Short bio\nSoy Anabella Molina, politóloga, doctora en Ciencias Sociales y trabajo en investigación, docencia y proyectos aplicados con datos.\nEste es el inicio de mi sitio web personal construido con Quarto que aun está en construcción."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "research",
+    "section": "",
+    "text": "Research"
   }
 ]
