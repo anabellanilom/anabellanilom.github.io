@@ -1,0 +1,14 @@
+---
+title: "Publicaciones"
+format: html
+editor: visual
+---
+
+
+# Publicaciones 
+
+Acá van a ir mis publicaciones.
+
+- Artículo 1…
+- Artículo 2…
+

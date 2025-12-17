@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anabella Molina"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Short bio
+      - href: publications.qmd
+        text: Publications
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: networks.qmd
+        text: Networks
+      - href: education.qmd
+        text: Education
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/TU_USUARIO
+      - icon: linkedin
+        href: https://www.linkedin.com/in/TU_LINKEDIN/
+      - icon: envelope
+        href: mailto:tu.mail@algo.com
+
+format:
+  html:
+    theme: cosmo
+    toc: true
