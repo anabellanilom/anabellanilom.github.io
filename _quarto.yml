@@ -9,15 +9,15 @@ website:
       - href: index.qmd
         text: Short bio
       - href: publications.qmd
-        text: Publications
+        text: Publicaciones
       - href: research.qmd
-        text: Research
+        text: Investigación
       - href: teaching.qmd
         text: Teaching
       - href: networks.qmd
-        text: Networks
+        text: Redes
       - href: education.qmd
-        text: Education
+        text: Educación
       - href: cv.qmd
         text: CV
     right:
