@@ -14,8 +14,6 @@ website:
         text: Investigación
       - href: teaching.qmd
         text: Docencia
-      - href: networks.qmd
-        text: Redes
       - href: talks.qmd
         text: Charlas
       - href: consultoria.qmd
