@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Short bio
+        text: Sobre mí
       - href: publications.qmd
         text: Publicaciones
       - href: research.qmd
@@ -22,10 +22,7 @@ website:
         text: Consultoria
       - href: gestion.qmd
         text: Gestión 
-      - href: education.qmd
-        text: Educación
-      - href: cv.qmd
-        text: CV
+     
     right:
       - icon: github
         href: https://github.com/anabellanilom 
