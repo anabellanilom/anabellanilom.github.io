@@ -9,6 +9,6 @@ En esta sección reúno **charlas, conferencias, paneles y presentaciones** en l
 -   **Próximas**: eventos confirmados (si es virtual, incluyo huso horario).
 -   **Archivo**: actividades pasadas, con enlaces a materiales cuando estén disponibles.
 
-![](images/Flyer charla feministas en los margenes.png){fig-align="center"}
+![](images/Flyer%20charla%20feministas%20en%20los%20margenes.png){width="55%" fig-align="center"}
 
 En esta charla presenté un resumen de mi tesis de doctorado: ¿Personalismo o institucionalización? Los dos caminos hacia los **gabinetes presidenciales paritarios** en América Latina (1999–2019), para el GICP de Género y Políticas Públicas de la UBA.

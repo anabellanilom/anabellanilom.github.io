@@ -13,15 +13,15 @@ website:
       - href: research.qmd
         text: Investigación
       - href: teaching.qmd
-        text: Actividad docente
+        text: Docencia
       - href: networks.qmd
         text: Redes
       - href: talks.qmd
-        text: Charlas y presentaciones
+        text: Charlas
       - href: consultoria.qmd
         text: Consultoria
       - href: gestion.qmd
-        text: Gestión editorial 
+        text: Gestión 
       - href: education.qmd
         text: Educación
       - href: cv.qmd
@@ -29,6 +29,8 @@ website:
     right:
       - icon: github
         href: https://github.com/anabellanilom 
+      - icon: orcid
+        href: "https://orcid.org/0000-0001-7394-8589"
       - icon: linkedin
         href: www.linkedin.com/in/draanabellamolina
       - icon: envelope

@@ -30,9 +30,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Anabella Molina",
+    "title": "Sobre mí",
     "section": "",
-    "text": "Short bio\nSoy Anabella Molina, politóloga, doctora en Ciencias Sociales y trabajo en investigación, docencia y proyectos aplicados con datos.\nEste es el inicio de mi sitio web personal construido con Quarto que aun está en construcción."
+    "text": "Soy Anabella Molina, politóloga, doctoranda en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre género, instituciones políticas y evidencia empírica, con un foco especial en América Latina.\nMi agenda de investigación analiza cómo se alcanzan (o se bloquean) los gabinetes presidenciales paritarios, poniendo atención a dos mecanismos clave: la institucionalización de reglas y prácticas (paridad, cuotas, criterios de selección) y el liderazgo/personalismo en la toma de decisiones. Me interesa entender qué combinaciones de condiciones hacen posible la paridad, cuándo se sostiene en el tiempo y qué implica para la representación y la gobernabilidad.\nAdemás de mi trabajo académico, participo en proyectos de investigación aplicada y coordinación institucional, articulando aliananzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con diseño de encuestas, métodos comparados, QCA y R, con una obsesión saludable por la reproducibilidad y la comunicación clara de resultados (porque la evidencia también merece una buena puesta en escena).\nPodés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sitio.\nDescargá mi CV."
+  },
+  {
+    "objectID": "index.html#sobre-mí",
+    "href": "index.html#sobre-mí",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Soy Anabella Molina, politóloga, doctoranda en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre género, instituciones políticas y evidencia empírica, con un foco especial en América Latina.\nMi agenda de investigación analiza cómo se alcanzan (o se bloquean) los gabinetes presidenciales paritarios, poniendo atención a dos mecanismos clave: la institucionalización de reglas y prácticas (paridad, cuotas, criterios de selección) y el liderazgo/personalismo en la toma de decisiones. Me interesa entender qué combinaciones de condiciones hacen posible la paridad, cuándo se sostiene en el tiempo y qué implica para la representación y la gobernabilidad.\nAdemás de mi trabajo académico, participo en proyectos de investigación aplicada y coordinación institucional, articulando aliananzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con diseño de encuestas, métodos comparados, QCA y R, con una obsesión saludable por la reproducibilidad y la comunicación clara de resultados (porque la evidencia también merece una buena puesta en escena).\nPodés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sitio.\nDescargá mi CV."
+  },
+  {
+    "objectID": "index.html#intereses",
+    "href": "index.html#intereses",
+    "title": "Sobre mí",
+    "section": "Intereses",
+    "text": "Intereses\n\nGénero y poder ejecutivo; gabinetes y reclutamiento ministerial\n\nInstituciones, reglas de paridad y representación política\n\nPolítica comparada en América Latina\n\nMétodos: QCA, encuestas, análisis mixto y R"
+  },
+  {
+    "objectID": "index.html#educación",
+    "href": "index.html#educación",
+    "title": "Sobre mí",
+    "section": "Educación",
+    "text": "Educación\n\nDoctora en Ciencias Sociales — Universidad de Buenos Aires (2025)\n\nMaestría en Ciencia Política — Universidad Torcuato Di Tella (2021)\nLicenciada en Ciencia Polítca  - Universidad de Buenos Aires (2013)"
+  },
+  {
+    "objectID": "index.html#estancias-de-investigación",
+    "href": "index.html#estancias-de-investigación",
+    "title": "Sobre mí",
+    "section": "Estancias de investigación",
+    "text": "Estancias de investigación\n\nUniversidad de Lisboa — Estancia de investigación (2020)\n\nUniversidad de Lisboa — Estancia de investigación (2023)"
   },
   {
     "objectID": "publications.html",

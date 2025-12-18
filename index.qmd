@@ -1,12 +1,34 @@
 ---
-title: "Anabella Molina"
-author: "Anabella Molina"
+title: "Sobre mí"
 format: html
 editor: visual
 ---
 
-# Short bio
+## Sobre mí
 
-Soy Anabella Molina, politóloga, doctora en Ciencias Sociales y trabajo en investigación, docencia y proyectos aplicados con datos.
+Soy **Anabella Molina**, politóloga, **doctoranda en Ciencias Sociales (Universidad de Buenos Aires)** y **magíster en Ciencia Política (Universidad Torcuato Di Tella)**. Mi trabajo se mueve en la intersección entre **género, instituciones políticas y evidencia empírica**, con un foco especial en América Latina.
 
-Este es el inicio de mi sitio web personal construido con Quarto que aun está en construcción.
+Mi agenda de investigación analiza **cómo se alcanzan (o se bloquean) los gabinetes presidenciales paritarios**, poniendo atención a dos mecanismos clave: la **institucionalización** de reglas y prácticas (paridad, cuotas, criterios de selección) y el **liderazgo/personalismo** en la toma de decisiones. Me interesa entender qué combinaciones de condiciones hacen posible la paridad, cuándo se sostiene en el tiempo y qué implica para la representación y la gobernabilidad.
+
+Además de mi trabajo académico, participo en **proyectos de investigación aplicada y coordinación institucional**, articulando aliananzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con **diseño de encuestas, métodos comparados, QCA y R**, con una obsesión saludable por la **reproducibilidad** y la comunicación clara de resultados (porque la evidencia también merece una buena puesta en escena).
+
+Podés ver mis **publicaciones**, **docencia**, **charlas** y mi **CV** en las secciones del sitio.  
+Descargá mi **[CV](cv/)**.
+
+## Intereses
+
+- Género y poder ejecutivo; gabinetes y reclutamiento ministerial  
+- Instituciones, reglas de paridad y representación política  
+- Política comparada en América Latina  
+- Métodos: QCA, encuestas, análisis mixto y R  
+
+## Educación
+
+- **Doctora en Ciencias Sociales** — Universidad de Buenos Aires (2025)   
+- **Maestría en Ciencia Política** — Universidad Torcuato Di Tella (2021)
+- **Licenciada en Ciencia Polítca ** - Universidad de Buenos Aires (2013)
+
+## Estancias de investigación
+
+- **Universidad de Lisboa** — Estancia de investigación (2020)  
+- **Universidad de Lisboa** — Estancia de investigación (2023)
