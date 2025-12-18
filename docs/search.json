@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Anabella Molina",
-    "section": "",
-    "text": "Short bio\nSoy Anabella Molina, politóloga, doctora en Ciencias Sociales y trabajo en investigación, docencia y proyectos aplicados con datos.\nEste es el inicio de mi sitio web personal construido con Quarto que aun está en construcción."
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Actividad docente",
@@ -18,14 +11,7 @@
     "href": "teaching.html#cursos-actuales",
     "title": "Actividad docente",
     "section": "Cursos actuales",
-    "text": "Cursos actuales\nProfesora a cargo — Métodos y Técnicas Cuantitativas para la Planificación y la Evaluación\nMaestría en Planificación y Evaluación de Políticas Públicas, UNSAM — 2025–actualidad\nProfesora Asociada — Sistemas Políticos Comparados\nLic. en Ciencia Política y Relaciones Internacionales, Universidad Católica de La Plata (UCALP) — 2025–actualidad\nProfesora Asistente — Política y Economía Comparada en América del Sur Maestría en Estudios Internacionales, UTDT — 2025–actualidad\nProfesora a cargo — Taller de Tesis Externo (maestrías y doctorado)\nFacultad de Derecho, UBA — 2024–actualidad\nProfesora Asistente — Instrumentos de Análisis Cualitativo\nMaestría en Políticas Públicas, UTDT — 2024–actualidad\nProfesora Asistente — Actores y Procesos Políticos\nLic. en Ciencia Política y Relaciones Internacionales, UTDT — 2023–actualidad\nProfesora Asistente — Diseño y Metodología de Investigación\nLic. en Ciencia Política y Relaciones Internacionales, UTDT — 2021–actualidad\nAyudante de Primera Interina — Sociología Política\nFacultad de Ciencias Sociales, UBA — 2018–actualidad"
-  },
-  {
-    "objectID": "teaching.html#cursos-intensivos-dictados",
-    "href": "teaching.html#cursos-intensivos-dictados",
-    "title": "Actividad docente",
-    "section": "Cursos intensivos dictados",
-    "text": "Cursos intensivos dictados\nProfesora a cargo — QCA (Análisis Cualitativo Comparado) con R\nPrograma de Metodología Aplicada en Investigación Política y Social, UNSAM — octubre 2025"
+    "text": "Cursos actuales\nProfesora Asociada — Sistemas Políticos Comparados\nLic. en Ciencia Política y Relaciones Internacionales, Universidad Católica de La Plata (UCALP) — 2025–actualidad\nProfesora a cargo — Métodos y Técnicas Cuantitativas para la Planificación y la Evaluación\nMaestría en Planificación y Evaluación de Políticas Públicas, UNSAM — 2025–actualidad\nProfesora a cargo — QCA (Análisis Cualitativo Comparado) con R\nPrograma de Metodología Aplicada en Investigación Política y Social, UNSAM — octubre 2025\nProfesora a cargo — Taller de Tesis Externo (maestrías y doctorado)\nFacultad de Derecho, UBA — 2024–actualidad\n\nComo Profesora Asistente\nPolítica y Economía Comparada en América del Sur Maestría en Estudios Internacionales, UTDT — 2025–actualidad\nInstrumentos de Análisis Cualitativo\nMaestría en Políticas Públicas, UTDT — 2024–actualidad\nActores y Procesos Políticos\nLic. en Ciencia Política y Relaciones Internacionales, UTDT — 2023–actualidad\nDiseño y Metodología de Investigación\nLic. en Ciencia Política y Relaciones Internacionales, UTDT — 2021–actualidad\nAyudante de Primera Interina — Sociología Política\nFacultad de Ciencias Sociales, UBA — 2018–actualidad"
   },
   {
     "objectID": "teaching.html#experiencia-docente-previa-selección",
@@ -35,31 +21,38 @@
     "text": "Experiencia docente previa (selección)\nProfesora a cargo — Género y Diversidad\nCentro Internacional de Estudios Políticos, UNSAM — 2024\nMiembro del equipo docente — Teoría Política Feminista (Taller de Estudio Profundizado)\nFacultad de Derecho, UBA — 2024\nProfesora Adjunta ad honorem — Género y Política Comparada\nFacultad de Ciencias Sociales, UBA — 2022–2024\nProfesora Asistente — Política Comparada\nLic. en Ciencia Política y Relaciones Internacionales, UTDT — 2020–2023\nProfesora Asistente — Introducción a la Ciencia Política\nLic. en Ciencia Política y Relaciones Internacionales, UTDT — 2018–2021"
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "research",
+    "section": "",
+    "text": "Research"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anabella Molina",
+    "section": "",
+    "text": "Short bio\nSoy Anabella Molina, politóloga, doctora en Ciencias Sociales y trabajo en investigación, docencia y proyectos aplicados con datos.\nEste es el inicio de mi sitio web personal construido con Quarto que aun está en construcción."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publicaciones",
     "section": "",
-    "text": "CAMERLO, M., CLERICI, P., & Molina, A. (2024). “Poderes partidarios y reclutamiento ministerial: El caso argentino.” Colombia Internacional, 120.\nArtículo sobre cómo se vinculan los poderes partidarios y los patrones de reclutamiento ministerial en Argentina.\n(Go to the article)\nMolina, A. (2024). “La representación de género en los gabinetes de gobierno (1997–2023).” Revista SAAP, 18(1).\nAnálisis de la representación de género en gabinetes de gobierno para el período 1997–2023.\n(Go to the article)\nMolina, A. (2023). “Presidentes débiles y ministras presentes: La representación de género en América Latina (1999–2019).” Estado, Gobierno y Gestión Pública, 21(41).\nTrabajo sobre representación de género en América Latina (1999–2019), con foco en el vínculo entre fortaleza presidencial y presencia de ministras.\n(Go to the article)\nCAMERLO, M., MALAMUD, A., & Molina, A. (2022). “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” Regional & Federal Studies.\nTrayectorias de acceso al gabinete en un sistema presidencial federal, con evidencia de Argentina (1983–2020).\n(Go to the article)"
+    "text": "CAMERLO, M., CLERICI, P., & Molina, A. (2024). “Poderes partidarios y reclutamiento ministerial: El caso argentino.” Colombia Internacional, 120.\nArtículo sobre cómo se vinculan los poderes partidarios y los patrones de reclutamiento ministerial en Argentina.\n(Link al artículo)\nMolina, A. (2024). “La representación de género en los gabinetes de gobierno (1997–2023).” Revista SAAP, 18(1).\nAnálisis de la representación de género en gabinetes de gobierno para el período 1997–2023.\n(Link a la nota de investigación)\nMolina, A. (2023). “Presidentes débiles y ministras presentes: La representación de género en América Latina (1999–2019).” Estado, Gobierno y Gestión Pública, 21(41).\nTrabajo sobre representación de género en América Latina (1999–2019), con foco en el vínculo entre fortaleza presidencial y presencia de ministras.\n(Link al artículo)\nCAMERLO, M., MALAMUD, A., & Molina, A. (2022). “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” Regional & Federal Studies.\nTrayectorias de acceso al gabinete en un sistema presidencial federal, con evidencia de Argentina (1983–2020).\n(Link al artículo)"
   },
   {
-    "objectID": "publications.html#peer-reviewed-articles",
-    "href": "publications.html#peer-reviewed-articles",
+    "objectID": "publications.html#artículos-y-notas-con-revisión-por-pares",
+    "href": "publications.html#artículos-y-notas-con-revisión-por-pares",
     "title": "Publicaciones",
     "section": "",
-    "text": "CAMERLO, M., CLERICI, P., & Molina, A. (2024). “Poderes partidarios y reclutamiento ministerial: El caso argentino.” Colombia Internacional, 120.\nArtículo sobre cómo se vinculan los poderes partidarios y los patrones de reclutamiento ministerial en Argentina.\n(Go to the article)\nMolina, A. (2024). “La representación de género en los gabinetes de gobierno (1997–2023).” Revista SAAP, 18(1).\nAnálisis de la representación de género en gabinetes de gobierno para el período 1997–2023.\n(Go to the article)\nMolina, A. (2023). “Presidentes débiles y ministras presentes: La representación de género en América Latina (1999–2019).” Estado, Gobierno y Gestión Pública, 21(41).\nTrabajo sobre representación de género en América Latina (1999–2019), con foco en el vínculo entre fortaleza presidencial y presencia de ministras.\n(Go to the article)\nCAMERLO, M., MALAMUD, A., & Molina, A. (2022). “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” Regional & Federal Studies.\nTrayectorias de acceso al gabinete en un sistema presidencial federal, con evidencia de Argentina (1983–2020).\n(Go to the article)"
+    "text": "CAMERLO, M., CLERICI, P., & Molina, A. (2024). “Poderes partidarios y reclutamiento ministerial: El caso argentino.” Colombia Internacional, 120.\nArtículo sobre cómo se vinculan los poderes partidarios y los patrones de reclutamiento ministerial en Argentina.\n(Link al artículo)\nMolina, A. (2024). “La representación de género en los gabinetes de gobierno (1997–2023).” Revista SAAP, 18(1).\nAnálisis de la representación de género en gabinetes de gobierno para el período 1997–2023.\n(Link a la nota de investigación)\nMolina, A. (2023). “Presidentes débiles y ministras presentes: La representación de género en América Latina (1999–2019).” Estado, Gobierno y Gestión Pública, 21(41).\nTrabajo sobre representación de género en América Latina (1999–2019), con foco en el vínculo entre fortaleza presidencial y presencia de ministras.\n(Link al artículo)\nCAMERLO, M., MALAMUD, A., & Molina, A. (2022). “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” Regional & Federal Studies.\nTrayectorias de acceso al gabinete en un sistema presidencial federal, con evidencia de Argentina (1983–2020).\n(Link al artículo)"
   },
   {
     "objectID": "publications.html#other-articles",
     "href": "publications.html#other-articles",
     "title": "Publicaciones",
     "section": "Other articles",
-    "text": "Other articles\nGAMBOA, R., Segovia, C., Dockendorff, A., Cárdenas Arguedas, S., Hernández-Gutiérrez, J. C., Chasquetti, D., González, E., & Molina, A. (2025). “Representación Descriptiva y Sustantiva en América Latina. Avances y desafíos.” IBEROAMERICANA. América Latina, 25(89), 209–246. (Foro de debate)\nForo de debate sobre avances y desafíos en representación descriptiva y sustantiva en América Latina.\n(Go to the article) · (DOI)"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "research",
-    "section": "",
-    "text": "Research"
+    "text": "Other articles\nGAMBOA, R., Segovia, C., Dockendorff, A., Cárdenas Arguedas, S., Hernández-Gutiérrez, J. C., Chasquetti, D., González, E., & Molina, A. (2025). “Representación Descriptiva y Sustantiva en América Latina. Avances y desafíos.” IBEROAMERICANA. América Latina, 25(89), 209–246. (Foro de debate)\nForo de debate sobre avances y desafíos en representación descriptiva y sustantiva en América Latina.\n(Link al artículo) · (DOI)"
   }
 ]

@@ -16,10 +16,14 @@ website:
         text: Actividad docente
       - href: networks.qmd
         text: Redes
-      - href: education.qmd
-        text: Educación
+      - href: talks.qmd
+        text: Charlas y presentaciones
       - href: consultoria.qmd
         text: Consultoria
+      - href: gestion.qmd
+        text: Gestión editorial 
+      - href: education.qmd
+        text: Educación
       - href: cv.qmd
         text: CV
     right:
