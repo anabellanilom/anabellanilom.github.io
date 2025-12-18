@@ -23,9 +23,9 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "research",
+    "title": "Investigación",
     "section": "",
-    "text": "Research"
+    "text": "En construcción"
   },
   {
     "objectID": "index.html",
@@ -56,6 +56,20 @@
     "text": "Estancias de investigación\n\nUniversidad de Lisboa — Estancia de investigación (2020)\n\nUniversidad de Lisboa — Estancia de investigación (2023)"
   },
   {
+    "objectID": "consultoria.html",
+    "href": "consultoria.html",
+    "title": "Consultoría e investigación aplicada",
+    "section": "",
+    "text": "Desarrollo consultorías y apoyo técnico para proyectos de investigación aplicada en democracia, género y políticas públicas. Mi trabajo combina relevamiento y sistematización de información, construcción de bases de datos, elaboración de insumos ejecutivos y soporte para actividades de incidencia y difusión."
+  },
+  {
+    "objectID": "consultoria.html#proyecto-género-y-financiamiento-de-la-política",
+    "href": "consultoria.html#proyecto-género-y-financiamiento-de-la-política",
+    "title": "Consultoría e investigación aplicada",
+    "section": "Proyecto: Género y financiamiento de la política",
+    "text": "Proyecto: Género y financiamiento de la política\n\nCOLAB — Colaboratorio en Derecho y Desarrollo, Universidad Torcuato Di Tella | mar. 2024 – feb. 2025\n\n\nRelevamiento y sistematización de normativa, prácticas de financiamiento y casos relevantes a partir de documentos oficiales, bases de datos, informes de organizaciones y cobertura periodística.\n\nConstrucción y mantenimiento de bases de datos y cuadros comparativos para analizar el impacto de las reglas de financiamiento en la participación política de mujeres y otros grupos subrepresentados.\n\nElaboración de insumos escritos (memos, resúmenes ejecutivos y presentaciones) para el equipo de investigación y actividades de difusión.\n\nApoyo a la organización de reuniones y coordinación con actores clave (agendas, materiales y registro de acuerdos)."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publicaciones",
@@ -82,26 +96,5 @@
     "title": "Charlas y presentaciones",
     "section": "",
     "text": "En esta sección reúno charlas, conferencias, paneles y presentaciones en las que participé y en las que voy a participar. La idea es simple: que puedas ver en qué estoy trabajando, dónde lo conversamos, y (cuando se puede) acceder a materiales: slides, pósters, papers o grabaciones.\n\nPróximas: eventos confirmados (si es virtual, incluyo huso horario).\nArchivo: actividades pasadas, con enlaces a materiales cuando estén disponibles.\n\n\n\n\n\n\nEn esta charla presenté un resumen de mi tesis de doctorado: ¿Personalismo o institucionalización? Los dos caminos hacia los gabinetes presidenciales paritarios en América Latina (1999–2019), para el GICP de Género y Políticas Públicas de la UBA."
-  },
-  {
-    "objectID": "consultoria.html",
-    "href": "consultoria.html",
-    "title": "Consultoría e investigación aplicada",
-    "section": "",
-    "text": "Desarrollo consultorías y apoyo técnico para proyectos de investigación aplicada en democracia, género y políticas públicas. Mi trabajo combina relevamiento y sistematización de información, construcción de bases de datos, elaboración de insumos ejecutivos y soporte para actividades de incidencia y difusión."
-  },
-  {
-    "objectID": "consultoria.html#consultoría-e-investigación-aplicada",
-    "href": "consultoria.html#consultoría-e-investigación-aplicada",
-    "title": "Consultoría e investigación aplicada",
-    "section": "",
-    "text": "Desarrollo consultorías y apoyo técnico para proyectos de investigación aplicada en democracia, género y políticas públicas. Mi trabajo combina relevamiento y sistematización de información, construcción de bases de datos, elaboración de insumos ejecutivos y soporte para actividades de incidencia y difusión.\nCOLAB — Colaboratorio en Derecho y Desarrollo, Universidad Torcuato Di Tella\nProyecto: “Género y Financiamiento de la Política” | mar. 2024 – feb. 2025\n- Relevamiento y sistematización de normativa, prácticas de financiamiento y casos relevantes a partir de documentos oficiales, bases de datos, informes de organizaciones y cobertura periodística. :contentReferenceoaicite:1\n- Construcción y mantenimiento de bases de datos y cuadros comparativos para analizar el impacto de las reglas de financiamiento en la participación política de mujeres y otros grupos subrepresentados. :contentReferenceoaicite:2\n- Elaboración de insumos escritos (memos, resúmenes ejecutivos y presentaciones) para el equipo de investigación y actividades de difusión. :contentReferenceoaicite:3\n- Apoyo a la organización de reuniones y coordinación con actores clave (agendas, materiales y registro de acuerdos). :contentReferenceoaicite:4"
-  },
-  {
-    "objectID": "consultoria.html#proyecto-género-y-financiamiento-de-la-política",
-    "href": "consultoria.html#proyecto-género-y-financiamiento-de-la-política",
-    "title": "Consultoría e investigación aplicada",
-    "section": "Proyecto: “Género y Financiamiento de la Política”",
-    "text": "Proyecto: “Género y Financiamiento de la Política”\n\nCOLAB — Colaboratorio en Derecho y Desarrollo, Universidad Torcuato Di Tella | mar. 2024 – feb. 2025\n\n\nRelevamiento y sistematización de normativa, prácticas de financiamiento y casos relevantes a partir de documentos oficiales, bases de datos, informes de organizaciones y cobertura periodística.\n\nConstrucción y mantenimiento de bases de datos y cuadros comparativos para analizar el impacto de las reglas de financiamiento en la participación política de mujeres y otros grupos subrepresentados.\n\nElaboración de insumos escritos (memos, resúmenes ejecutivos y presentaciones) para el equipo de investigación y actividades de difusión.\n\nApoyo a la organización de reuniones y coordinación con actores clave (agendas, materiales y registro de acuerdos)."
   }
 ]
