@@ -4,14 +4,15 @@ format: html
 editor: visual
 ---
 
-Soy **Anabella Molina**, politóloga, **doctora en Ciencias Sociales (Universidad de Buenos Aires)** y **magíster en Ciencia Política (Universidad Torcuato Di Tella)**. Mi trabajo se mueve en la intersección entre **género, instituciones políticas y evidencia empírica**, con un foco especial en América Latina.
+Soy Anabella Molina, politóloga, doctora en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre **género, instituciones políticas y evidencia empírica**, con un foco en América Latina.
 
-Mi agenda de investigación analiza **cómo se alcanzan (o se bloquean) los gabinetes presidenciales paritarios**, poniendo atención a dos mecanismos clave: la **institucionalización** de reglas y prácticas (paridad, cuotas, criterios de selección) y el **liderazgo/personalismo** en la toma de decisiones. Me interesa entender qué combinaciones de condiciones hacen posible la paridad, cuándo se sostiene en el tiempo y qué implica para la representación y la gobernabilidad.
-
-Además de mi trabajo académico, participo en **proyectos de investigación aplicada y coordinación institucional**, articulando aliananzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con **diseño de encuestas, métodos comparados, QCA y R**, con una obsesión saludable por la **reproducibilidad** y la comunicación clara de resultados (porque la evidencia también merece una buena puesta en escena).
+Además de mi trabajo académico, participo en proyectos de investigación aplicada y coordinación institucional, articulando aliananzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con diseño de encuestas, métodos comparados, QCA y R.
 
 Podés ver mis **publicaciones**, **docencia**, **charlas** y mi **CV** en las secciones del sitio.  
 Descargá mi **[CV](cv/)**.
+
+## Stack de trabajo
+R · Quarto · Git/GitHub · Tidyverse · Reproducibilidad · Datos abiertos
 
 ## Intereses
 

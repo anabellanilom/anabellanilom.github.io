@@ -6,7 +6,7 @@ editor: visual
 
 ## Artículos y notas con revisión por pares
 
-**CAMERLO, M., CLERICI, P., & Molina, A. (2024).** “Poderes partidarios y reclutamiento ministerial: El caso argentino.” *Colombia Internacional, 120.*\
+**Camerlo, M., Clerici, P., & Molina, A. (2024).** “Poderes partidarios y reclutamiento ministerial: El caso argentino.” *Colombia Internacional, 120.*\
 Artículo sobre cómo se vinculan los poderes partidarios y los patrones de reclutamiento ministerial en Argentina.\
 [(Link al artículo)](https://doi.org/10.7440/colombiaint120.2024.02)
 
@@ -18,12 +18,12 @@ Análisis de la representación de género en gabinetes de gobierno para el per�
 Trabajo sobre representación de género en América Latina (1999–2019), con foco en el vínculo entre fortaleza presidencial y presencia de ministras.\
 [(Link al artículo)](https://doi.org/10.5354/0717-8980.2023.71534)
 
-**CAMERLO, M., MALAMUD, A., & Molina, A. (2022).** “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” *Regional & Federal Studies.*\
+**Camerlo, M., Malamud, A., & Molina, A. (2022).** “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” *Regional & Federal Studies.*\
 Trayectorias de acceso al gabinete en un sistema presidencial federal, con evidencia de Argentina (1983–2020).\
 [(Link al artículo)](https://doi.org/10.1080/13597566.2022.2144255)
 
-## Otras publicaciones 
+## Otras publicaciones
 
-**GAMBOA, R., Segovia, C., Dockendorff, A., Cárdenas Arguedas, S., Hernández-Gutiérrez, J. C., Chasquetti, D., González, E., & Molina, A. (2025).** “Representación Descriptiva y Sustantiva en América Latina. Avances y desafíos.” *IBEROAMERICANA. América Latina, 25*(89), 209–246. (Foro de debate)\
+**Gamboa, R., Segovia, C., Dockendorff, A., Cárdenas Arguedas, S., Hernández-Gutiérrez, J. C., Chasquetti, D., González, E., & Molina, A. (2025).** “Representación Descriptiva y Sustantiva en América Latina. Avances y desafíos.” *IBEROAMERICANA. América Latina, 25*(89), 209–246. (Foro de debate)\
 Foro de debate sobre avances y desafíos en representación descriptiva y sustantiva en América Latina.\
 [(Link al artículo)](https://journals.iai.spk-berlin.de/index.php/iberoamericana/article/view/3200) · [(DOI)](https://doi.org/10.18441/ibam.25.2025.89.209-246)
