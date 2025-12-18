@@ -4,4 +4,16 @@ format: html
 editor: visual
 ---
 
-# En construcción 
+## Tesis de maestría
+
+**Estrategias presidenciales, participación e integración. Las designaciones de mujeres en los gabinetes de América Latina (1999–2019)** (UTDT, 2021).  
+Análisis comparado de 18 países (1999–2019) sobre integración de género en gabinetes presidenciales.
+
+[Ver registro en Repositorio UTDT](https://repositorio.utdt.edu/handle/20.500.13098/12017){.btn .btn-outline-primary target="_blank"}
+
+## Proyectos de investigación
+
+**Presidential Cabinets Project**  
+Formo parte de este proyecto colaborativo de política comparada centrado en la composición, formación y dinámica de gabinetes presidenciales en las Américas.
+
+[Descripción del proyecto](https://pex-network.com/2018/08/16/government-formation-and-minister-turnover-in-presidential-cabinets-comparative-analysis-in-the-americas/){target="_blank"}
