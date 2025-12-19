@@ -1,11 +1,10 @@
 ---
-title: "Gestión de proyectos y editorial"
+title: "Gestión de proyectos y gestión editorial"
 format: html
 editor: visual
 ---
 
-## Gestión de proyectos y articulación institucional 
-**Coordinadora de Proyectos y Relaciones Institucionales — FOVISEE y Weatherizers Without Borders (WWB)** (abr. 2025 – sept. 2025)  
+## Coordinadora de Proyectos y Relaciones Institucionales — FOVISEE y Weatherizers Without Borders (WWB) (abr. 2025 – sept. 2025)  
 - Coordinación de iniciativas sobre vivienda justa y sostenible, articulando equipos técnicos, organizaciones sociales, universidades y autoridades municipales.  
 - Organización de reuniones, talleres y presentaciones: convocatorias, logística, agendas, actas y seguimiento de acuerdos.  
 - Gestión de documentación de proyectos (cronogramas, presupuestos e informes para financiadores y socios).  
