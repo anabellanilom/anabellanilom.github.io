@@ -37,8 +37,8 @@ website:
   twitter-card:
     # opcional, si querés preview linda cuando compartís el link
     card-style: summary_large_image
-    image: "images/foto-perfil.jpg"    # si no tenés esto, podés borrar la línea
-    creator: "@tu_usuario_si_tenes_twitter"
+    image: "images/social-card.png"    # si no tenés esto, podés borrar la línea
+    creator: "@ananilom"
   
   page-footer:
     left: "© 2025 Anabella Molina"
