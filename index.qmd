@@ -7,7 +7,7 @@ editor: visual
 ::::: columns
 ::: {.column width="30%"}
 
-![](images/perfil-circulo-512.png){width="220" height="220" style="border-radius: 50%; object-fit: cover;object-position:50% 20%;"}
+![](images/perfil-circulo-512.png){.profile-pic}
 :::
 
 ::: {.column width="70%"}

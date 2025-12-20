@@ -1,0 +1,19 @@
+/* Imagen de perfil: tamaño “de escritorio” */
+.profile-pic {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 0 1rem 0;
+  max-width: 100%;
+}
+
+/* En celu: se apila y se achica */
+@media (max-width: 576px) {
+  .profile-pic {
+    width: 170px;
+    height: 170px;
+    margin: 0 auto 1rem auto; /* centrada arriba del texto */
+  }
+}
