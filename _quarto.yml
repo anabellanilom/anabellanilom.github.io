@@ -20,14 +20,6 @@ website:
         text: Consultoria
       - href: gestion.qmd
         text: Gestión 
-
-  site-url: "https://anabellanilom.github.io"
-  open-graph:
-    image: "images/social-card.png"
-  twitter-card:
-    image: "images/social-card.png"
-    card-style: summary_large_image
-    
     right:
       - icon: github
         href: https://github.com/anabellanilom 
@@ -41,7 +33,13 @@ website:
         href: https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es
         target: _blank
         aria-label: Google Scholar
-    
+        
+  twitter-card:
+    # opcional, si querés preview linda cuando compartís el link
+    card-style: summary_large_image
+    image: "images/foto-perfil.jpg"    # si no tenés esto, podés borrar la línea
+    creator: "@tu_usuario_si_tenes_twitter"
+  
   page-footer:
     left: "© 2025 Anabella Molina"
     center: "Hecho con [Quarto](https://quarto.org)"
