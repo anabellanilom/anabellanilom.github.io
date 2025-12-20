@@ -6,8 +6,7 @@ editor: visual
 
 ::::: columns
 ::: {.column width="30%"}
-
-![](images/Portada (2).jpeg){width="220" height="220" style="border-radius: 50%; object-fit: cover;"}
+![](images/Portada (2).jpeg){width="220" height="220" style="border-radius: 50%; object-fit: cover;object-position:50% 20%;"}
 :::
 
 ::: {.column width="70%"}
