@@ -4,30 +4,39 @@ format: html
 editor: visual
 ---
 
+::::: columns
+::: {.column width="30%"}
+
+:::
+
+::: {.column width="70%"}
 Soy Anabella Molina, politóloga, doctora en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre **género, instituciones políticas y evidencia empírica**, con un foco en América Latina.
 
 Además de mi trabajo académico, participo en proyectos de investigación aplicada y coordinación institucional, articulando aliananzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con diseño de encuestas, métodos comparados, QCA y R.
 
-Podés ver mis **publicaciones**, **docencia**, **charlas** y mi **CV** en las secciones del sitio.  
-Descargá mi **[CV](cv/)**.
+Podés ver mis **publicaciones**, **docencia**, **charlas** y mi **CV** en las secciones del sitio.\
+Descargá mi [**CV**](cv/).
 
 ## Stack de trabajo
+
 R · Quarto · Git/GitHub · Tidyverse · Reproducibilidad · Datos abiertos
 
 ## Intereses
 
-- Género y poder ejecutivo; gabinetes y reclutamiento ministerial  
-- Instituciones, reglas de paridad y representación política  
-- Política comparada en América Latina  
-- Métodos: QCA, encuestas, análisis mixto y R  
+-   Género y poder ejecutivo; gabinetes y reclutamiento ministerial\
+-   Instituciones, reglas de paridad y representación política\
+-   Política comparada en América Latina\
+-   Métodos: QCA, encuestas, análisis mixto y R
 
 ## Educación
 
-- **Doctora en Ciencias Sociales** — Universidad de Buenos Aires (2025)   
-- **Maestría en Ciencia Política** — Universidad Torcuato Di Tella (2021)
-- **Licenciada en Ciencia Polítca** - Universidad de Buenos Aires (2013)
+-   **Doctora en Ciencias Sociales** — Universidad de Buenos Aires (2025)\
+-   **Maestría en Ciencia Política** — Universidad Torcuato Di Tella (2021)
+-   **Licenciada en Ciencia Polítca** - Universidad de Buenos Aires (2013)
 
 ## Estancias de investigación
 
-- **Universidad de Lisboa** — Estancia de investigación (2020)  
-- **Universidad de Lisboa** — Estancia de investigación (2023)
+-   **Universidad de Lisboa** — Estancia de investigación (2020)\
+-   **Universidad de Lisboa** — Estancia de investigación (2023)
+:::
+:::::
