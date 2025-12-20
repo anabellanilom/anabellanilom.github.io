@@ -40,8 +40,6 @@ website:
     center: "Hecho con [Quarto](https://quarto.org)"
     right: "Alojado en [GitHub Pages](https://pages.github.com)"
 
-
-
 format:
   html:
     theme: cosmo
