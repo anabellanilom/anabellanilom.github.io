@@ -27,8 +27,7 @@ website:
   twitter-card:
     image: "images/social-card.png"
     card-style: summary_large_image
-
-     
+    
     right:
       - icon: github
         href: https://github.com/anabellanilom 
