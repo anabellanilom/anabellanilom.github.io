@@ -13,7 +13,7 @@ editor: visual
 ::: {.column width="70%"}
 Soy Anabella Molina, politóloga, doctora en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre **género, instituciones políticas y evidencia empírica**, con un foco en América Latina.
 
-Además de mi trabajo académico, participo en proyectos de investigación aplicada y coordinación institucional, articulando aliananzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con diseño de encuestas, métodos comparados, QCA y R.
+Además de mi trabajo académico, participo en proyectos de investigación aplicada y coordinación institucional, articulando alianzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con diseño de encuestas, métodos comparados, QCA y R.
 
 Podés ver mis **publicaciones**, **docencia**, **charlas** y mi **CV** en las secciones del sitio.\
 Descargá mi [**CV**](cv/).
