@@ -34,6 +34,12 @@ website:
         href: https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es
         target: _blank
         aria-label: Google Scholar
+    
+  page-footer:
+    left: "© 2025 Anabella Molina"
+    center: "Hecho con [Quarto](https://quarto.org)"
+    right: "Alojado en [GitHub Pages](https://pages.github.com)"
+
 
 
 format:
