@@ -20,6 +20,14 @@ website:
         text: Consultoria
       - href: gestion.qmd
         text: Gestión 
+
+  site-url: "https://anabellanilom.github.io"
+  open-graph:
+    image: "images/social-card.png"
+  twitter-card:
+    image: "images/social-card.png"
+    card-style: summary_large_image
+
      
     right:
       - icon: github
