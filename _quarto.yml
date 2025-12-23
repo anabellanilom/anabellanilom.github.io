@@ -42,7 +42,7 @@ website:
     creator: "@ananilom"
   
   page-footer:
-    left: "© 2025 Anabella Molina" "Contenido bajo licencia <a href='https://creativecommons.org/licenses/by-nc/4.0/'>CC BY-NC 4.0</a>"
+    left: "© 2025 Anabella Molina. Contenido bajo licencia <a href='https://creativecommons.org/licenses/by-nc/4.0/'>CC BY-NC 4.0</a>"
     center: "Hecho con [Quarto](https://quarto.org)"
     right: "Alojado en [GitHub Pages](https://pages.github.com)"
    
