@@ -4,16 +4,109 @@ format: html
 editor: visual
 ---
 
+Mi agenda de investigación se centra en representación política y género, gabinetes y reclutamiento ministerial, partidos políticos y financiamiento de la política, con énfasis en América Latina. Trabajo con enfoques de política comparada y producción de evidencia para debates académicos y de política pública.
+
 ## Tesis de maestría
 
-**Estrategias presidenciales, participación e integración. Las designaciones de mujeres en los gabinetes de América Latina (1999–2019)** (UTDT, 2021).  
+**Estrategias presidenciales, participación e integración. Las designaciones de mujeres en los gabinetes de América Latina (1999–2019)** (UTDT, 2021).\
 Análisis comparado de 18 países (1999–2019) sobre integración de género en gabinetes presidenciales.
 
 [Ver registro en Repositorio UTDT](https://repositorio.utdt.edu/handle/20.500.13098/12017){.btn .btn-outline-primary target="_blank"}
 
 ## Proyectos de investigación
 
-**Presidential Cabinets Project**  
+**Presidential Cabinets Project**\
 Formo parte de este proyecto colaborativo de política comparada centrado en la composición, formación y dinámica de gabinetes presidenciales en las Américas.
 
 [Descripción del proyecto](https://pex-network.com/2018/08/16/government-formation-and-minister-turnover-in-presidential-cabinets-comparative-analysis-in-the-americas/){target="_blank"}
+
+## Experiencia en investigación
+
+-   **Becaria Doctoral — UBACyT y CONICET**\
+    **Instituto Gioja, Facultad de Derecho, Universidad de Buenos Aires (UBA)** \| *2018–2024*\
+    Desarrollo de investigación doctoral, con producción académica en torno a instituciones políticas, representación y género.
+
+-   **Codirectora — Proyecto “Carreras Políticas de Mujeres en Contextos Subnacionales”**\
+    **Universidad Torcuato Di Tella (UTDT)** \| *2021–2022*\
+    Codirección de un proyecto orientado a comprender trayectorias y condiciones de acceso de mujeres a espacios de poder a nivel subnacional.
+
+-   **Investigadora — Proyecto PIDAE “Legislación sobre Partidos Políticos en Argentina”**\
+    **Facultad de Derecho, Universidad de Buenos Aires (UBA)** \| *2019–2022*\
+    Investigación sobre regulación de partidos políticos: relevamiento normativo, sistematización y análisis de debates de reforma.
+
+-   **Asistente de Investigación — Proyecto “Crianza Juntos”**\
+    **UTDT – Gobierno de la Provincia de Buenos Aires** \| *2018–2019*\
+    Apoyo a investigación aplicada en articulación universidad–gobierno (sistematización y soporte técnico para el desarrollo del proyecto).
+
+-   **Investigadora Asociada — Proyecto UBACyT “Coaliciones Políticas en América Latina”**\
+    **Universidad de Buenos Aires (UBA)** \| *2016–2018*\
+    Participación en investigación comparada sobre coaliciones políticas en la región.
+
+## Becas y reconocimientos
+
+-   **Beca de Movilidad** — Secretaría de Ciencia y Técnica, UBA \| *2022*
+
+-   **Beca de Finalización Doctoral** — CONICET \| *2022–2024*
+
+-   **Renovación Beca Doctoral** — UBACyT \| *2021*
+
+-   **Beca de Movilidad** — Secretaría de Ciencia y Técnica, UBA \| *2020*
+
+-   **Beca Doctoral UBACyT (Res. Nº 1245/18)** — Instituto Ambrosio L. Gioja, Facultad de Derecho, UBA \| *2018–2022*
+
+## Conferencias y presentaciones profesionales
+
+**2025**
+
+-   **Expositora** — *“Partidismo ministerial y tipos de gobierno en América Latina: clasificación, tensiones y estrategias en distintos contextos de institucionalización partidaria”*\
+    **Panel:** *Dinámicas de gobierno y gabinetes en América Latina* \| **IX Congreso Uruguayo de Ciencia Política (AUCiP)** \| Facultad de Ciencias Sociales, UdelaR \| *Montevideo, Uruguay \| 3- 5 diciembre 2025*
+
+**2023**
+
+-   **Expositora** — *“Vínculos partidarios en los gabinetes presidenciales argentinos (2003–2023)”*\
+    **27º Congreso Mundial de Ciencia Política (IPSA)** \| Buenos Aires \| *15–19 julio 2023*
+
+-   **Coordinadora de Panel** — *“Partidismo gubernamental en sistemas presidenciales: evidencia comparada de América Latina”*\
+    **27º Congreso Mundial de Ciencia Política (IPSA)** \| Buenos Aires \| *15–19 julio 2023*
+
+-   **Expositora** — *“La representación de género en los gabinetes presidenciales argentinos (1999–2019)”*\
+    **Congreso “La Política en Tensión”** \| Buenos Aires \| *18–21 julio 2023*
+
+**2022**
+
+-   **Expositora** — *“La paridad en Argentina: dimensiones e impacto”*\
+    **3er Seminario Internacional sobre Reformas Políticas en América Latina** \| Ciudad de México \| *28–30 septiembre 2022*
+
+**2021**
+
+-   **Expositora** — *“Las mujeres en los poderes ejecutivos subnacionales”*\
+    **XV Congreso Nacional de Ciencia Política (SAAP)** \| Rosario \| *10–13 noviembre 2021*
+
+-   **Comentarista** — *“Hacia una representación política inclusiva”*\
+    **XV Congreso Nacional de Ciencia Política (SAAP)** \| Rosario \| *10–13 noviembre 2021*
+
+-   **Expositora** — *“La regulación de partidos políticos en Argentina: ¿Qué, cómo y para qué reformar?”*\
+    **XV Congreso Nacional de Ciencia Política (SAAP)** \| Rosario \| *10–13 noviembre 2021*
+
+**2019**
+
+-   **Expositora** — *“Rajaduras en el cristal: la participación de mujeres en gabinetes latinoamericanos”*\
+    **XIV Congreso Nacional de Ciencia Política (SAAP)** \| UNSAM, Buenos Aires \| *17–20 julio 2019*
+
+**2017**
+
+-   **Expositora** — *“Coaliciones: un veto para la paridad política en gabinetes latinoamericanos”*\
+    **IX Congreso Latinoamericano de Ciencia Política (ALACIP)** \| Montevideo \| *2017*
+
+**2016**
+
+-   **Expositora** — *“Las Fuerzas Armadas desde una perspectiva de género: análisis de los casos de Brasil y Argentina”*\
+    **Jornadas de Ciencia Política (UBA)** \| Buenos Aires \| *2016*
+
+-   **Expositora** — *“Coaliciones y participación política de las mujeres: los países de la Región Andina”*\
+    **XII Congreso Nacional y V Internacional sobre Democracia** \| Rosario \| *2016*
+
+**2011**
+
+-   **Expositora** — *“Capitalismo del siglo XXI, crisis y reconfiguraciones: luces y sombras en América Latina”*\
+    **IX Jornadas de Sociología (UBA)** \| Buenos Aires \| *2011*
