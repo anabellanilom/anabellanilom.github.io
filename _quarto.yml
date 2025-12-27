@@ -23,17 +23,26 @@ website:
     right:
       - icon: github
         href: https://github.com/anabellanilom
-      - icon: link-45deg
+      - text: "{{< ai google-scholar >}}"
+        href: "https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es"
+        target: _blank
+        rel: me
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es
+        target: _blank
+        aria-label: Google Scholar
+      - text: "{{< ai orcid >}}"
+        href: "https://orcid.org/0000-0001-7394-8589"
+        target: _blank
+        rel: me
+     - icon: link-45deg
         href: "https://orcid.org/0000-0001-7394-8589"
         aria-label: ORCID
       - icon: linkedin
         href: https://www.linkedin.com/in/draanabellamolina
       - icon: envelope
         href: mailto:anabella.anilom@gmail.com
-      - icon: mortarboard-fill
-        href: https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es
-        target: _blank
-        aria-label: Google Scholar
+     
         
   twitter-card:
     # opcional, si querés preview linda cuando compartís el link
