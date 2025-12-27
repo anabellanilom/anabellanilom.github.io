@@ -6,7 +6,6 @@ editor: visual
 
 ::::: columns
 ::: {.column width="30%"}
-
 ![](images/perfil-circulo-512.png){.profile-pic}
 :::
 
