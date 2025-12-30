@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    cv/CV_Anabella_Molina.pdf
 
 website:
   title: "Anabella Molina"
