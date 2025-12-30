@@ -36,7 +36,6 @@ website:
       - icon: envelope
         href: mailto:anabella.anilom@gmail.com
      
-        
   twitter-card:
     # opcional, si querés preview linda cuando compartís el link
     card-style: summary_large_image
