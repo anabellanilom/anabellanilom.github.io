@@ -27,17 +27,10 @@ website:
         href: "https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es"
         target: _blank
         rel: me
-      - icon: mortarboard-fill
-        href: https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es
-        target: _blank
-        aria-label: Google Scholar
       - text: "{{< ai orcid >}}"
         href: "https://orcid.org/0000-0001-7394-8589"
         target: _blank
         rel: me
-      - icon: link-45deg
-        href: "https://orcid.org/0000-0001-7394-8589"
-        aria-label: ORCID
       - icon: linkedin
         href: https://www.linkedin.com/in/draanabellamolina
       - icon: envelope
