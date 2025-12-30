@@ -16,7 +16,7 @@ Además de mi trabajo académico, participo en proyectos de investigación aplic
 
 Podés ver mis **publicaciones**, **docencia**, **charlas** y mi **CV** en las secciones del sitio.\
 Descargá mi [**CV**](cv/).
-Descargá mi [CV (PDF)](CV_Anabella Molina.pdf){target="_blank"}.
+Descargá mi [CV (PDF)](cv/CV_Anabella_Molina.pdf){target="_blank"}.
 
 ## Stack de trabajo
 
