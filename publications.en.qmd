@@ -1,0 +1,28 @@
+---
+title: "Publications"
+format: html
+editor: visual
+---
+
+## Peer-reviewed articles and research notes
+
+**Camerlo, M., Clerici, P., & Molina, A. (2024).** “Party powers and ministerial recruitment: The Argentine case.” *Colombia Internacional, 120.*\
+[(Article link)](https://doi.org/10.7440/colombiaint120.2024.02)
+
+**Molina, A. (2024).** “Gender representation in government cabinets (1997–2023).” *Revista SAAP, 18*(1).\
+[(Research note link)](https://doi.org/10.46468/rsaap.18.1.n1)
+
+**Molina, A. (2023).** “Weak presidents, present women ministers: Gender representation in Latin America (1999–2019).” *Estado, Gobierno y Gestión Pública, 21*(41).*\
+[(Article link)](https://doi.org/10.5354/0717-8980.2023.71534)
+
+**Camerlo, M., Malamud, A., & Molina, A. (2022).** “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” *Regional & Federal Studies.*\
+[(Article link)](https://doi.org/10.1080/13597566.2022.2144255)
+
+## Other publications
+
+**Gamboa, R., Segovia, C., Dockendorff, A., Cárdenas Arguedas, S., Hernández-Gutiérrez, J. C., Chasquetti, D., González, E., & Molina, A. (2025).** “Descriptive and substantive representation in Latin America: Progress and challenges.” *IBEROAMERICANA. América Latina, 25*(89), 209–246. (Debate forum)\
+[(Article link)](https://journals.iai.spk-berlin.de/index.php/iberoamericana/article/view/3200) · [(DOI)](https://doi.org/10.18441/ibam.25.2025.89.209-246)
+
+## Outreach and media analysis
+
+Molina, A. (2023). “Presidential elections in Argentina: An open race in a context of crisis.” PEX Network (August 11, 2023). Pre-PASO analysis with six key points to understand the electoral scenario and uncertainty amid crisis. [(Article link)](https://pex-network.com/2023/08/11/elecciones-presidenciales-en-argentina-competencia-abierta-en-un-contexto-de-crisis/){target="_blank"}
