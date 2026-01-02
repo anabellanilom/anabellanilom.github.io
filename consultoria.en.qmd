@@ -1,0 +1,25 @@
+---
+title: "Consulting and Applied Research"
+format: html
+editor: visual
+---
+
+I provide consulting and technical support for **applied research** projects on democracy, gender, and public policy. My work combines **data collection and systematization**, **database building**, the preparation of **executive-ready deliverables**, and support for outreach and dissemination activities.
+
+## **Project: Gender and political finance**
+
+**Research Assistant** — *COLAB — Colaboratorio en Derecho y Desarrollo, Universidad Torcuato Di Tella* \| Mar. 2024 – Feb. 2025
+
+-   Collected and systematized regulations, financing practices, and relevant cases using official documents, databases, organizational reports, and media coverage.
+
+-   Built and maintained databases and comparative tables to analyze how campaign finance rules affect the political participation of women and other underrepresented groups.
+
+-   Produced written outputs (memos, executive summaries, and presentations) for the research team and dissemination activities.
+
+-   Supported meeting organization and coordination with key stakeholders (agendas, materials, and tracking agreements).
+
+## Project: Crianza Juntos
+
+**Research Assistant** — *UTDT – Government of the Province of Buenos Aires* \| 2018–2019
+
+-   Supported applied research in a university–government partnership (systematization and technical support for project development).
