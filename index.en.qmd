@@ -6,12 +6,12 @@ editor: visual
 
 ::::: columns
 ::: {.column width="30%"}
+
 ![](images/perfil-circulo-512.png){.profile-pic}
+
 :::
 
 ::: {.column width="70%"}
-
-## About me
 
 I’m Anabella Molina, a political scientist, PhD in Social Sciences (University of Buenos Aires) and MA in Political Science (Universidad Torcuato Di Tella). My work sits at the intersection of gender, political institutions, and empirical evidence, with a focus on Latin America.
 
