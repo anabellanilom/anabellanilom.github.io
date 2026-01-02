@@ -1,0 +1,65 @@
+---
+title: "Teaching"
+format: html
+editor: visual
+---
+
+::::: columns
+::: {.column width="40%"}
+![](images/PMET%20UNSAM-6.pdf){fig-align="left"}
+
+![](images/Curso%20virtual.pdf)
+:::
+
+::: {.column width="60%"}
+My teaching combines **methods (quantitative and qualitative)**, **comparative politics**, and **institutions**, with experience at both the **undergraduate and graduate** levels at UBA, UTDT, UCALP, and UNSAM.
+
+## Current courses
+
+**Associate Professor — Comparative Political Systems**\
+BA in Political Science and International Relations, Universidad Católica de La Plata (UCALP) — *2025–present*
+
+**Instructor of Record — Quantitative Methods and Techniques for Planning and Evaluation**\
+Master’s in Planning and Evaluation of Public Policies, UNSAM — *2025–present*
+
+**Instructor of Record — QCA (Qualitative Comparative Analysis) with R**\
+Applied Methodology Program in Political and Social Research, UNSAM — *October 2025*
+
+**Instructor of Record — External Thesis Workshop (Master’s and PhD programs)**\
+Faculty of Law, UBA — *2024–present*
+
+### As Teaching Assistant
+
+**Comparative Politics and Political Economy in South America**\
+Master’s in International Studies, UTDT — *2025–present*
+
+**Qualitative Analysis Tools**\
+Master’s in Public Policy, UTDT — *2024–present*
+
+**Political Actors and Processes**\
+BA in Political Science and International Relations, UTDT — *2023–present*
+
+**Research Design and Methodology**\
+BA in Political Science and International Relations, UTDT — *2021–present*
+
+**First Teaching Assistant (Interim) — Political Sociology**\
+Faculty of Social Sciences, UBA — *2018–present*
+
+## Previous teaching experience
+
+**Instructor of Record — Gender and Diversity**\
+International Center for Political Studies, UNSAM — *2024*
+
+**Member of the teaching team — Feminist Political Theory (Advanced Study Workshop)**\
+Faculty of Law, UBA — *2024*
+
+**Adjunct Professor (ad honorem) — Gender and Comparative Politics**\
+Faculty of Social Sciences, UBA — *2022–2024*
+
+**Teaching Assistant — Comparative Politics**\
+BA in Political Science and International Relations, UTDT — *2020–2023*
+
+**Teaching Assistant — Introduction to Political Science**\
+BA in Political Science and International Relations, UTDT — *2018–2021*
+:::
+:::::
