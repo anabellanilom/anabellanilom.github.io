@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    cv/CV_Anabella_Molina.pdf
+    - cv/CV_Anabella_Molina.pdf
 
 website:
   title: "Anabella Molina"
@@ -37,7 +37,8 @@ website:
         href: https://www.linkedin.com/in/draanabellamolina
       - icon: envelope
         href: mailto:anabella.anilom@gmail.com
-     
+  site-url: https://anabellanilom.github.io/
+
   twitter-card:
     # opcional, si querés preview linda cuando compartís el link
     card-style: summary_large_image
@@ -48,6 +49,18 @@ website:
     left: "© 2025 Anabella Molina. Contenido bajo licencia <a href='https://creativecommons.org/licenses/by-nc/4.0/'>CC BY-NC 4.0</a>"
     center: "Hecho con [Quarto](https://quarto.org)"
     right: "Alojado en [GitHub Pages](https://pages.github.com)"
+    
+babelquarto:
+  languagelinks: navbar
+  languagecodes:
+    - name: es
+      text: "ES"
+    - name: en
+      text: "EN"
+  mainlanguage: "es"
+  languages: ["en"]
+
+lang: es
    
 format:
   html:
