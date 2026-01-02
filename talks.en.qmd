@@ -1,0 +1,15 @@
+---
+title: "Talks and Presentations"
+format: html
+editor: visual
+---
+
+In this section I compile **talks, conferences, panels, and presentations** I have taken part in (and will take part in). The idea is simple: so you can see **what I’m working on**, where we discussed it, and (when available) access **materials** such as slides, posters, papers, or recordings.
+
+-   **Upcoming**: confirmed events (if virtual, I include the time zone).
+-   **Archive**: past activities, with links to materials when available.
+
+![](images/Flyer%20charla%20feministas%20en%20los%20margenes.png){width="55%" fig-align="center"}
+
+In this talk I presented a summary of my PhD dissertation: *Personalism or institutionalization? Two pathways toward **gender-parity presidential cabinets** in Latin America (1999–2019)*, for the UBA’s GICP on Gender and Public Policies.
+
