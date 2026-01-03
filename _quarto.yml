@@ -9,6 +9,9 @@ website:
   navbar:
     left:
       - href: index.qmd
+        text: Sobre mí
+      - href: index.en.qmd
+        text: About me
       - href: publications.qmd
       - href: research.qmd
       - href: teaching.qmd
