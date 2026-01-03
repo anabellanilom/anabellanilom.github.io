@@ -14,7 +14,7 @@ website:
       - href: teaching.qmd
       - href: talks.qmd
       - href: consultoria.qmd
-        text: consultoría 
+        text: Consultoría 
       - href: consultoria.en.qmd
         text: Consulting
       - href: gestion.qmd
