@@ -1,8 +1,9 @@
 ---
-title: "Gestión de proyectos y gestión editorial"
+title: "Gestión"
 format: html
 editor: visual
 ---
+# Gestión de proyectos y gestión editorial 
 
 ## Coordinadora de proyectos y relaciones institucionales
 

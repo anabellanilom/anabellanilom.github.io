@@ -1,8 +1,9 @@
 ---
-title: "Consultoría e investigación aplicada"
+title: "Consultoría"
 format: html
 editor: visual
 ---
+# Consultoría e investigación aplicada
 
 Desarrollo consultorías y apoyo técnico para proyectos de **investigación aplicada** en democracia, género y políticas públicas. Mi trabajo combina **relevamiento y sistematización de información**, construcción de **bases de datos**, elaboración de **insumos ejecutivos** y soporte para actividades de incidencia y difusión.
 
