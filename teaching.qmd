@@ -3,7 +3,6 @@ title: "Actividad docente"
 format: html
 editor: visual
 ---
-
 ::::: columns
 ::: {.column width="40%"}
 ![](images/PMET%20UNSAM-6.pdf){fig-align="left"}
