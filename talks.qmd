@@ -1,8 +1,9 @@
 ---
-title: "Charlas y presentaciones"
+title: "Charlas"
 format: html
 editor: visual
 ---
+## Charlas y presentaciones 
 
 En esta sección reúno **charlas, conferencias, paneles y presentaciones** en las que participé y en las que voy a participar. La idea es simple: que puedas ver **en qué estoy trabajando**, dónde lo conversamos, y (cuando se puede) acceder a **materiales**: slides, pósters, papers o grabaciones.
 
