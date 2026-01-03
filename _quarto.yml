@@ -15,6 +15,7 @@ website:
       - href: talks.qmd
       - href: consultoria.qmd
       - href: gestion.qmd
+      - href: datavisualization.qmd
     right:
       - icon: github
         href: https://github.com/anabellanilom
