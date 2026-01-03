@@ -1,1 +1,1 @@
-Sitemap: https://anabellanilom.github.io/en/sitemap.xml
+Sitemap: /en/sitemap.xml

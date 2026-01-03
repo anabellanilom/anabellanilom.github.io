@@ -9,13 +9,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-      - href: index.en.qmd
       - href: publications.qmd
-      - href: publications.en.qmd
       - href: research.qmd
-      - href: research.en.qmd
       - href: teaching.qmd
-      - href: teaching.en.qmd
       - href: talks.qmd
       - href: consultoria.qmd
       - href: gestion.qmd
