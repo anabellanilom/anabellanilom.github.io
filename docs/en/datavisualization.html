@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
-
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<link rel="alternate" hreflang="es" href="/datavisualization.html" />
+<link rel="alternate" hreflang="en" href="/en/datavisualization.en.html" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.8.26">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-
-
 <title>Data visualization – Anabella Molina</title>
 <style>
 code{white-space: pre-wrap;}
@@ -21,39 +21,16 @@ ul.task-list li input[type="checkbox"] {
   vertical-align: middle;
 }
 </style>
-
-
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script><script src="site_libs/quarto-nav/headroom.min.js"></script><script src="site_libs/clipboard/clipboard.min.js"></script><script src="site_libs/quarto-search/autocomplete.umd.js"></script><script src="site_libs/quarto-search/fuse.min.js"></script><script src="site_libs/quarto-search/quarto-search.js"></script><meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script><script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script><script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script><script src="site_libs/quarto-html/popper.min.js"></script><script src="site_libs/quarto-html/tippy.umd.min.js"></script><script src="site_libs/quarto-html/anchor.min.js"></script><link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script><link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-dashboard/quarto-dashboard.js"></script>
-<script src="site_libs/quarto-dashboard/stickythead.js"></script>
-
-
-
-<script src="site_libs/quarto-dashboard/web-components.js" type="module"></script>
-<script src="site_libs/quarto-dashboard/components.js"></script>
-
-<link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
+<script src="site_libs/quarto-dashboard/quarto-dashboard.js"></script><script src="site_libs/quarto-dashboard/stickythead.js"></script><script src="site_libs/quarto-dashboard/web-components.js" type="module"></script><script src="site_libs/quarto-dashboard/components.js"></script><link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -69,82 +46,79 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No se han encontrado resultados",
-    "search-matching-documents-text": "documentos encontrados",
-    "search-copy-link-title": "Copiar el enlace en la búsqueda",
-    "search-hide-matches-text": "Ocultar resultados adicionales",
-    "search-more-match-text": "resultado adicional en este documento",
-    "search-more-matches-text": "resultados adicionales en este documento",
-    "search-clear-button-title": "Borrar",
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancelar",
-    "search-submit-button-title": "Enviar",
-    "search-label": "Buscar"
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
-}</script>
-
-
-<meta name="twitter:title" content="Data visualization – Anabella Molina">
-<meta name="twitter:image" content="https://anabellanilom.github.io/images/social-card.png">
+}</script><meta name="twitter:title" content="Data visualization – Anabella Molina">
+<meta name="twitter:image" content="/en/images/social-card.png">
 <meta name="twitter:creator" content="@ananilom">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image-height" content="627">
 <meta name="twitter:image-width" content="1200">
 </head>
-
 <body class="quarto-dashboard nav-fixed dashboard-fill fullcontent quarto-light">
 
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
-      <div class="navbar-container container-fluid">
+  <header id="quarto-header" class="headroom fixed-top"><nav class="navbar navbar-expand-lg " data-bs-theme="dark"><div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Anabella Molina</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Buscar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
+<li class="nav-item"><div class="dropdown" id="languages-links-parent">
+<button class="btn btn-primary dropdown-toggle babelquarto-languages-button" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="languages-button"><i class="bi bi-globe2"></i> EN</button><ul class="dropdown-menu" id="languages-links"><li><a class="dropdown-item" href="/datavisualization.html" id="language-link-es">ES</a></li></ul>
+</div></li>
+<li class="nav-item">
     <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Sobre mí</span></a>
+<span class="menu-text">About me</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Publicaciones</span></a>
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./research.html"> 
-<span class="menu-text">Investigación</span></a>
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
-<span class="menu-text">Actividad docente</span></a>
+<span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./talks.html"> 
-<span class="menu-text">Charlas</span></a>
+<span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./consultoria.html"> 
-<span class="menu-text">Consultoría</span></a>
+<span class="menu-text">Consulting</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./gestion.html"> 
-<span class="menu-text">Gestión</span></a>
+<span class="menu-text">Management</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./datavisualization.html"> 
+    <a class="nav-link active" href="./datavisualization.html" aria-current="page"> 
 <span class="menu-text">Data visualization</span></a>
   </li>  
 </ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
+<ul class="navbar-nav navbar-nav-scroll ms-auto">
+<li class="nav-item compact">
     <a class="nav-link" href="https://github.com/anabellanilom"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
@@ -168,14 +142,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text"></span></a>
   </li>  
 </ul>
-          </div> <!-- /navcollapse -->
+</div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
-    </nav>
-<header id="quarto-dashboard-header">
-<nav class="navbar navbar-expand-md slim" data-bs-theme="dark">
-  <div class="navbar-container container-fluid">
+    </nav><header id="quarto-dashboard-header"><nav class="navbar navbar-expand-md slim" data-bs-theme="dark"><div class="navbar-container container-fluid">
     <button class="navbar-toggler hidden" type="button" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-controls="dashboard-collapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>    
@@ -191,10 +162,7 @@ ul.task-list li input[type="checkbox"] {
       </div>
     </div>
 </div>
-</nav>
-</header></header>
-<!-- content -->
-<div id="quarto-content" class="quarto-container page-layout-custom page-navbar quarto-dashboard-content bslib-gap-spacing html-fill-container bslib-page-fill">
+</nav></header></header><!-- content --><div id="quarto-content" class="quarto-container page-layout-custom page-navbar quarto-dashboard-content bslib-gap-spacing html-fill-container bslib-page-fill">
 <!-- sidebar -->
 <!-- margin-sidebar -->
 <!-- main -->
@@ -209,23 +177,23 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
 </span></div></div>
 <div class="card-body html-fill-item html-fill-container">
 <div class="cell-output-display html-fill-item html-fill-container">
-<div id="mnxfyaiqay" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;" class="html-fill-item html-fill-container">
-<style>#mnxfyaiqay table {
+<div id="swxgronhaa" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;" class="html-fill-item html-fill-container">
+<style>#swxgronhaa table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#mnxfyaiqay thead, #mnxfyaiqay tbody, #mnxfyaiqay tfoot, #mnxfyaiqay tr, #mnxfyaiqay td, #mnxfyaiqay th {
+#swxgronhaa thead, #swxgronhaa tbody, #swxgronhaa tfoot, #swxgronhaa tr, #swxgronhaa td, #swxgronhaa th {
   border-style: none;
 }
 
-#mnxfyaiqay p {
+#swxgronhaa p {
   margin: 0;
   padding: 0;
 }
 
-#mnxfyaiqay .gt_table {
+#swxgronhaa .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -251,12 +219,12 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   border-left-color: #D3D3D3;
 }
 
-#mnxfyaiqay .gt_caption {
+#swxgronhaa .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#mnxfyaiqay .gt_title {
+#swxgronhaa .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -268,7 +236,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   border-bottom-width: 0;
 }
 
-#mnxfyaiqay .gt_subtitle {
+#swxgronhaa .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -280,7 +248,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   border-top-width: 0;
 }
 
-#mnxfyaiqay .gt_heading {
+#swxgronhaa .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -292,13 +260,13 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   border-right-color: #D3D3D3;
 }
 
-#mnxfyaiqay .gt_bottom_border {
+#swxgronhaa .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#mnxfyaiqay .gt_col_headings {
+#swxgronhaa .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -313,7 +281,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   border-right-color: #D3D3D3;
 }
 
-#mnxfyaiqay .gt_col_heading {
+#swxgronhaa .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -333,7 +301,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   overflow-x: hidden;
 }
 
-#mnxfyaiqay .gt_column_spanner_outer {
+#swxgronhaa .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -345,15 +313,15 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   padding-right: 4px;
 }
 
-#mnxfyaiqay .gt_column_spanner_outer:first-child {
+#swxgronhaa .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#mnxfyaiqay .gt_column_spanner_outer:last-child {
+#swxgronhaa .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#mnxfyaiqay .gt_column_spanner {
+#swxgronhaa .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -365,11 +333,11 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   width: 100%;
 }
 
-#mnxfyaiqay .gt_spanner_row {
+#swxgronhaa .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#mnxfyaiqay .gt_group_heading {
+#swxgronhaa .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -395,7 +363,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   text-align: left;
 }
 
-#mnxfyaiqay .gt_empty_group_heading {
+#swxgronhaa .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -410,15 +378,15 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   vertical-align: middle;
 }
 
-#mnxfyaiqay .gt_from_md > :first-child {
+#swxgronhaa .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#mnxfyaiqay .gt_from_md > :last-child {
+#swxgronhaa .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#mnxfyaiqay .gt_row {
+#swxgronhaa .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -437,7 +405,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   overflow-x: hidden;
 }
 
-#mnxfyaiqay .gt_stub {
+#swxgronhaa .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -450,7 +418,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   padding-right: 5px;
 }
 
-#mnxfyaiqay .gt_stub_row_group {
+#swxgronhaa .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -464,15 +432,15 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   vertical-align: top;
 }
 
-#mnxfyaiqay .gt_row_group_first td {
+#swxgronhaa .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#mnxfyaiqay .gt_row_group_first th {
+#swxgronhaa .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#mnxfyaiqay .gt_summary_row {
+#swxgronhaa .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -482,16 +450,16 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   padding-right: 5px;
 }
 
-#mnxfyaiqay .gt_first_summary_row {
+#swxgronhaa .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#mnxfyaiqay .gt_first_summary_row.thick {
+#swxgronhaa .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#mnxfyaiqay .gt_last_summary_row {
+#swxgronhaa .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -501,7 +469,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   border-bottom-color: #D3D3D3;
 }
 
-#mnxfyaiqay .gt_grand_summary_row {
+#swxgronhaa .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -511,7 +479,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   padding-right: 5px;
 }
 
-#mnxfyaiqay .gt_first_grand_summary_row {
+#swxgronhaa .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -521,7 +489,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   border-top-color: #D3D3D3;
 }
 
-#mnxfyaiqay .gt_last_grand_summary_row_top {
+#swxgronhaa .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -531,11 +499,11 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   border-bottom-color: #D3D3D3;
 }
 
-#mnxfyaiqay .gt_striped {
+#swxgronhaa .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#mnxfyaiqay .gt_table_body {
+#swxgronhaa .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -544,7 +512,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   border-bottom-color: #D3D3D3;
 }
 
-#mnxfyaiqay .gt_footnotes {
+#swxgronhaa .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -558,7 +526,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   border-right-color: #D3D3D3;
 }
 
-#mnxfyaiqay .gt_footnote {
+#swxgronhaa .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -567,7 +535,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   padding-right: 5px;
 }
 
-#mnxfyaiqay .gt_sourcenotes {
+#swxgronhaa .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -581,7 +549,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   border-right-color: #D3D3D3;
 }
 
-#mnxfyaiqay .gt_sourcenote {
+#swxgronhaa .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -589,76 +557,75 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   padding-right: 5px;
 }
 
-#mnxfyaiqay .gt_left {
+#swxgronhaa .gt_left {
   text-align: left;
 }
 
-#mnxfyaiqay .gt_center {
+#swxgronhaa .gt_center {
   text-align: center;
 }
 
-#mnxfyaiqay .gt_right {
+#swxgronhaa .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#mnxfyaiqay .gt_font_normal {
+#swxgronhaa .gt_font_normal {
   font-weight: normal;
 }
 
-#mnxfyaiqay .gt_font_bold {
+#swxgronhaa .gt_font_bold {
   font-weight: bold;
 }
 
-#mnxfyaiqay .gt_font_italic {
+#swxgronhaa .gt_font_italic {
   font-style: italic;
 }
 
-#mnxfyaiqay .gt_super {
+#swxgronhaa .gt_super {
   font-size: 65%;
 }
 
-#mnxfyaiqay .gt_footnote_marks {
+#swxgronhaa .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#mnxfyaiqay .gt_asterisk {
+#swxgronhaa .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#mnxfyaiqay .gt_indent_1 {
+#swxgronhaa .gt_indent_1 {
   text-indent: 5px;
 }
 
-#mnxfyaiqay .gt_indent_2 {
+#swxgronhaa .gt_indent_2 {
   text-indent: 10px;
 }
 
-#mnxfyaiqay .gt_indent_3 {
+#swxgronhaa .gt_indent_3 {
   text-indent: 15px;
 }
 
-#mnxfyaiqay .gt_indent_4 {
+#swxgronhaa .gt_indent_4 {
   text-indent: 20px;
 }
 
-#mnxfyaiqay .gt_indent_5 {
+#swxgronhaa .gt_indent_5 {
   text-indent: 25px;
 }
 
-#mnxfyaiqay .katex-display {
+#swxgronhaa .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#mnxfyaiqay div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#swxgronhaa div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
-
 <table class="gt_table caption-top table table-sm table-striped small" data-quarto-bootstrap="false">
 <thead>
 <tr class="gt_heading header">
@@ -677,8 +644,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
 <th id="n_pais_anio" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" scope="col">N país-año</th>
 </tr>
 </thead>
-<tbody class="gt_table_body">
-<tr class="odd">
+<tbody class="gt_table_body"><tr class="odd">
 <td class="gt_row gt_right" headers="ministras_total">2,622</td>
 <td class="gt_row gt_right" headers="cargos_totales">21,345</td>
 <td class="gt_row gt_right" headers="prop_ministras">12.3%</td>
@@ -686,20 +652,17 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
 <td class="gt_row gt_right" headers="mediana_pa">6.7%</td>
 <td class="gt_row gt_right" headers="iqr_pa">17.2%</td>
 <td class="gt_row gt_right" headers="n_pais_anio">1,044</td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
-
 </div>
 <p>Tabla 1. Estadísticas descriptivas de ministras en el período 1966 a 2023</p>
 </div>
 </div>
-<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
-    <template>Expand</template>
-    <span class="bslib-full-screen-enter badge rounded-pill">
-        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
-    </span>
-</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div><div id="3ade8a4a-fb1d-4a6c-8409-ac45482d5fc9" class="hidden">
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()"><template>Expand</template><span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg></span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script>
+</div>
+<div id="3ade8a4a-fb1d-4a6c-8409-ac45482d5fc9" class="hidden">
 
 </div>
 </div>
@@ -731,12 +694,12 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copiado");
+      button.setAttribute("title", "Copied!");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copiado");
+        button.setAttribute("data-bs-title", "Copied!");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
@@ -779,7 +742,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/anabellanilom\.github\.io");
+        var filterRegex = new RegExp("\/en");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -1107,8 +1070,7 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
   });
   </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
+<footer class="footer"><div class="nav-footer">
     <div class="nav-footer-left">
 <p>© 2025 Anabella Molina. Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></p>
 </div>   
@@ -1119,17 +1081,12 @@ Estadísticas descriptivas de ministras en el período 1966 a 2023
 <p>Alojado en <a href="https://pages.github.com">GitHub Pages</a></p>
 </div>
   </div>
-</footer>
-
-<script type="application/javascript">
+</footer><script type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (_event) {
   if (window.bslib.Card) {
     window.bslib.Card.initializeAllCards();
   }
 }); 
 </script>
-  
-
-
-
-</body></html>
+</body>
+</html>
