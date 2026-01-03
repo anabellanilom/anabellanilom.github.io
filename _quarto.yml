@@ -14,13 +14,7 @@ website:
       - href: teaching.qmd
       - href: talks.qmd
       - href: consultoria.qmd
-        text: Consultoría 
-      - href: consultoria.en.qmd
-        text: Consulting
       - href: gestion.qmd
-        text: Gestión
-      - href: gestion.en.qmd
-        text: Management
     right:
       - icon: github
         href: https://github.com/anabellanilom

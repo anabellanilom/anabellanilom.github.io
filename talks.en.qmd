@@ -1,8 +1,9 @@
 ---
-title: "Talks and Presentations"
+title: "Talks"
 format: html
 editor: visual
 ---
+## Talks and presentations
 
 In this section I compile **talks, conferences, panels, and presentations** I have taken part in (and will take part in). The idea is simple: so you can see **what I’m working on**, where we discussed it, and (when available) access **materials** such as slides, posters, papers, or recordings.
 

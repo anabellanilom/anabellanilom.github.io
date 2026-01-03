@@ -1,8 +1,9 @@
 ---
-title: "Project Management and Editorial Management"
+title: "Management"
 format: html
 editor: visual
 ---
+# Project Management and Editorial Management
 
 ## Project and institutional relations coordinator
 
