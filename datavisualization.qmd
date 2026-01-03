@@ -1,5 +1,5 @@
 ---
-title: "Data visualization"
+title: "Dataviz"
 format: dashboard
 ---
 
@@ -104,6 +104,9 @@ base_pa <- AmericaLatina %>%
 #| warning: false
 #| fig-cap: Tabla 1. Estadísticas descriptivas de ministras en el período 1966 a 2023
 #| include: true
+#| fig-width: 14
+#| fig-height: 8
+#| fig-dpi: 300
 
 ##Chunk 3
 
@@ -139,6 +142,9 @@ tab_header(title = md("**Estadísticas descriptivas de representación de minist
 #| warning: false
 #| fig-cap: Tabla 2. Resumen global de representación de ministras en el período 1966 a 2023 por año
 #| include: false
+#| fig-width: 14
+#| fig-height: 8
+#| fig-dpi: 300
 
 ##Chunck 4
 # 1) Resumen por año
@@ -184,15 +190,18 @@ resumen_anual %>%
 #| warning: false
 #| fig-cap: Gráfico 2. Porcentaje de ministras en el período 1980 a 2023
 #| include: true
+#| fig-width: 14
+#| fig-height: 8
+#| fig-dpi: 300
 
 ##Chunk 7
 
 base_pa %>%
   filter(year>1980)%>%
   group_by(year, country_name) %>%
-  summarise(proporcion = mean(proporcion, na.rm = TRUE)) %>%
+  summarise(proporcion = mean(proporcion, na.rm = TRUE), .groups = "drop") %>%
   ggplot(aes(x = year, y = proporcion)) +
-  geom_line() +
+  geom_line(color = "steelblue", linewidth = 0.8) +
   scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
   labs(
     title = "Porcentaje de ministras en los gabinetes de 18 países de América Latina",
@@ -200,6 +209,7 @@ base_pa %>%
     x = "Año", y = "Porcentaje de ministras"
   ) +
   facet_wrap(~country_name)+
+  guides(colour = "none") +
   theme_minimal()
 ```
 
@@ -237,8 +247,8 @@ base_pa %>%
   scale_y_continuous(labels = percent_format(accuracy = 1)) +
   guides(fill = guide_none(),
          color = guide_none()) +
-  scale_fill_brewer(palette = "Pastel1") +
-  scale_color_brewer(palette = "Pastel1")+
+ scale_colour_paletteer_d("wesanderson::AsteroidCity3")+
+scale_fill_paletteer_d("wesanderson::AsteroidCity3")+
     theme_classic()
 
 ```
