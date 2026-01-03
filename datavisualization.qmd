@@ -19,6 +19,7 @@ library(tidyr)
 library(stringr)
 library(gt)
 library(ggplot2)
+library(paletteer)
 
 ## Leer base whogov
 
@@ -218,8 +219,8 @@ library(scales)
 base_pa %>%
   filter(year > 1980) %>%
   mutate(decada = paste0(floor(year / 10) * 10, "s")) %>%
-  ggplot(aes(x = decada, y = proporcion)) +
-  geom_boxplot() +
+  ggplot(aes(x = decada, y = proporcion, fill = decada)) +   # ✅ CAMBIO 1
+  geom_boxplot(alpha = 0.8) + 
   stat_summary(
     fun = mean,
     geom = "text",
@@ -234,6 +235,10 @@ base_pa %>%
     y = "Proporción de mujeres"
   ) +
   scale_y_continuous(labels = percent_format(accuracy = 1)) +
-  theme_minimal()
+  guides(fill = guide_none(),
+         color = guide_none()) +
+  scale_fill_brewer(palette = "Pastel1") +
+  scale_color_brewer(palette = "Pastel1")+
+    theme_classic()
 
 ```
