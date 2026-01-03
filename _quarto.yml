@@ -14,13 +14,13 @@ website:
       - href: teaching.qmd
       - href: talks.qmd
       - href: consultoria.qmd
-      text: consultoria 
+        text: consultoría 
       - href: consultoria.en.qmd
-      text: Consulting
+        text: Consulting
       - href: gestion.qmd
-      text: Gestion
+        text: Gestión
       - href: gestion.en.qmd
-      text: Management
+        text: Management
     right:
       - icon: github
         href: https://github.com/anabellanilom
