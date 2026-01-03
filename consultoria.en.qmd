@@ -1,8 +1,10 @@
 ---
-title: "Consulting and Applied Research"
+title: "Consulting"
 format: html
 editor: visual
 ---
+
+## Consulting and applied research
 
 I provide consulting and technical support for **applied research** projects on democracy, gender, and public policy. My work combines **data collection and systematization**, **database building**, the preparation of **executive-ready deliverables**, and support for outreach and dissemination activities.
 

@@ -3,9 +3,9 @@ title: "Data visualization"
 format: dashboard
 ---
 
-En esta sección muestro algunos trabajos en proceso. 
+In this section I show some works in progress.
 
-## Exporación datos sobre representación de las mujeres en los gabinetes de todo el mundo. Fuente 
+## Exploring data on women's representation in cabinets worldwide. Source
 
 ```{r}
 #| echo: false
@@ -133,107 +133,3 @@ fmt_percent(columns = c(prop_ministras, prom_pa, mediana_pa, iqr_pa), decimals =
 tab_header(title = md("**Estadísticas descriptivas de representación de ministras en el período 1966 a 2023**"), subtitle = " Región completa en todo el período")
 ```
 
-```{r}
-#| echo: false
-#| warning: false
-#| fig-cap: Tabla 2. Resumen global de representación de ministras en el período 1966 a 2023 por año
-#| include: false
-
-##Chunck 4
-# 1) Resumen por año
-resumen_anual <- base_pa %>%
-  group_by(year) %>%
-  summarise(
-    ministras_total = sum(n_female_total, na.rm = TRUE),
-    cargos_totales  = sum(n_total, na.rm = TRUE),
-    prop_ministras  = if_else(cargos_totales > 0, ministras_total / cargos_totales, NA_real_),
-    prom_pa         = mean(proporcion, na.rm = TRUE),   # promedio de proporción país-año
-    mediana_pa      = median(proporcion, na.rm = TRUE), # mediana de proporción país-año
-    iqr_pa          = IQR(proporcion, na.rm = TRUE),    # rango intercuartílico
-    n_pais_anio     = n()
-  ) %>%
-  arrange(year)
-
-# 2) Tabla con gt
-resumen_anual %>%
-  gt() %>%
-  cols_label(
-    year            = "Año",
-    ministras_total = "Total ministras",
-    cargos_totales  = "Cargos totales (año)",
-    prop_ministras  = "Proporción regional",
-    prom_pa         = "Promedio país-año",
-    mediana_pa      = "Mediana país-año",
-    iqr_pa          = "IQR país-año",
-    n_pais_anio     = "N país-año"
-  ) %>%
-  fmt_number(columns = c(ministras_total, cargos_totales, n_pais_anio), decimals = 0) %>%
-  fmt_percent(columns = c(prop_ministras, prom_pa, mediana_pa, iqr_pa), decimals = 1) %>%
-  tab_header(
-    title = md("**Resumen global de representación de ministras en el período 1966 a 2023 por año**"),
-    subtitle = "Región completa (1966–2023)"
-  )
-```
-
-## Row
-
-```{r}
-#| title: Porcentaje de ministras en América Latina 
-#| echo: false
-#| warning: false
-#| fig-cap: Gráfico 2. Porcentaje de ministras en el período 1980 a 2023
-#| include: true
-
-##Chunk 7
-
-base_pa %>%
-  filter(year>1980)%>%
-  group_by(year, country_name) %>%
-  summarise(proporcion = mean(proporcion, na.rm = TRUE)) %>%
-  ggplot(aes(x = year, y = proporcion)) +
-  geom_line() +
-  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
-  labs(
-    title = "Porcentaje de ministras en los gabinetes de 18 países de América Latina",
-    subtitle = "1980–2023",
-    x = "Año", y = "Porcentaje de ministras"
-  ) +
-  facet_wrap(~country_name)+
-  theme_minimal()
-```
-
-
-```{r}
-#| title: Representación de las mujeres en los gabinetes por década 
-#| echo: false
-#| warning: false
-#| fig-cap: Gráfico 3. Porcentaje de ministras en el período 1966 a 2023
-#| include: true
-
-
-library(dplyr)
-library(ggplot2)
-library(scales)
-
-base_pa %>%
-  filter(year > 1980) %>%
-  mutate(decada = paste0(floor(year / 10) * 10, "s")) %>%
-  ggplot(aes(x = decada, y = proporcion)) +
-  geom_boxplot() +
-  stat_summary(
-    fun = mean,
-    geom = "text",
-    aes(label = percent(after_stat(y), accuracy = 1)),
-    vjust = -0.6,
-    fontface = "bold",
-    color = "black"
-  ) +
-  labs(
-    title = "Distribución de la proporción de mujeres por década",
-    x = "Década",
-    y = "Proporción de mujeres"
-  ) +
-  scale_y_continuous(labels = percent_format(accuracy = 1)) +
-  theme_minimal()
-
-```
