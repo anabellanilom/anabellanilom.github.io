@@ -9,15 +9,18 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Sobre mí
-      - href: index.en.qmd
-        text: About me
       - href: publications.qmd
       - href: research.qmd
       - href: teaching.qmd
       - href: talks.qmd
       - href: consultoria.qmd
+      text: consultoria 
+      - href: consultoria.en.qmd
+      text: Consulting
       - href: gestion.qmd
+      text: Gestion
+      - href: gestion.en.qmd
+      text: Management
     right:
       - icon: github
         href: https://github.com/anabellanilom
