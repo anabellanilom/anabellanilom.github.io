@@ -253,21 +253,48 @@ girafe_options(
 
 ##Chunk 7
 
-base_pa %>%
-  filter(year>1980)%>%
+library(dplyr)
+library(ggplot2)
+library(ggiraph)
+library(scales)
+
+df <- base_pa %>%
+  filter(year > 1980) %>%
   group_by(year, country_name) %>%
   summarise(proporcion = mean(proporcion, na.rm = TRUE), .groups = "drop") %>%
-  ggplot(aes(x = year, y = proporcion)) +
+  mutate(
+    tooltip_txt = paste0(
+      "<b>", country_name, "</b>",
+      "<br>Año: ", year,
+      "<br>Ministras: ", percent(proporcion, accuracy = 0.1)
+    ),
+    id = paste(country_name, year, sep = "_")
+  )
+
+p <- ggplot(df, aes(x = year, y = proporcion, group = country_name)) +
   geom_line(color = "steelblue", linewidth = 0.8) +
-  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
+  ggiraph::geom_point_interactive(
+    aes(tooltip = tooltip_txt, data_id = id),
+    size = 1.8
+  ) +
+  scale_y_continuous(labels = percent_format(accuracy = 1)) +
   labs(
     title = "Porcentaje de ministras en los gabinetes de 18 países de América Latina",
     subtitle = "1980–2023",
     x = "Año", y = "Porcentaje de ministras"
   ) +
-  facet_wrap(~country_name)+
-  guides(colour = "none") +
+  facet_wrap(~country_name) +
   theme_minimal()
+
+g <- girafe(ggobj = p, width_svg = 10, height_svg = 7)
+
+girafe_options(
+  g,
+  opts_hover(css = "fill-opacity:1; r:4;"),
+  opts_tooltip(css = "background-color:white; padding:6px; border-radius:6px;"),
+  opts_zoom(min = 1, max = 5)
+)
+
 ```
 
 ```{r}
