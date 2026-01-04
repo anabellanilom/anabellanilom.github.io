@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-En esta sección muestro algunos trabajos en proceso. 
+En esta sección muestro algunos gráficos realizados para explorar datos.En esta ocasión  
 
 ## Representación de las mujeres en los gabinetes de todo el mundo. 
 
