@@ -103,7 +103,7 @@ base_pa <- AmericaLatina %>%
 #| title: Estadísticas descriptivas de ministras en el período 1966 a 2023
 #| echo: false
 #| warning: false
-#| fig-cap: Fuente. Elaboración propia
+#| fig-cap: "Fuente. Elaboración propia"
 #| include: true
 #| execute:
 #| fig-width: 14
