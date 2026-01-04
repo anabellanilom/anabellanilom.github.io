@@ -6,7 +6,7 @@ editor: visual
 
 En esta sección muestro algunos gráficos realizados para explorar datos.En esta ocasión provenientes de:
 
--   Nuffield Politics Research Centre. (s. f.). WhoGov dataset. Nuffield College, University of Oxford. Recuperado el 3 de enero de 2026, de https://politicscentre.nuffield.ox.ac.uk/whogov-dataset/
+-   Nuffield Politics Research Centre. (s. f.). WhoGov dataset. Nuffield College, University of Oxford. Recuperado el 3 de enero de 2026, de <https://politicscentre.nuffield.ox.ac.uk/whogov-dataset/>
 
 ## Representación de las mujeres en los gabinetes del mundo.
 
