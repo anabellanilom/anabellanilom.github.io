@@ -1,38 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/en/teaching.html</loc>
-    <lastmod>2026-01-02T23:12:15.131Z</lastmod>
-  </url>
-  <url>
-    <loc>/en/research.html</loc>
-    <lastmod>2026-01-02T22:57:15.446Z</lastmod>
-  </url>
-  <url>
-    <loc>/en/index.html</loc>
-    <lastmod>2026-01-02T23:39:54.946Z</lastmod>
-  </url>
-  <url>
-    <loc>/en/datavisualization.html</loc>
-    <lastmod>2026-01-04T02:20:17.526Z</lastmod>
-  </url>
-  <url>
-    <loc>/en/consultoria.html</loc>
-    <lastmod>2026-01-03T15:55:08.995Z</lastmod>
-  </url>
-  <url>
-    <loc>/en/gestion.html</loc>
-    <lastmod>2026-01-03T00:29:02.360Z</lastmod>
-  </url>
-  <url>
-    <loc>/en/publications.html</loc>
-    <lastmod>2026-01-02T22:49:47.212Z</lastmod>
-  </url>
-  <url>
-    <loc>/en/talks.html</loc>
-    <lastmod>2026-01-03T00:28:00.991Z</lastmod>
-  </url>
-  <url>
     <loc>https://anabellanilom.github.io/teaching.html</loc>
     <lastmod>2026-01-03T20:57:09.077Z</lastmod>
   </url>
@@ -46,7 +14,7 @@
   </url>
   <url>
     <loc>https://anabellanilom.github.io/datavisualization.html</loc>
-    <lastmod>2026-01-04T02:19:53.560Z</lastmod>
+    <lastmod>2026-01-04T16:50:43.528Z</lastmod>
   </url>
   <url>
     <loc>https://anabellanilom.github.io/consultoria.html</loc>
