@@ -102,21 +102,21 @@
     "href": "datavisualization.html",
     "title": "Dataviz",
     "section": "",
-    "text": "En esta sección muestro algunos gráficos realizados para explorar datos.En esta ocasión"
+    "text": "En esta sección muestro algunos gráficos realizados para explorar datos.En esta ocasión provenientes de:"
   },
   {
-    "objectID": "datavisualization.html#representación-de-las-mujeres-en-los-gabinetes-de-todo-el-mundo.",
-    "href": "datavisualization.html#representación-de-las-mujeres-en-los-gabinetes-de-todo-el-mundo.",
+    "objectID": "datavisualization.html#representación-de-las-mujeres-en-los-gabinetes-del-mundo.",
+    "href": "datavisualization.html#representación-de-las-mujeres-en-los-gabinetes-del-mundo.",
     "title": "Dataviz",
-    "section": "Representación de las mujeres en los gabinetes de todo el mundo.",
-    "text": "Representación de las mujeres en los gabinetes de todo el mundo.\n\n\n\n\n\n\n\n\nEstadísticas descriptivas de representación de ministras en el período 1966 a 2023\n\n\nRegión completa en todo el período\n\n\nTotal Ministras\nCargos totales (suma)\nProporción de ministras en todo el período\nPromedio país-año\nMediana país-año\nIQR país-año\nN país-año\n\n\n\n\n2,622\n21,345\n12.3%\n10.5%\n6.7%\n17.2%\n1,044\n\n\n\n\n\nFuente. Elaboración propia\n\n\n\n\n\n\n\nFuente: Elaboración propia."
+    "section": "Representación de las mujeres en los gabinetes del mundo.",
+    "text": "Representación de las mujeres en los gabinetes del mundo.\n\n\n\n\n\n\n\n\nEstadísticas descriptivas de representación de ministras en el período 1966 a 2023\n\n\nRegión completa en todo el período\n\n\nTotal Ministras\nCargos totales (suma)\nProporción de ministras en todo el período\nPromedio país-año\nMediana país-año\nIQR país-año\nN país-año\n\n\n\n\n2,622\n21,345\n12.3%\n10.5%\n6.7%\n17.2%\n1,044\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov - dataset\n\n\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset"
   },
   {
     "objectID": "datavisualization.html#porcentaje-de-ministras-en-américa-latina.-1980-2023",
     "href": "datavisualization.html#porcentaje-de-ministras-en-américa-latina.-1980-2023",
     "title": "Dataviz",
     "section": "Porcentaje de ministras en América Latina. 1980-2023",
-    "text": "Porcentaje de ministras en América Latina. 1980-2023\n\n\n\n\n\nFuente: Elaboración propia con datos de\n\n\n\n\n\n\n\n\n\nFuente: Elaboración propia con datos de"
+    "text": "Porcentaje de ministras en América Latina. 1980-2023\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset\n\n\n\n\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset"
   },
   {
     "objectID": "consultoria.html",
