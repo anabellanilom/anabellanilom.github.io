@@ -1,6 +1,7 @@
 ---
 title: "Dataviz"
-format: dashboard
+format: html
+editor: visual
 ---
 
 In this section I show some works in progress.
@@ -102,7 +103,7 @@ base_pa <- AmericaLatina %>%
 #| title: Estadísticas descriptivas de ministras en el período 1966 a 2023
 #| echo: false
 #| warning: false
-#| fig-cap: Tabla 1. Estadísticas descriptivas de ministras en el período 1966 a 2023
+#| fig-cap: Fuente. Elaboración propia
 #| include: true
 #| execute:
 #| fig-width: 14

@@ -103,7 +103,7 @@ base_pa <- AmericaLatina %>%
 #| title: Estadísticas descriptivas de ministras en el período 1966 a 2023
 #| echo: false
 #| warning: false
-#| fig-cap: Fuente: 
+#| fig-cap: Fuente. Elaboración propia
 #| include: true
 #| fig-width: 14
 #| fig-height: 8
@@ -143,9 +143,6 @@ tab_header(title = md("**Estadísticas descriptivas de representación de minist
 #| warning: false
 #| fig-cap: Tabla 2. Resumen global de representación de ministras en el período 1966 a 2023 por año
 #| include: false
-#| fig-width: 14
-#| fig-height: 8
-#| fig-dpi: 300
 
 ##Chunck 4
 # 1) Resumen por año
@@ -181,6 +178,27 @@ resumen_anual %>%
     title = md("**Resumen global de representación de ministras en el período 1966 a 2023 por año**"),
     subtitle = "Región completa (1966–2023)"
   )
+```
+```{r}
+#| echo: false
+#| warning: false
+#| fig-cap: Fuente. Elaboración propia.
+#| include: true
+
+## Chunk 5
+
+base_pa %>%
+  group_by(year) %>%
+  summarise(proporcion = mean(proporcion, na.rm = TRUE)) %>%
+  ggplot(aes(x = year, y = proporcion)) +
+  geom_line() +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
+  labs(
+    title = "Porcentaje de ministras en los gabinetes de 18 países de América Latina",
+    subtitle = "1966–2023",
+    x = "Año", y = "Proporción"
+  ) +
+  theme_minimal()
 ```
 
 ## Porcentaje de ministras en América Latina. 1980-2023
