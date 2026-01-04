@@ -23,6 +23,9 @@ library(stringr)
 library(gt)
 library(ggplot2)
 library(paletteer)
+library(gander)
+library(ellmer)
+library(usethis)
 
 ## Leer base whogov
 
@@ -189,18 +192,52 @@ resumen_anual %>%
 
 ## Chunk 5
 
-base_pa %>%
+library(ggiraph)
+library(scales)
+
+df <- base_pa %>%
   group_by(year) %>%
-  summarise(proporcion = mean(proporcion, na.rm = TRUE)) %>%
-  ggplot(aes(x = year, y = proporcion)) +
+  summarise(proporcion = mean(proporcion, na.rm = TRUE), .groups = "drop") %>%
+  mutate(
+    tooltip_txt = paste0(
+      "Año: ", year,
+      "<br>Proporción: ", percent(proporcion, accuracy = 0.1)
+    )
+  )
+
+p <- ggplot(df, aes(x = year, y = proporcion)) +
   geom_line() +
-  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
+  ggiraph::geom_point_interactive(
+    aes(
+      tooltip = tooltip_txt,   # lo que se ve al pasar el mouse
+      data_id = year           # id para hover/selección
+    ),
+    size = 2
+  ) +
+  scale_y_continuous(labels = percent_format(accuracy = 1)) +
   labs(
     title = "Porcentaje de ministras en los gabinetes de 18 países de América Latina",
     subtitle = "1966–2023",
     x = "Año", y = "Proporción"
   ) +
   theme_minimal()
+
+g <- girafe(ggobj = p, width_svg = 9, height_svg = 4)
+
+girafe_options(
+  g,
+  opts_hover(css = "fill-opacity:1; r:4;"),
+  opts_tooltip(css = "background-color:white; padding:6px; border-radius:6px;"),
+  opts_zoom(min = 1, max = 5)
+)
+
+
+
+
+
+
+
+
 ```
 
 ## Porcentaje de ministras en América Latina. 1980-2023
@@ -269,5 +306,6 @@ base_pa %>%
  scale_colour_paletteer_d("wesanderson::AsteroidCity3")+
 scale_fill_paletteer_d("wesanderson::AsteroidCity3")+
     theme_classic()
+
 
 ```
