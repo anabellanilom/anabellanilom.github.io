@@ -4,9 +4,11 @@ format: html
 editor: visual
 ---
 
-En esta sección muestro algunos gráficos realizados para explorar datos.En esta ocasión  
+En esta sección muestro algunos gráficos realizados para explorar datos.En esta ocasión provenientes de:
 
-## Representación de las mujeres en los gabinetes de todo el mundo. 
+-   Nuffield Politics Research Centre. (s. f.). WhoGov dataset. Nuffield College, University of Oxford. Recuperado el 3 de enero de 2026, de https://politicscentre.nuffield.ox.ac.uk/whogov-dataset/
+
+## Representación de las mujeres en los gabinetes del mundo.
 
 ```{r}
 #| echo: false
@@ -103,7 +105,7 @@ base_pa <- AmericaLatina %>%
 #| title: Estadísticas descriptivas de ministras en el período 1966 a 2023
 #| echo: false
 #| warning: false
-#| fig-cap: Fuente. Elaboración propia
+#| fig-cap: "Fuente: Elaboración propia con datos de whogov - dataset"
 #| include: true
 #| fig-width: 14
 #| fig-height: 8
@@ -178,10 +180,11 @@ resumen_anual %>%
     subtitle = "Región completa (1966–2023)"
   )
 ```
+
 ```{r}
 #| echo: false
 #| warning: false
-#| fig-cap: "Fuente: Elaboración propia."
+#| fig-cap: "Fuente: Elaboración propia con datos de whogov-dataset"
 #| include: true
 
 ## Chunk 5
@@ -205,7 +208,7 @@ base_pa %>%
 ```{r}
 #| echo: false
 #| warning: false
-#| fig-cap: "Fuente: Elaboración propia con datos de" 
+#| fig-cap: "Fuente: Elaboración propia con datos de whogov-dataset" 
 #| include: true
 #| fig-width: 14
 #| fig-height: 8
@@ -230,12 +233,11 @@ base_pa %>%
   theme_minimal()
 ```
 
-
 ```{r}
 #| title: Representación de las mujeres en los gabinetes por década. 1966 - 2023
 #| echo: false
 #| warning: false
-#| fig-cap: "Fuente: Elaboración propia con datos de"
+#| fig-cap: "Fuente: Elaboración propia con datos de whogov-dataset"
 #| include: true
 
 
