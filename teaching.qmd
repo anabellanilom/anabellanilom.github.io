@@ -3,15 +3,8 @@ title: "Actividad docente"
 format: html
 editor: visual
 ---
-::::: columns
-::: {.column width="40%"}
-![](images/PMET%20UNSAM-6.pdf){fig-align="left"}
 
-![](images/Curso%20virtual.pdf)
-:::
-
-::: {.column width="60%"}
-Mi docencia combina **métodos (cuantitativos y cualitativos)**, **política comparada** e **instituciones**, con experiencia en **grado y posgrado** en UBA, UTDT, UCALP y UNSAM.
+Mi docencia combina métodos (cuantitativos y cualitativos), política comparada e instituciones, con experiencia en grado y posgrado en UBA, UTDT, UCALP y UNSAM.
 
 ## Cursos actuales
 
@@ -60,5 +53,4 @@ Lic. en Ciencia Política y Relaciones Internacionales, UTDT — *2020–2023*
 
 **Profesora Asistente — Introducción a la Ciencia Política**\
 Lic. en Ciencia Política y Relaciones Internacionales, UTDT — *2018–2021*
-:::
-:::::
+
