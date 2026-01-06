@@ -4,15 +4,8 @@ format: html
 editor: visual
 ---
 
-::::: columns
-::: {.column width="40%"}
-![](images/PMET%20UNSAM-6.pdf){fig-align="left"}
 
-![](images/Curso%20virtual.pdf)
-:::
-
-::: {.column width="60%"}
-My teaching combines **methods (quantitative and qualitative)**, **comparative politics**, and **institutions**, with experience at both the **undergraduate and graduate** levels at UBA, UTDT, UCALP, and UNSAM.
+My teaching combines methods (quantitative and qualitative), comparative politics, and institutions, with experience at both the undergraduate and graduate levels at UBA, UTDT, UCALP, and UNSAM.
 
 ## Current courses
 
