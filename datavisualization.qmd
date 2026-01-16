@@ -274,7 +274,7 @@ p2 <- ggplot(df, aes(x = year, y = proporcion)) +
   ) +
   theme_minimal()
 
-p2 + theme(text = element_text(family = "Inter"))
+#p2 + theme(text = element_text(family = "Inter"))
 
 g <- girafe(ggobj = p2, width_svg = 9, height_svg = 4)
 
