@@ -105,15 +105,29 @@
     "text": "En esta sección muestro algunos gráficos realizados para explorar datos.En esta ocasión provenientes de:"
   },
   {
-    "objectID": "datavisualization.html#representación-de-las-mujeres-en-los-gabinetes-del-mundo.",
-    "href": "datavisualization.html#representación-de-las-mujeres-en-los-gabinetes-del-mundo.",
+    "objectID": "datavisualization.html#datos-sobre-representación-de-las-mujeres-en-los-gabinetes-del-mundo-entre-1966-y-2023",
+    "href": "datavisualization.html#datos-sobre-representación-de-las-mujeres-en-los-gabinetes-del-mundo-entre-1966-y-2023",
     "title": "Dataviz",
-    "section": "Representación de las mujeres en los gabinetes del mundo.",
-    "text": "Representación de las mujeres en los gabinetes del mundo.\n\n\n\n\n\n\n\n\nEstadísticas descriptivas de representación de ministras en el período 1966 a 2023\n\n\nRegión completa en todo el período\n\n\nTotal Ministras\nCargos totales (suma)\nProporción de ministras en todo el período\nPromedio país-año\nMediana país-año\nIQR país-año\nN país-año\n\n\n\n\n2,622\n21,345\n12.3%\n10.5%\n6.7%\n17.2%\n1,044\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov - dataset\n\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset"
+    "section": "Datos sobre representación de las mujeres en los gabinetes del mundo entre 1966 y 2023",
+    "text": "Datos sobre representación de las mujeres en los gabinetes del mundo entre 1966 y 2023\n\n\n\n\n\n\n\n\nEstadísticas descriptivas de ministras (1966–2023)\n\n\nRegión completa — resumen global del período\n\n\n\nConteos\n\n\nIndicador clave\n\n\nDistribución (país-año)\n\n\n\nTotal ministras\nCargos totales\nN (país-año)\nProporción global\nPromedio país-año\nMediana país-año\nIQR país-año\n\n\n\n\n2.622,00\n21.345,00\n1.044,00\n12.3%\n10.5%\n6.7%\n17.2%\n\n\n\nFuente: Elaboración propia con datos de WhoGov.\n\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov - dataset"
+  },
+  {
+    "objectID": "datavisualization.html#datos-sobre-américa-latina",
+    "href": "datavisualization.html#datos-sobre-américa-latina",
+    "title": "Dataviz",
+    "section": "Datos sobre América Latina",
+    "text": "Datos sobre América Latina\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset\n\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset"
   },
   {
     "objectID": "datavisualization.html#porcentaje-de-ministras-en-américa-latina.-1980-2023",
     "href": "datavisualization.html#porcentaje-de-ministras-en-américa-latina.-1980-2023",
+    "title": "Dataviz",
+    "section": "Porcentaje de ministras en América Latina. 1980-2023",
+    "text": "Porcentaje de ministras en América Latina. 1980-2023\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset"
+  },
+  {
+    "objectID": "datavisualization.html#porcentaje-de-ministras-en-américa-latina.-1980-2023-1",
+    "href": "datavisualization.html#porcentaje-de-ministras-en-américa-latina.-1980-2023-1",
     "title": "Dataviz",
     "section": "Porcentaje de ministras en América Latina. 1980-2023",
     "text": "Porcentaje de ministras en América Latina. 1980-2023\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset\n\n\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset"
@@ -193,13 +207,13 @@
     "href": "talks.html",
     "title": "Charlas",
     "section": "",
-    "text": "En esta sección reúno charlas, conferencias, paneles y presentaciones en las que participé y en las que voy a participar. La idea es simple: que puedas ver en qué estoy trabajando, dónde lo conversamos, y (cuando se puede) acceder a materiales: slides, pósters, papers o grabaciones.\n\nPróximas: eventos confirmados (si es virtual, incluyo huso horario).\nArchivo: actividades pasadas, con enlaces a materiales cuando estén disponibles.\n\n\n\n\n\n\nEn esta charla presenté un resumen de mi tesis de doctorado: ¿Personalismo o institucionalización? Los dos caminos hacia los gabinetes presidenciales paritarios en América Latina (1999–2019), para el GICP de Género y Políticas Públicas de la UBA."
+    "text": "En esta sección reúno charlas, conferencias, paneles y presentaciones en las que participé y en las que voy a participar. La idea es que puedas ver en qué estoy trabajando, dónde lo conversamos, y (cuando se puede) acceder a materiales: slides, pósters, papers o grabaciones.\n\nPróximas: eventos confirmados (si es virtual, incluyo huso horario).\nArchivo: actividades pasadas, con enlaces a materiales cuando estén disponibles.\n\n\n\n\n\n\nEn esta charla presenté un resumen de mi tesis de doctorado: ¿Personalismo o institucionalización? Los dos caminos hacia los gabinetes presidenciales paritarios en América Latina (1999–2019), para el GICP de Género y Políticas Públicas de la UBA."
   },
   {
     "objectID": "talks.html#charlas-y-presentaciones",
     "href": "talks.html#charlas-y-presentaciones",
     "title": "Charlas",
     "section": "",
-    "text": "En esta sección reúno charlas, conferencias, paneles y presentaciones en las que participé y en las que voy a participar. La idea es simple: que puedas ver en qué estoy trabajando, dónde lo conversamos, y (cuando se puede) acceder a materiales: slides, pósters, papers o grabaciones.\n\nPróximas: eventos confirmados (si es virtual, incluyo huso horario).\nArchivo: actividades pasadas, con enlaces a materiales cuando estén disponibles.\n\n\n\n\n\n\nEn esta charla presenté un resumen de mi tesis de doctorado: ¿Personalismo o institucionalización? Los dos caminos hacia los gabinetes presidenciales paritarios en América Latina (1999–2019), para el GICP de Género y Políticas Públicas de la UBA."
+    "text": "En esta sección reúno charlas, conferencias, paneles y presentaciones en las que participé y en las que voy a participar. La idea es que puedas ver en qué estoy trabajando, dónde lo conversamos, y (cuando se puede) acceder a materiales: slides, pósters, papers o grabaciones.\n\nPróximas: eventos confirmados (si es virtual, incluyo huso horario).\nArchivo: actividades pasadas, con enlaces a materiales cuando estén disponibles.\n\n\n\n\n\n\nEn esta charla presenté un resumen de mi tesis de doctorado: ¿Personalismo o institucionalización? Los dos caminos hacia los gabinetes presidenciales paritarios en América Latina (1999–2019), para el GICP de Género y Políticas Públicas de la UBA."
   }
 ]

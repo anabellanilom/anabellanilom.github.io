@@ -8,13 +8,13 @@ En esta sección muestro algunos gráficos realizados para explorar datos.En est
 
 -   Nuffield Politics Research Centre. (s. f.). WhoGov dataset. Nuffield College, University of Oxford. Recuperado el 3 de enero de 2026, de <https://politicscentre.nuffield.ox.ac.uk/whogov-dataset/>
 
-## Representación de las mujeres en los gabinetes del mundo.
+## Datos sobre representación de las mujeres en los gabinetes del mundo entre 1966 y 2023
 
 ```{r}
 #| echo: false
 #| warning: false
 #| include: false
-## Chunk 1
+
 library (tidyverse)
 library(readr)
 library (dplyr)
@@ -23,10 +23,10 @@ library(stringr)
 library(gt)
 library(ggplot2)
 library(paletteer)
-library(gander)
 library(ellmer)
-library(usethis)
-
+library(showtext)
+library(sysfonts)
+library(ggtext)
 ## Leer base whogov
 
 WhoGovData <- read_csv("Data/WhoGov_crosssectional_V3.1.csv")
@@ -61,7 +61,6 @@ setdiff(codigos, unique(WhoGovData$country_isocode))
 #| warning: false
 #| include: false
 
-## Chunck 2
 #Proporción de mujeres
 Prop_mujeres <- AmericaLatina %>%
   mutate(
@@ -114,8 +113,6 @@ base_pa <- AmericaLatina %>%
 #| fig-height: 8
 #| fig-dpi: 300
 
-##Chunk 3
-
 resumen_global <- base_pa %>%
 summarise(
 ministras_total = sum(n_female_total, na.rm = TRUE),
@@ -128,19 +125,75 @@ n_pais_anio     = n()
 )
 
 resumen_global %>%
-gt() %>%
-cols_label(
-ministras_total = "Total Ministras",
-cargos_totales  = "Cargos totales (suma)",
-prop_ministras  = "Proporción de ministras en todo el período",
-prom_pa         = "Promedio país-año",
-mediana_pa      = "Mediana país-año",
-iqr_pa          = "IQR país-año",
-n_pais_anio     = "N país-año"
-) %>%
-fmt_number(columns = c(ministras_total, cargos_totales, n_pais_anio), decimals = 0) %>%
-fmt_percent(columns = c(prop_ministras, prom_pa, mediana_pa, iqr_pa), decimals = 1) %>%
-tab_header(title = md("**Estadísticas descriptivas de representación de ministras en el período 1966 a 2023**"), subtitle = " Región completa en todo el período")
+  gt() %>%
+  # Etiquetas
+  cols_label(
+    ministras_total = "Total ministras",
+    cargos_totales  = "Cargos totales",
+    prop_ministras  = "Proporción global",
+    prom_pa         = "Promedio país-año",
+    mediana_pa      = "Mediana país-año",
+    iqr_pa          = "IQR país-año",
+    n_pais_anio     = "N (país-año)"
+  ) %>%
+  # Agrupar columnas (se ve MUCHO más prolijo)
+  tab_spanner(
+    label = "Conteos",
+    columns = c(ministras_total, cargos_totales, n_pais_anio)
+  ) %>%
+  tab_spanner(
+    label = "Distribución (país-año)",
+    columns = c(prom_pa, mediana_pa, iqr_pa)
+  ) %>%
+  tab_spanner(
+    label = "Indicador clave",
+    columns = c(prop_ministras)
+  ) %>%
+  # Formatos numéricos
+  fmt_integer(columns = c(ministras_total, cargos_totales, n_pais_anio)) %>%
+  fmt_number(columns = c(ministras_total, cargos_totales, n_pais_anio), sep_mark = ".", dec_mark = ",") %>%
+  fmt_percent(columns = c(prop_ministras, prom_pa, mediana_pa, iqr_pa), decimals = 1) %>%
+  # Alineación + ancho (tabla “respira”)
+  cols_align(align = "center", columns = everything()) %>%
+  cols_width(
+    everything() ~ px(150),
+    prop_ministras ~ px(170)
+  ) %>%
+  # Header + fuente (más editorial)
+  tab_header(
+    title = md("**Estadísticas descriptivas de ministras (1966–2023)**"),
+    subtitle = md("Región completa — resumen global del período")
+  ) %>%
+  # Estilo general: limpio y consistente
+  opt_table_outline() %>%
+  opt_row_striping() %>%
+  tab_options(
+    table.font.names = c("Source Sans 3", "Source Sans Pro", "Arial"),
+    table.font.size = px(14),
+    heading.title.font.size = px(18),
+    heading.subtitle.font.size = px(13),
+    table.border.top.style = "solid",
+    table.border.top.width = px(2),
+    table.border.top.color = "gray80",
+    table.border.bottom.style = "solid",
+    table.border.bottom.width = px(2),
+    table.border.bottom.color = "gray80",
+    data_row.padding = px(10),
+    column_labels.padding = px(10)
+  ) %>%
+  # Resaltar el indicador clave
+  tab_style(
+    style = list(
+      cell_fill(color = "#F3F6FF"),
+      cell_text(weight = "bold")
+    ),
+    locations = cells_body(columns = prop_ministras)
+  ) %>%
+  # Fuente como nota (mejor que fig-cap para tablas)
+  tab_source_note(
+    source_note = md("**Fuente:** Elaboración propia con datos de *WhoGov*.")
+  )
+
 ```
 
 ```{r}
@@ -148,7 +201,314 @@ tab_header(title = md("**Estadísticas descriptivas de representación de minist
 #| warning: false
 #| include: false
 
-##Chunck 4
+# 1) Resumen por año
+resumen_anual <- base_pa %>%
+  group_by(year) %>%
+  summarise(
+    ministras_total = sum(n_female_total, na.rm = TRUE),
+    cargos_totales  = sum(n_total, na.rm = TRUE),
+    prop_ministras  = if_else(cargos_totales > 0, ministras_total / cargos_totales, NA_real_),
+    prom_pa         = mean(proporcion, na.rm = TRUE),   # promedio de proporción país-año
+    mediana_pa      = median(proporcion, na.rm = TRUE), # mediana de proporción país-año
+    iqr_pa          = IQR(proporcion, na.rm = TRUE),    # rango intercuartílico
+    n_pais_anio     = n()
+  ) %>%
+  arrange(year)
+
+# 2) Tabla con gt
+resumen_anual %>%
+  gt() %>%
+  cols_label(
+    year            = "Año",
+    ministras_total = "Total ministras",
+    cargos_totales  = "Cargos totales (año)",
+    prop_ministras  = "Proporción regional",
+    prom_pa         = "Promedio país-año",
+    mediana_pa      = "Mediana país-año",
+    iqr_pa          = "IQR país-año",
+    n_pais_anio     = "N país-año"
+  ) %>%
+  fmt_number(columns = c(ministras_total, cargos_totales, n_pais_anio), decimals = 0) %>%
+  fmt_percent(columns = c(prop_ministras, prom_pa, mediana_pa, iqr_pa), decimals = 1) %>%
+  tab_header(
+    title = md("**Resumen global de representación de ministras en el período 1966 a 2023 por año**"),
+    subtitle = "Región completa (1966–2023)"
+  )
+```
+
+## Datos sobre América Latina
+
+```{r}
+#| echo: false
+#| warning: false
+#| fig-cap: "Fuente: Elaboración propia con datos de whogov-dataset"
+#| include: true
+
+library(ggiraph)
+library(scales)
+
+df <- base_pa %>%
+  group_by(year) %>%
+  summarise(proporcion = mean(proporcion, na.rm = TRUE), .groups = "drop") %>%
+  mutate(
+    tooltip_txt = paste0(
+      "Año: ", year,
+      "<br>Proporción: ", percent(proporcion, accuracy = 0.1)
+    )
+  )
+
+p2 <- ggplot(df, aes(x = year, y = proporcion)) +
+  geom_line() +
+  ggiraph::geom_point_interactive(
+    aes(
+      tooltip = tooltip_txt,   # lo que se ve al pasar el mouse
+      data_id = year           # id para hover/selección
+    ),
+    size = 2
+  ) +
+  scale_y_continuous(labels = percent_format(accuracy = 1)) +
+  labs(
+    title = "Porcentaje de ministras en los gabinetes de 18 países de América Latina",
+    subtitle = "1966–2023",
+    x = "Año", y = "Porcentaje de ministras"
+  ) +
+  theme_minimal()
+
+p2 + theme(text = element_text(family = "Inter"))
+
+g <- girafe(ggobj = p2, width_svg = 9, height_svg = 4)
+
+girafe_options(
+  g,
+  opts_hover(css = "fill-opacity:1; r:4;"),
+  opts_tooltip(css = "background-color:white; padding:6px; border-radius:6px;"),
+  opts_zoom(min = 1, max = 5)
+)
+
+```
+
+## Porcentaje de ministras en América Latina. 1980-2023
+
+```{r}
+#| echo: false
+#| warning: false
+#| fig-cap: "Fuente: Elaboración propia con datos de whogov-dataset" 
+#| include: true
+#| fig-width: 14
+#| fig-height: 8
+#| fig-dpi: 300
+
+library(dplyr)
+library(ggplot2)
+library(ggiraph)
+library(scales)
+
+df <- base_pa %>%
+  filter(year > 1980) %>%
+  group_by(year, country_name) %>%
+  summarise(proporcion = mean(proporcion, na.rm = TRUE), .groups = "drop") %>%
+  mutate(
+    tooltip_txt = paste0(
+      "<b>", country_name, "</b>",
+      "<br>Año: ", year,
+      "<br>Ministras: ", percent(proporcion, accuracy = 0.1)
+    ),
+    id = paste(country_name, year, sep = "_")
+  )
+
+p <- ggplot(df, aes(x = year, y = proporcion, group = country_name)) +
+  geom_line(color = "steelblue", linewidth = 0.8) +
+  ggiraph::geom_point_interactive(
+    aes(tooltip = tooltip_txt, data_id = id),
+    size = 1.8
+  ) +
+  scale_y_continuous(labels = percent_format(accuracy = 1)) +
+  labs(
+    title = "Porcentaje de ministras en los gabinetes de 18 países de América Latina",
+    subtitle = "1980–2023",
+    x = "Año", y = "Porcentaje de ministras"
+  ) +
+  facet_wrap(~country_name) +
+  theme_minimal()
+
+g <- girafe(ggobj = p, width_svg = 10, height_svg = 7)
+
+girafe_options(
+  g,
+  opts_hover(css = "fill-opacity:1; r:4;"),
+  opts_tooltip(css = "background-color:white; padding:6px; border-radius:6px;"),
+  opts_zoom(min = 1, max = 5)
+)
+
+```
+
+```{r}
+#| title: Representación de las mujeres en los gabinetes por década. 1966 - 2023
+#| echo: false
+#| warning: false
+#| fig-cap: "Fuente: Elaboración propia con datos de whogov-dataset"
+#| include: true
+
+library(dplyr)
+library(ggplot2)
+library(scales)
+
+p1<- base_pa %>%
+  filter(year > 1980) %>%
+  mutate(decada = paste0(floor(year / 10) * 10, "s")) %>%
+  ggplot(aes(x = decada, y = proporcion, fill = decada)) +   # ✅ CAMBIO 1
+  geom_boxplot(alpha = 0.8) + 
+  stat_summary(
+    fun = mean,
+    geom = "text",
+    aes(label = percent(after_stat(y), accuracy = 1)),
+    vjust = -0.6,
+    fontface = "bold",
+    color = "black"
+  ) +
+  labs(title = "América Latina",
+    x = "Década",
+    y = "Porcentaje de ministras"
+  ) +
+  scale_y_continuous(labels = percent_format(accuracy = 1)) +
+  guides(fill = guide_none(),
+         color = guide_none()) +
+ scale_colour_paletteer_d("wesanderson::AsteroidCity3")+
+scale_fill_paletteer_d("wesanderson::AsteroidCity3")+
+    theme_classic()
+
+```
+
+```{r}
+#| echo: false
+#| warning: false
+#| include: true
+
+library(patchwork)
+patchwork<- p1 / p2
+patchwork + plot_annotation(
+  title = 'Evolución en el tiempo de la representación de las mujeres en los gabinetes de América Latina')
+
+library(patchwork)
+library(ggtext)
+
+patchwork <- p1 / p2
+
+patchwork +
+  plot_annotation(
+    title = paste0(
+      "<span style='font-size:18pt; font-weight:700;'>",
+      "Evolución en el tiempo de la representación de las mujeres",
+      "</span><br>",
+      "<span style='font-size:18pt; font-weight:700;'>",
+      "en los gabinetes de América Latina",
+      "</span>"
+    ),
+    theme = theme_minimal(base_size = 11) +
+      theme(
+        plot.title = ggtext::element_markdown(
+          margin = margin(b = 6),
+          lineheight = 1.1
+        ),
+        plot.subtitle = ggtext::element_markdown(
+          margin = margin(b = 10),
+          lineheight = 1.1
+        ),
+        plot.caption = ggtext::element_markdown(
+          margin = margin(t = 10)
+        )
+      )
+  )
+
+```
+
+```{r}
+#| echo: false
+#| warning: false
+#| include: true
+
+base_paMundo <-WhoGovData  %>%
+  mutate(year = as.integer(year)) %>%
+  group_by(country_name, year) %>%
+  summarise(
+    n_female_total = sum(n_female_total, na.rm = TRUE),
+    n_total        = sum(n_total,        na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  mutate(proporcion = if_else(n_total > 0, n_female_total / n_total, NA_real_))
+
+Prop_mujeresMundo <- WhoGovData %>%
+  mutate(
+    year = as.integer(year),
+    year_country = paste(year, country_name)  # o unite("year_country", year, country_name, sep = " ", remove = FALSE)
+  ) %>%
+  group_by(year_country, year, country_name) %>%
+  summarise(
+    n_female_total = sum(n_female_total, na.rm = TRUE),
+    n_total        = sum(n_total,        na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    proporcion = if_else(n_total > 0, n_female_total / n_total, NA_real_),
+    porcentaje = 100 * proporcion
+  )%>%
+  arrange(country_name)
+
+
+dfmundo <- base_paMundo %>%
+  group_by(year) %>%
+  summarise(proporcion = mean(proporcion, na.rm = TRUE), .groups = "drop") %>%
+  mutate(
+    tooltip_txt = paste0(
+      "Año: ", year,
+      "<br>Proporción: ", percent(proporcion, accuracy = 0.1)
+    )
+  )
+
+## Plot Boxplot décadas en todo el mundo 
+p3<- base_paMundo %>%
+  filter(year > 1980) %>%
+  mutate(decada = paste0(floor(year / 10) * 10, "s")) %>%
+  ggplot(aes(x = decada, y = proporcion, fill = decada)) +   # ✅ CAMBIO 1
+  geom_boxplot(alpha = 0.8) + 
+  stat_summary(
+    fun = mean,
+    geom = "text",
+    aes(label = percent(after_stat(y), accuracy = 1)),
+    vjust = -0.6,
+    fontface = "bold",
+    color = "black"
+  ) +
+  labs(title = "Todo el mundo",
+    x = "Década",
+    y = "Porcentaje promedio de mujeres en los gabinetes"
+  ) +
+  scale_y_continuous(labels = percent_format(accuracy = 1)) +
+  guides(fill = guide_none(),
+         color = guide_none()) +
+ scale_colour_paletteer_d("wesanderson::AsteroidCity3")+
+scale_fill_paletteer_d("wesanderson::AsteroidCity3")+
+    theme_classic()
+```
+
+```{r}
+#| echo: false
+#| warning: false
+#| include: true
+
+library(patchwork)
+patchwork<- p3+p1
+patchwork + plot_annotation(
+  title = 'Comparación evolución en el tiempo de la representación de las mujeres en los gabinetes del mundo y de América Latina')
+
+```
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| include: false
+
 # 1) Resumen por año
 resumen_anual <- base_pa %>%
   group_by(year) %>%
@@ -190,8 +550,6 @@ resumen_anual %>%
 #| fig-cap: "Fuente: Elaboración propia con datos de whogov-dataset"
 #| include: true
 
-## Chunk 5
-
 library(ggiraph)
 library(scales)
 
@@ -231,13 +589,6 @@ girafe_options(
   opts_zoom(min = 1, max = 5)
 )
 
-
-
-
-
-
-
-
 ```
 
 ## Porcentaje de ministras en América Latina. 1980-2023
@@ -250,8 +601,6 @@ girafe_options(
 #| fig-width: 14
 #| fig-height: 8
 #| fig-dpi: 300
-
-##Chunk 7
 
 library(dplyr)
 library(ggplot2)
