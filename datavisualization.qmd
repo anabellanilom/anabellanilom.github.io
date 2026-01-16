@@ -401,8 +401,11 @@ patchwork +
     ),
     theme = theme_minimal(base_size = 11) +
       theme(
-        plot.title = ggtext::element_markdown(
-          margin = margin(b = 6),
+        plot.title = ggtext::element_markdown(family = "OPTIAuvantGothic-DemiBold", 
+                                  size = 24, 
+                                  face = "bold",
+                                  colour = "#200000",
+                                  margin = margin(12, 0, 12, 0),
           lineheight = 1.1
         ),
         plot.subtitle = ggtext::element_markdown(
