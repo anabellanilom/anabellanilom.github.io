@@ -10,7 +10,7 @@ editor: visual
   </div>
   <div class="hero-text">
     <h1>Anabella Molina</h1>
-    <p class="hero-tagline">Politóloga · Doctora en Ciencias Sociales (UBA) · Género e instituciones políticas en América Latina</p>
+    <p class="hero-tagline">Polit&oacute;loga &middot; Doctora en Ciencias Sociales (UBA) &middot; G&eacute;nero e instituciones pol&iacute;ticas en Am&eacute;rica Latina</p>
     <div class="hero-buttons">
       <a href="cv/CV_Anabella_Molina.pdf" class="btn-primary" target="_blank">Ver CV</a>
       <a href="#contacto" class="btn-secondary">Contacto</a>
@@ -29,23 +29,23 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
 <div class="timeline">
   <div class="timeline-item">
     <span class="timeline-year">2013</span>
-    <div class="timeline-desc">Licenciada en Ciencia Política — Universidad de Buenos Aires</div>
+    <div class="timeline-desc">Licenciada en Ciencia Pol&iacute;tica &mdash; Universidad de Buenos Aires</div>
   </div>
   <div class="timeline-item">
     <span class="timeline-year">2020</span>
-    <div class="timeline-desc">Estancia de investigación — Universidad de Lisboa</div>
+    <div class="timeline-desc">Estancia de investigaci&oacute;n &mdash; Universidad de Lisboa</div>
   </div>
   <div class="timeline-item">
     <span class="timeline-year">2021</span>
-    <div class="timeline-desc">Maestría en Ciencia Política — Universidad Torcuato Di Tella</div>
+    <div class="timeline-desc">Maestr&iacute;a en Ciencia Pol&iacute;tica &mdash; Universidad Torcuato Di Tella</div>
   </div>
   <div class="timeline-item">
     <span class="timeline-year">2023</span>
-    <div class="timeline-desc">Estancia de investigación — Universidad de Lisboa</div>
+    <div class="timeline-desc">Estancia de investigaci&oacute;n &mdash; Universidad de Lisboa</div>
   </div>
   <div class="timeline-item">
     <span class="timeline-year">2025</span>
-    <div class="timeline-desc">Doctora en Ciencias Sociales — Universidad de Buenos Aires</div>
+    <div class="timeline-desc">Doctora en Ciencias Sociales &mdash; Universidad de Buenos Aires</div>
   </div>
 </div>
 
@@ -53,38 +53,38 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
 
 <div class="services-grid">
   <a href="research.qmd" class="service-card">
-    <span class="service-icon">🔎</span>
-    <h3>Investigación</h3>
-    <p>Género, instituciones políticas y métodos comparados en América Latina.</p>
+    <span class="service-icon">&#128269;</span>
+    <h3>Investigaci&oacute;n</h3>
+    <p>G&eacute;nero, instituciones pol&iacute;ticas y m&eacute;todos comparados en Am&eacute;rica Latina.</p>
   </a>
   <a href="consultoria.qmd" class="service-card">
-    <span class="service-icon">💼</span>
-    <h3>Consultoría</h3>
-    <p>Investigación aplicada, diseño de encuestas y articulación institucional.</p>
+    <span class="service-icon">&#128188;</span>
+    <h3>Consultor&iacute;a</h3>
+    <p>Investigaci&oacute;n aplicada, dise&ntilde;o de encuestas y articulaci&oacute;n institucional.</p>
   </a>
   <a href="teaching.qmd" class="service-card">
-    <span class="service-icon">🎓</span>
+    <span class="service-icon">&#127891;</span>
     <h3>Docencia</h3>
-    <p>Métodos cuantitativos y cualitativos, política comparada e instituciones.</p>
+    <p>M&eacute;todos cuantitativos y cualitativos, pol&iacute;tica comparada e instituciones.</p>
   </a>
   <a href="datavisualization.qmd" class="service-card">
-    <span class="service-icon">📊</span>
+    <span class="service-icon">&#128202;</span>
     <h3>Dataviz</h3>
-    <p>Visualizaciones para explorar y comunicar datos políticos.</p>
+    <p>Visualizaciones para explorar y comunicar datos pol&iacute;ticos.</p>
   </a>
 </div>
 
 ## Intereses
 
 <ul class="tag-list">
-  <li>Género y poder ejecutivo</li>
+  <li>G&eacute;nero y poder ejecutivo</li>
   <li>Gabinetes y reclutamiento ministerial</li>
   <li>Instituciones y paridad</li>
-  <li>Representación política</li>
-  <li>Política comparada en América Latina</li>
+  <li>Representaci&oacute;n pol&iacute;tica</li>
+  <li>Pol&iacute;tica comparada en Am&eacute;rica Latina</li>
   <li>QCA</li>
   <li>Encuestas</li>
-  <li>Análisis mixto</li>
+  <li>An&aacute;lisis mixto</li>
 </ul>
 
 ## Stack de trabajo
@@ -100,7 +100,7 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
 
 <div id="contacto" class="contact-section">
   <h2>Contacto</h2>
-  <p>¿Querés conversar sobre un proyecto, charla o colaboración? Escribime.</p>
+  <p>&iquest;Quer&eacute;s conversar sobre un proyecto, charla o colaboraci&oacute;n? Escribime.</p>
   <div class="contact-icons">
     <a href="https://github.com/anabellanilom" target="_blank" title="GitHub"><i class="bi bi-github"></i></a>
     <a href="https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es" target="_blank" title="Google Scholar"><i class="bi bi-mortarboard"></i></a>
