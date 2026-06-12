@@ -27,7 +27,7 @@ R · Quarto · Git/GitHub · Tidyverse · Reproducibility · Open data
 - Gender and executive power; cabinets and ministerial recruitment
 - Institutions, parity rules, and political representation
 - Comparative politics in Latin America
--Methods: QCA, surveys, mixed-methods analysis, and R
+- Methods: QCA, surveys, mixed-methods analysis, and R
 
 ### Education
 

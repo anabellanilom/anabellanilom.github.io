@@ -4,6 +4,7 @@ format: html
 editor: visual
 ---
 
+
 ::::: columns
 ::: {.column width="30%"}
 ![](images/perfil-circulo-512.png){.profile-pic}
@@ -23,20 +24,20 @@ R · Quarto · Git/GitHub · Tidyverse · Reproducibilidad · Datos abiertos
 
 ## Intereses
 
--   Género y poder ejecutivo; gabinetes y reclutamiento ministerial\
--   Instituciones, reglas de paridad y representación política\
--   Política comparada en América Latina\
--   Métodos: QCA, encuestas, análisis mixto y R
+- Género y poder ejecutivo; gabinetes y reclutamiento ministerial\
+- Instituciones, reglas de paridad y representación política\
+- Política comparada en América Latina\
+- Métodos: QCA, encuestas, análisis mixto y R
 
 ## Educación
 
--   **Doctora en Ciencias Sociales** — Universidad de Buenos Aires (2025)\
--   **Maestría en Ciencia Política** — Universidad Torcuato Di Tella (2021)
--   **Licenciada en Ciencia Polítca** - Universidad de Buenos Aires (2013)
+- **Doctora en Ciencias Sociales** — Universidad de Buenos Aires (2025)\
+- **Maestría en Ciencia Política** — Universidad Torcuato Di Tella (2021)
+- **Licenciada en Ciencia Polítca** - Universidad de Buenos Aires (2013)
 
 ## Estancias de investigación
 
--   **Universidad de Lisboa** — Estancia de investigación (2020)\
--   **Universidad de Lisboa** — Estancia de investigación (2023)
+- **Universidad de Lisboa** — Estancia de investigación (2020)\
+- **Universidad de Lisboa** — Estancia de investigación (2023)
 :::
 :::::

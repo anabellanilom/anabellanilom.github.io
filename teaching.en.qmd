@@ -4,7 +4,6 @@ format: html
 editor: visual
 ---
 
-
 My teaching combines methods (quantitative and qualitative), comparative politics, and institutions, with experience at both the undergraduate and graduate levels at UBA, UTDT, UCALP, and UNSAM.
 
 ## Current courses
@@ -53,6 +52,4 @@ Faculty of Social Sciences, UBA — *2022–2024*
 BA in Political Science and International Relations, UTDT — *2020–2023*
 
 **Teaching Assistant — Introduction to Political Science**\
-BA in Political Science and International Relations, UTDT — *2018–2021*
-:::
-:::::
+BA in Political Science and International Relations, UTDT — *2018–2021* 
