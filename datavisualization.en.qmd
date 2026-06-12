@@ -6,7 +6,7 @@ editor: visual
 
 In this section, I show some charts created to explore data. In this case, they come from:
 
--   Nuffield Politics Research Centre. (s. f.). WhoGov dataset. Nuffield College, University of Oxford. Recuperado el 3 de enero de 2026, de <https://politicscentre.nuffield.ox.ac.uk/whogov-dataset/>
+- Nuffield Politics Research Centre. (s. f.). WhoGov dataset. Nuffield College, University of Oxford. Recuperado el 3 de enero de 2026, de <https://politicscentre.nuffield.ox.ac.uk/whogov-dataset/>
 
 ## Women's representation in cabinets worldwide.
 

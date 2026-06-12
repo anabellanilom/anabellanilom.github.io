@@ -67,35 +67,35 @@
     "href": "index.html",
     "title": "Sobre mí",
     "section": "",
-    "text": "Soy Anabella Molina, politóloga, doctora en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre género, instituciones políticas y evidencia empírica, con un foco en América Latina.\nAdemás de mi trabajo académico, participo en proyectos de investigación aplicada y coordinación institucional, articulando alianzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con diseño de encuestas, métodos comparados, QCA y R.\nPodés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sitio.\nDescargá mi CV (PDF).\n\n\nR · Quarto · Git/GitHub · Tidyverse · Reproducibilidad · Datos abiertos\n\n\n\n\nGénero y poder ejecutivo; gabinetes y reclutamiento ministerial\n\nInstituciones, reglas de paridad y representación política\n\nPolítica comparada en América Latina\n\nMétodos: QCA, encuestas, análisis mixto y R\n\n\n\n\n\nDoctora en Ciencias Sociales — Universidad de Buenos Aires (2025)\n\nMaestría en Ciencia Política — Universidad Torcuato Di Tella (2021)\nLicenciada en Ciencia Polítca - Universidad de Buenos Aires (2013)\n\n\n\n\n\nUniversidad de Lisboa — Estancia de investigación (2020)\n\nUniversidad de Lisboa — Estancia de investigación (2023)"
+    "text": "&lt;img src=\"images/perfil-circulo-512.png\" alt=\"Anabella Molina\"&gt;\n\n\n&lt;h1&gt;Anabella Molina&lt;/h1&gt;\n&lt;p class=\"hero-tagline\"&gt;Politóloga · Doctora en Ciencias Sociales (UBA) · Género e instituciones políticas en América Latina&lt;/p&gt;\n&lt;div class=\"hero-buttons\"&gt;\n  &lt;a href=\"cv/CV_Anabella_Molina.pdf\" class=\"btn-primary\" target=\"_blank\"&gt;Ver CV&lt;/a&gt;\n  &lt;a href=\"#contacto\" class=\"btn-secondary\"&gt;Contacto&lt;/a&gt;\n&lt;/div&gt;\nSoy politóloga, doctora en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre género, instituciones políticas y evidencia empírica, con un foco en América Latina.\nAdemás de mi trabajo académico, participo en proyectos de investigación aplicada y coordinación institucional, articulando alianzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con diseño de encuestas, métodos comparados, QCA y R.\nPodés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sitio."
   },
   {
-    "objectID": "index.html#stack-de-trabajo",
-    "href": "index.html#stack-de-trabajo",
+    "objectID": "index.html#trayectoria",
+    "href": "index.html#trayectoria",
     "title": "Sobre mí",
-    "section": "",
-    "text": "R · Quarto · Git/GitHub · Tidyverse · Reproducibilidad · Datos abiertos"
+    "section": "Trayectoria",
+    "text": "Trayectoria\n\n\n&lt;span class=\"timeline-year\"&gt;2013&lt;/span&gt;\n&lt;div class=\"timeline-desc\"&gt;Licenciada en Ciencia Política — Universidad de Buenos Aires&lt;/div&gt;\n\n\n&lt;span class=\"timeline-year\"&gt;2020&lt;/span&gt;\n&lt;div class=\"timeline-desc\"&gt;Estancia de investigación — Universidad de Lisboa&lt;/div&gt;\n\n\n&lt;span class=\"timeline-year\"&gt;2021&lt;/span&gt;\n&lt;div class=\"timeline-desc\"&gt;Maestría en Ciencia Política — Universidad Torcuato Di Tella&lt;/div&gt;\n\n\n&lt;span class=\"timeline-year\"&gt;2023&lt;/span&gt;\n&lt;div class=\"timeline-desc\"&gt;Estancia de investigación — Universidad de Lisboa&lt;/div&gt;\n\n\n&lt;span class=\"timeline-year\"&gt;2025&lt;/span&gt;\n&lt;div class=\"timeline-desc\"&gt;Doctora en Ciencias Sociales — Universidad de Buenos Aires&lt;/div&gt;"
+  },
+  {
+    "objectID": "index.html#qué-hago",
+    "href": "index.html#qué-hago",
+    "title": "Sobre mí",
+    "section": "Qué hago",
+    "text": "Qué hago\n\n 🔎\n\nInvestigación\n\n&lt;p&gt;Género, instituciones políticas y métodos comparados en América Latina.&lt;/p&gt;\n  💼\n\nConsultoría\n\n&lt;p&gt;Investigación aplicada, diseño de encuestas y articulación institucional.&lt;/p&gt;\n  🎓\n\nDocencia\n\n&lt;p&gt;Métodos cuantitativos y cualitativos, política comparada e instituciones.&lt;/p&gt;\n  📊\n\nDataviz\n\n&lt;p&gt;Visualizaciones para explorar y comunicar datos políticos.&lt;/p&gt;"
   },
   {
     "objectID": "index.html#intereses",
     "href": "index.html#intereses",
     "title": "Sobre mí",
-    "section": "",
-    "text": "Género y poder ejecutivo; gabinetes y reclutamiento ministerial\n\nInstituciones, reglas de paridad y representación política\n\nPolítica comparada en América Latina\n\nMétodos: QCA, encuestas, análisis mixto y R"
+    "section": "Intereses",
+    "text": "Intereses\n\n\nGénero y poder ejecutivo\n\n\nGabinetes y reclutamiento ministerial\n\n\nInstituciones y paridad\n\n\nRepresentación política\n\n\nPolítica comparada en América Latina\n\n\nQCA\n\n\nEncuestas\n\n\nAnálisis mixto"
   },
   {
-    "objectID": "index.html#educación",
-    "href": "index.html#educación",
+    "objectID": "index.html#stack-de-trabajo",
+    "href": "index.html#stack-de-trabajo",
     "title": "Sobre mí",
-    "section": "",
-    "text": "Doctora en Ciencias Sociales — Universidad de Buenos Aires (2025)\n\nMaestría en Ciencia Política — Universidad Torcuato Di Tella (2021)\nLicenciada en Ciencia Polítca - Universidad de Buenos Aires (2013)"
-  },
-  {
-    "objectID": "index.html#estancias-de-investigación",
-    "href": "index.html#estancias-de-investigación",
-    "title": "Sobre mí",
-    "section": "",
-    "text": "Universidad de Lisboa — Estancia de investigación (2020)\n\nUniversidad de Lisboa — Estancia de investigación (2023)"
+    "section": "Stack de trabajo",
+    "text": "Stack de trabajo\n\n\nR\n\n\nQuarto\n\n\nGit / GitHub\n\n\nTidyverse\n\n\nReproducibilidad\n\n\nDatos abiertos\n\n\n\n\nContacto\n\n\n¿Querés conversar sobre un proyecto, charla o colaboración? Escribime.\n\n\n&lt;a href=\"https://github.com/anabellanilom\" target=\"_blank\" title=\"GitHub\"&gt;&lt;i class=\"bi bi-github\"&gt;&lt;/i&gt;&lt;/a&gt;\n&lt;a href=\"https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es\" target=\"_blank\" title=\"Google Scholar\"&gt;&lt;i class=\"bi bi-mortarboard\"&gt;&lt;/i&gt;&lt;/a&gt;\n&lt;a href=\"https://orcid.org/0000-0001-7394-8589\" target=\"_blank\" title=\"ORCID\"&gt;&lt;i class=\"bi bi-person-badge\"&gt;&lt;/i&gt;&lt;/a&gt;\n&lt;a href=\"https://www.linkedin.com/in/draanabellamolina\" target=\"_blank\" title=\"LinkedIn\"&gt;&lt;i class=\"bi bi-linkedin\"&gt;&lt;/i&gt;&lt;/a&gt;\n&lt;a href=\"mailto:anabella.anilom@gmail.com\" title=\"Email\"&gt;&lt;i class=\"bi bi-envelope\"&gt;&lt;/i&gt;&lt;/a&gt;"
   },
   {
     "objectID": "datavisualization.html",

@@ -4,40 +4,108 @@ format: html
 editor: visual
 ---
 
+<div class="hero">
+  <div class="hero-photo">
+    <img src="images/perfil-circulo-512.png" alt="Anabella Molina">
+  </div>
+  <div class="hero-text">
+    <h1>Anabella Molina</h1>
+    <p class="hero-tagline">Politóloga · Doctora en Ciencias Sociales (UBA) · Género e instituciones políticas en América Latina</p>
+    <div class="hero-buttons">
+      <a href="cv/CV_Anabella_Molina.pdf" class="btn-primary" target="_blank">Ver CV</a>
+      <a href="#contacto" class="btn-secondary">Contacto</a>
+    </div>
+  </div>
+</div>
 
-::::: columns
-::: {.column width="30%"}
-![](images/perfil-circulo-512.png){.profile-pic}
-:::
-
-::: {.column width="70%"}
-Soy Anabella Molina, politóloga, doctora en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre género, instituciones políticas y evidencia empírica, con un foco en América Latina.
+Soy politóloga, doctora en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre género, instituciones políticas y evidencia empírica, con un foco en América Latina.
 
 Además de mi trabajo académico, participo en proyectos de investigación aplicada y coordinación institucional, articulando alianzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con diseño de encuestas, métodos comparados, QCA y R.
 
-Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sitio.\
-Descargá mi [CV (PDF)](cv/CV_Anabella_Molina.pdf){target="_blank"}.
+Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sitio.
 
-## Stack de trabajo
+## Trayectoria
 
-R · Quarto · Git/GitHub · Tidyverse · Reproducibilidad · Datos abiertos
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-year">2013</span>
+    <div class="timeline-desc">Licenciada en Ciencia Política — Universidad de Buenos Aires</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-year">2020</span>
+    <div class="timeline-desc">Estancia de investigación — Universidad de Lisboa</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-year">2021</span>
+    <div class="timeline-desc">Maestría en Ciencia Política — Universidad Torcuato Di Tella</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-year">2023</span>
+    <div class="timeline-desc">Estancia de investigación — Universidad de Lisboa</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-year">2025</span>
+    <div class="timeline-desc">Doctora en Ciencias Sociales — Universidad de Buenos Aires</div>
+  </div>
+</div>
+
+## Qué hago
+
+<div class="services-grid">
+  <a href="research.qmd" class="service-card">
+    <span class="service-icon">🔎</span>
+    <h3>Investigación</h3>
+    <p>Género, instituciones políticas y métodos comparados en América Latina.</p>
+  </a>
+  <a href="consultoria.qmd" class="service-card">
+    <span class="service-icon">💼</span>
+    <h3>Consultoría</h3>
+    <p>Investigación aplicada, diseño de encuestas y articulación institucional.</p>
+  </a>
+  <a href="teaching.qmd" class="service-card">
+    <span class="service-icon">🎓</span>
+    <h3>Docencia</h3>
+    <p>Métodos cuantitativos y cualitativos, política comparada e instituciones.</p>
+  </a>
+  <a href="datavisualization.qmd" class="service-card">
+    <span class="service-icon">📊</span>
+    <h3>Dataviz</h3>
+    <p>Visualizaciones para explorar y comunicar datos políticos.</p>
+  </a>
+</div>
 
 ## Intereses
 
-- Género y poder ejecutivo; gabinetes y reclutamiento ministerial\
-- Instituciones, reglas de paridad y representación política\
-- Política comparada en América Latina\
-- Métodos: QCA, encuestas, análisis mixto y R
+<ul class="tag-list">
+  <li>Género y poder ejecutivo</li>
+  <li>Gabinetes y reclutamiento ministerial</li>
+  <li>Instituciones y paridad</li>
+  <li>Representación política</li>
+  <li>Política comparada en América Latina</li>
+  <li>QCA</li>
+  <li>Encuestas</li>
+  <li>Análisis mixto</li>
+</ul>
 
-## Educación
+## Stack de trabajo
 
-- **Doctora en Ciencias Sociales** — Universidad de Buenos Aires (2025)\
-- **Maestría en Ciencia Política** — Universidad Torcuato Di Tella (2021)
-- **Licenciada en Ciencia Polítca** - Universidad de Buenos Aires (2013)
+<ul class="tag-list tag-stack">
+  <li>R</li>
+  <li>Quarto</li>
+  <li>Git / GitHub</li>
+  <li>Tidyverse</li>
+  <li>Reproducibilidad</li>
+  <li>Datos abiertos</li>
+</ul>
 
-## Estancias de investigación
-
-- **Universidad de Lisboa** — Estancia de investigación (2020)\
-- **Universidad de Lisboa** — Estancia de investigación (2023)
-:::
-:::::
+<div id="contacto" class="contact-section">
+  <h2>Contacto</h2>
+  <p>¿Querés conversar sobre un proyecto, charla o colaboración? Escribime.</p>
+  <div class="contact-icons">
+    <a href="https://github.com/anabellanilom" target="_blank" title="GitHub"><i class="bi bi-github"></i></a>
+    <a href="https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es" target="_blank" title="Google Scholar"><i class="bi bi-mortarboard"></i></a>
+    <a href="https://orcid.org/0000-0001-7394-8589" target="_blank" title="ORCID"><i class="bi bi-person-badge"></i></a>
+    <a href="https://www.linkedin.com/in/draanabellamolina" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+    <a href="mailto:anabella.anilom@gmail.com" title="Email"><i class="bi bi-envelope"></i></a>
+  </div>
+</div>
