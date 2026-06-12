@@ -4,6 +4,7 @@ format: html
 editor: visual
 ---
 
+```{=html}
 <div class="hero">
   <div class="hero-photo">
     <img src="images/perfil-circulo-512.png" alt="Anabella Molina">
@@ -17,6 +18,7 @@ editor: visual
     </div>
   </div>
 </div>
+```
 
 Soy politóloga, doctora en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre género, instituciones políticas y evidencia empírica, con un foco en América Latina.
 
@@ -26,6 +28,7 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
 
 ## Trayectoria
 
+```{=html}
 <div class="timeline">
   <div class="timeline-item">
     <span class="timeline-year">2013</span>
@@ -48,34 +51,38 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
     <div class="timeline-desc">Doctora en Ciencias Sociales &mdash; Universidad de Buenos Aires</div>
   </div>
 </div>
+```
 
 ## Qué hago
 
+```{=html}
 <div class="services-grid">
-  <a href="research.qmd" class="service-card">
+  <a href="research.html" class="service-card">
     <span class="service-icon">&#128269;</span>
     <h3>Investigaci&oacute;n</h3>
     <p>G&eacute;nero, instituciones pol&iacute;ticas y m&eacute;todos comparados en Am&eacute;rica Latina.</p>
   </a>
-  <a href="consultoria.qmd" class="service-card">
+  <a href="consultoria.html" class="service-card">
     <span class="service-icon">&#128188;</span>
     <h3>Consultor&iacute;a</h3>
     <p>Investigaci&oacute;n aplicada, dise&ntilde;o de encuestas y articulaci&oacute;n institucional.</p>
   </a>
-  <a href="teaching.qmd" class="service-card">
+  <a href="teaching.html" class="service-card">
     <span class="service-icon">&#127891;</span>
     <h3>Docencia</h3>
     <p>M&eacute;todos cuantitativos y cualitativos, pol&iacute;tica comparada e instituciones.</p>
   </a>
-  <a href="datavisualization.qmd" class="service-card">
+  <a href="datavisualization.html" class="service-card">
     <span class="service-icon">&#128202;</span>
     <h3>Dataviz</h3>
     <p>Visualizaciones para explorar y comunicar datos pol&iacute;ticos.</p>
   </a>
 </div>
+```
 
 ## Intereses
 
+```{=html}
 <ul class="tag-list">
   <li>G&eacute;nero y poder ejecutivo</li>
   <li>Gabinetes y reclutamiento ministerial</li>
@@ -86,9 +93,11 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
   <li>Encuestas</li>
   <li>An&aacute;lisis mixto</li>
 </ul>
+```
 
 ## Stack de trabajo
 
+```{=html}
 <ul class="tag-list tag-stack">
   <li>R</li>
   <li>Quarto</li>
@@ -97,15 +106,13 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
   <li>Reproducibilidad</li>
   <li>Datos abiertos</li>
 </ul>
+```
 
+```{=html}
 <div id="contacto" class="contact-section">
   <h2>Contacto</h2>
   <p>&iquest;Quer&eacute;s conversar sobre un proyecto, charla o colaboraci&oacute;n? Escribime.</p>
   <div class="contact-icons">
     <a href="https://github.com/anabellanilom" target="_blank" title="GitHub"><i class="bi bi-github"></i></a>
     <a href="https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es" target="_blank" title="Google Scholar"><i class="bi bi-mortarboard"></i></a>
-    <a href="https://orcid.org/0000-0001-7394-8589" target="_blank" title="ORCID"><i class="bi bi-person-badge"></i></a>
-    <a href="https://www.linkedin.com/in/draanabellamolina" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
-    <a href="mailto:anabella.anilom@gmail.com" title="Email"><i class="bi bi-envelope"></i></a>
-  </div>
-</div>
+    <a href="https://orcid.org/0000-0001-7394-8589" target="
