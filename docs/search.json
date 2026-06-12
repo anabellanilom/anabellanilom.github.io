@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sobre mí",
-    "section": "",
-    "text": "Politóloga · Doctora en Ciencias Sociales (UBA) · Género e instituciones políticas en América Latina\n    \n      Ver CV\n      Contacto\nSoy politóloga, doctora en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre género, instituciones políticas y evidencia empírica, con un foco en América Latina.\nAdemás de mi trabajo académico, participo en proyectos de investigación aplicada y coordinación institucional, articulando alianzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con diseño de encuestas, métodos comparados, QCA y R.\nPodés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sitio."
-  },
-  {
-    "objectID": "index.html#trayectoria",
-    "href": "index.html#trayectoria",
-    "title": "Sobre mí",
-    "section": "Trayectoria",
-    "text": "Trayectoria\n\n  \n    2013\n    Licenciada en Ciencia Política — Universidad de Buenos Aires\n  \n  \n    2020\n    Estancia de investigación — Universidad de Lisboa\n  \n  \n    2021\n    Maestría en Ciencia Política — Universidad Torcuato Di Tella\n  \n  \n    2023\n    Estancia de investigación — Universidad de Lisboa\n  \n  \n    2025\n    Doctora en Ciencias Sociales — Universidad de Buenos Aires"
-  },
-  {
-    "objectID": "index.html#qué-hago",
-    "href": "index.html#qué-hago",
-    "title": "Sobre mí",
-    "section": "Qué hago",
-    "text": "Qué hago\n\n  \n    🔍\n    Investigación\n    Género, instituciones políticas y métodos comparados en América Latina.\n  \n  \n    💼\n    Consultoría\n    Investigación aplicada, diseño de encuestas y articulación institucional.\n  \n  \n    🎓\n    Docencia\n    Métodos cuantitativos y cualitativos, política comparada e instituciones.\n  \n  \n    📊\n    Dataviz\n    Visualizaciones para explorar y comunicar datos políticos."
-  },
-  {
-    "objectID": "index.html#intereses",
-    "href": "index.html#intereses",
-    "title": "Sobre mí",
-    "section": "Intereses",
-    "text": "Intereses\n\n  Género y poder ejecutivo\n  Gabinetes y reclutamiento ministerial\n  Instituciones y paridad\n  Representación política\n  Política comparada en América Latina\n  QCA\n  Encuestas\n  Análisis mixto"
-  },
-  {
-    "objectID": "index.html#stack-de-trabajo",
-    "href": "index.html#stack-de-trabajo",
-    "title": "Sobre mí",
-    "section": "Stack de trabajo",
-    "text": "Stack de trabajo\n\n  R\n  Quarto\n  Git / GitHub\n  Tidyverse\n  Reproducibilidad\n  Datos abiertos\n\n\n\nContacto\n\n\n¿Querés conversar sobre un proyecto, charla o colaboración? Escribime.\n\n\n&lt;a href=\"https://github.com/anabellanilom\" target=\"_blank\" title=\"GitHub\"&gt;&lt;i class=\"bi bi-github\"&gt;&lt;/i&gt;&lt;/a&gt;\n&lt;a href=\"https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es\" target=\"_blank\" title=\"Google Scholar\"&gt;&lt;i class=\"bi bi-mortarboard\"&gt;&lt;/i&gt;&lt;/a&gt;\n&lt;a href=\"https://orcid.org/0000-0001-7394-8589\" target=\""
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Actividad docente",
@@ -54,20 +19,6 @@
     "title": "Actividad docente",
     "section": "Experiencia docente previa",
     "text": "Experiencia docente previa\nProfesora a cargo — Género y Diversidad\nCentro Internacional de Estudios Políticos, UNSAM — 2024\nMiembro del equipo docente — Teoría Política Feminista (Taller de Estudio Profundizado)\nFacultad de Derecho, UBA — 2024\nProfesora Adjunta ad honorem — Género y Política Comparada\nFacultad de Ciencias Sociales, UBA — 2022–2024\nProfesora Asistente — Política Comparada\nLic. en Ciencia Política y Relaciones Internacionales, UTDT — 2020–2023\nProfesora Asistente — Introducción a la Ciencia Política\nLic. en Ciencia Política y Relaciones Internacionales, UTDT — 2018–2021"
-  },
-  {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Charlas",
-    "section": "",
-    "text": "En esta sección reúno charlas, conferencias, paneles y presentaciones en las que participé y en las que voy a participar. La idea es que puedas ver en qué estoy trabajando, dónde lo conversamos, y (cuando se puede) acceder a materiales: slides, pósters, papers o grabaciones.\n\nPróximas: eventos confirmados (si es virtual, incluyo huso horario).\nArchivo: actividades pasadas, con enlaces a materiales cuando estén disponibles.\n\n\n\n\n\n\nEn esta charla presenté un resumen de mi tesis de doctorado: ¿Personalismo o institucionalización? Los dos caminos hacia los gabinetes presidenciales paritarios en América Latina (1999–2019), para el GICP de Género y Políticas Públicas de la UBA."
-  },
-  {
-    "objectID": "talks.html#charlas-y-presentaciones",
-    "href": "talks.html#charlas-y-presentaciones",
-    "title": "Charlas",
-    "section": "",
-    "text": "En esta sección reúno charlas, conferencias, paneles y presentaciones en las que participé y en las que voy a participar. La idea es que puedas ver en qué estoy trabajando, dónde lo conversamos, y (cuando se puede) acceder a materiales: slides, pósters, papers o grabaciones.\n\nPróximas: eventos confirmados (si es virtual, incluyo huso horario).\nArchivo: actividades pasadas, con enlaces a materiales cuando estén disponibles.\n\n\n\n\n\n\nEn esta charla presenté un resumen de mi tesis de doctorado: ¿Personalismo o institucionalización? Los dos caminos hacia los gabinetes presidenciales paritarios en América Latina (1999–2019), para el GICP de Género y Políticas Públicas de la UBA."
   },
   {
     "objectID": "research.html",
@@ -112,130 +63,39 @@
     "text": "Conferencias y presentaciones profesionales\n2025\n\nExpositora — “Partidismo ministerial y tipos de gobierno en América Latina: clasificación, tensiones y estrategias en distintos contextos de institucionalización partidaria”\nPanel: Dinámicas de gobierno y gabinetes en América Latina | IX Congreso Uruguayo de Ciencia Política (AUCiP) | Facultad de Ciencias Sociales, UdelaR | Montevideo, Uruguay | 3- 5 diciembre 2025\n\n2023\n\nExpositora — “Vínculos partidarios en los gabinetes presidenciales argentinos (2003–2023)”\n27º Congreso Mundial de Ciencia Política (IPSA) | Buenos Aires | 15–19 julio 2023\nCoordinadora de Panel — “Partidismo gubernamental en sistemas presidenciales: evidencia comparada de América Latina”\n27º Congreso Mundial de Ciencia Política (IPSA) | Buenos Aires | 15–19 julio 2023\nExpositora — “La representación de género en los gabinetes presidenciales argentinos (1999–2019)”\nCongreso “La Política en Tensión” | Buenos Aires | 18–21 julio 2023\n\n2022\n\nExpositora — “La paridad en Argentina: dimensiones e impacto”\n3er Seminario Internacional sobre Reformas Políticas en América Latina | Ciudad de México | 28–30 septiembre 2022\n\n2021\n\nExpositora — “Las mujeres en los poderes ejecutivos subnacionales”\nXV Congreso Nacional de Ciencia Política (SAAP) | Rosario | 10–13 noviembre 2021\nComentarista — “Hacia una representación política inclusiva”\nXV Congreso Nacional de Ciencia Política (SAAP) | Rosario | 10–13 noviembre 2021\nExpositora — “La regulación de partidos políticos en Argentina: ¿Qué, cómo y para qué reformar?”\nXV Congreso Nacional de Ciencia Política (SAAP) | Rosario | 10–13 noviembre 2021\n\n2019\n\nExpositora — “Rajaduras en el cristal: la participación de mujeres en gabinetes latinoamericanos”\nXIV Congreso Nacional de Ciencia Política (SAAP) | UNSAM, Buenos Aires | 17–20 julio 2019\n\n2017\n\nExpositora — “Coaliciones: un veto para la paridad política en gabinetes latinoamericanos”\nIX Congreso Latinoamericano de Ciencia Política (ALACIP) | Montevideo | 2017\n\n2016\n\nExpositora — “Las Fuerzas Armadas desde una perspectiva de género: análisis de los casos de Brasil y Argentina”\nJornadas de Ciencia Política (UBA) | Buenos Aires | 2016\nExpositora — “Coaliciones y participación política de las mujeres: los países de la Región Andina”\nXII Congreso Nacional y V Internacional sobre Democracia | Rosario | 2016\n\n2011\n\nExpositora — “Capitalismo del siglo XXI, crisis y reconfiguraciones: luces y sombras en América Latina”\nIX Jornadas de Sociología (UBA) | Buenos Aires | 2011"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publicaciones",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sobre mí",
     "section": "",
-    "text": "Camerlo, M., Clerici, P., & Molina, A. (2024). “Poderes partidarios y reclutamiento ministerial: El caso argentino.” Colombia Internacional, 120.\n(Link al artículo)\nMolina, A. (2024). “La representación de género en los gabinetes de gobierno (1997–2023).” Revista SAAP, 18(1).\n(Link a la nota de investigación)\nMolina, A. (2023). “Presidentes débiles y ministras presentes: La representación de género en América Latina (1999–2019).” Estado, Gobierno y Gestión Pública, 21(41).\n(Link al artículo)\nCamerlo, M., Malamud, A., & Molina, A. (2022). “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” Regional & Federal Studies.\n(Link al artículo)"
+    "text": "Politóloga · Doctora en Ciencias Sociales (UBA) · Género e instituciones políticas en América Latina\n    \n      Ver CV\n      Contacto\nSoy politóloga, doctora en Ciencias Sociales (Universidad de Buenos Aires) y magíster en Ciencia Política (Universidad Torcuato Di Tella). Mi trabajo se mueve en la intersección entre género, instituciones políticas y evidencia empírica, con un foco en América Latina.\nAdemás de mi trabajo académico, participo en proyectos de investigación aplicada y coordinación institucional, articulando alianzas entre organizaciones, gobiernos locales y espacios universitarios. En el plano metodológico, trabajo con diseño de encuestas, métodos comparados, QCA y R.\nPodés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sitio."
   },
   {
-    "objectID": "publications.html#artículos-y-notas-con-revisión-por-pares",
-    "href": "publications.html#artículos-y-notas-con-revisión-por-pares",
-    "title": "Publicaciones",
-    "section": "",
-    "text": "Camerlo, M., Clerici, P., & Molina, A. (2024). “Poderes partidarios y reclutamiento ministerial: El caso argentino.” Colombia Internacional, 120.\n(Link al artículo)\nMolina, A. (2024). “La representación de género en los gabinetes de gobierno (1997–2023).” Revista SAAP, 18(1).\n(Link a la nota de investigación)\nMolina, A. (2023). “Presidentes débiles y ministras presentes: La representación de género en América Latina (1999–2019).” Estado, Gobierno y Gestión Pública, 21(41).\n(Link al artículo)\nCamerlo, M., Malamud, A., & Molina, A. (2022). “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” Regional & Federal Studies.\n(Link al artículo)"
+    "objectID": "index.html#trayectoria",
+    "href": "index.html#trayectoria",
+    "title": "Sobre mí",
+    "section": "Trayectoria",
+    "text": "Trayectoria\n\n  \n    2013\n    Licenciada en Ciencia Política — Universidad de Buenos Aires\n  \n  \n    2020\n    Estancia de investigación — Universidad de Lisboa\n  \n  \n    2021\n    Maestría en Ciencia Política — Universidad Torcuato Di Tella\n  \n  \n    2023\n    Estancia de investigación — Universidad de Lisboa\n  \n  \n    2025\n    Doctora en Ciencias Sociales — Universidad de Buenos Aires"
   },
   {
-    "objectID": "publications.html#otras-publicaciones",
-    "href": "publications.html#otras-publicaciones",
-    "title": "Publicaciones",
-    "section": "Otras publicaciones",
-    "text": "Otras publicaciones\nGamboa, R., Segovia, C., Dockendorff, A., Cárdenas Arguedas, S., Hernández-Gutiérrez, J. C., Chasquetti, D., González, E., & Molina, A. (2025). “Representación Descriptiva y Sustantiva en América Latina. Avances y desafíos.” IBEROAMERICANA. América Latina, 25(89), 209–246. (Foro de debate)\n(Link al artículo) · (DOI)"
+    "objectID": "index.html#qué-hago",
+    "href": "index.html#qué-hago",
+    "title": "Sobre mí",
+    "section": "Qué hago",
+    "text": "Qué hago\n\n  \n    🔍\n    Investigación\n    Género, instituciones políticas y métodos comparados en América Latina.\n  \n  \n    💼\n    Consultoría\n    Investigación aplicada, diseño de encuestas y articulación institucional.\n  \n  \n    🎓\n    Docencia\n    Métodos cuantitativos y cualitativos, política comparada e instituciones.\n  \n  \n    📊\n    Dataviz\n    Visualizaciones para explorar y comunicar datos políticos."
   },
   {
-    "objectID": "publications.html#divulgación-y-análisis-en-medios",
-    "href": "publications.html#divulgación-y-análisis-en-medios",
-    "title": "Publicaciones",
-    "section": "Divulgación y análisis en medios",
-    "text": "Divulgación y análisis en medios\nMolina, A. (2023). “Elecciones presidenciales en Argentina: competencia abierta en un contexto de crisis.” PEX Network (11 de agosto de 2023). Análisis pre-PASO con seis claves para entender el escenario electoral y la incertidumbre en un contexto de crisis. (Link a la nota)"
+    "objectID": "index.html#intereses",
+    "href": "index.html#intereses",
+    "title": "Sobre mí",
+    "section": "Intereses",
+    "text": "Intereses\n\n  Género y poder ejecutivo\n  Gabinetes y reclutamiento ministerial\n  Instituciones y paridad\n  Representación política\n  Política comparada en América Latina\n  QCA\n  Encuestas\n  Análisis mixto"
   },
   {
-    "objectID": "index.en.html",
-    "href": "index.en.html",
-    "title": "About me",
-    "section": "",
-    "text": "I’m Anabella Molina, a political scientist, PhD in Social Sciences (University of Buenos Aires) and MA in Political Science (Universidad Torcuato Di Tella). My work sits at the intersection of gender, political institutions, and empirical evidence, with a focus on Latin America.\nBeyond my academic work, I take part in applied research projects and institutional coordination, building partnerships among organizations, local governments, and universities. Methodologically, I work with survey design, comparative methods, QCA, and R.\nYou can find my publications, teaching, talks, and CV in the sections of this website.\nDownload my CV (PDF).\n\nWork stack\nR · Quarto · Git/GitHub · Tidyverse · Reproducibility · Open data\n\n\nInterests\n\nGender and executive power; cabinets and ministerial recruitment\nInstitutions, parity rules, and political representation\nComparative politics in Latin America\nMethods: QCA, surveys, mixed-methods analysis, and R\n\n\n\nEducation\n\nPhD in Social Sciences — University of Buenos Aires (2025)\nMA in Political Science — Universidad Torcuato Di Tella (2021)\nBA in Political Science — University of Buenos Aires (2013)\n\n\n\nResearch stays\n\nUniversity of Lisbon — Research stay (2020)\nUniversity of Lisbon — Research stay (2023)"
-  },
-  {
-    "objectID": "gestion.en.html",
-    "href": "gestion.en.html",
-    "title": "Management",
-    "section": "",
-    "text": "FOVISEE and Weatherizers Without Borders (WWB) (Apr. 2025 – Sept. 2025)\n\nCoordinated initiatives on fair and sustainable housing, connecting technical teams, civil society organizations, universities, and municipal authorities.\nOrganized meetings, workshops, and presentations: outreach, logistics, agendas, minutes, and follow-up on agreements.\nManaged project documentation (timelines, budgets, and reports for funders and partners).\nProvided executive support: prioritization, planning, and monitoring of activities in high-demand contexts.\nManaged multidisciplinary teams and coordinated with international partners; co-designed applied training programs (certificate programs/workshops)."
-  },
-  {
-    "objectID": "gestion.en.html#project-and-institutional-relations-coordinator",
-    "href": "gestion.en.html#project-and-institutional-relations-coordinator",
-    "title": "Management",
-    "section": "",
-    "text": "FOVISEE and Weatherizers Without Borders (WWB) (Apr. 2025 – Sept. 2025)\n\nCoordinated initiatives on fair and sustainable housing, connecting technical teams, civil society organizations, universities, and municipal authorities.\nOrganized meetings, workshops, and presentations: outreach, logistics, agendas, minutes, and follow-up on agreements.\nManaged project documentation (timelines, budgets, and reports for funders and partners).\nProvided executive support: prioritization, planning, and monitoring of activities in high-demand contexts.\nManaged multidisciplinary teams and coordinated with international partners; co-designed applied training programs (certificate programs/workshops)."
-  },
-  {
-    "objectID": "gestion.en.html#editorial-management",
-    "href": "gestion.en.html#editorial-management",
-    "title": "Management",
-    "section": "Editorial management",
-    "text": "Editorial management\n\nEditorial Assistant — Revista Gioja (UBA Law School) (2023 – present)\n\nLiaison with authors, reviewers, and the editorial team; coordinated with the technical team.\nManaged the editorial calendar: deadline tracking, reminders, and follow-up throughout the review/publication process.\nSystematized information and documentation in shared databases, ensuring traceability and an orderly workflow.\n\n\n\nEditorial Secretary — Revista SAAP (2017 – 2019)\n\nCoordinated the article review process (submission, reminders, and recording editorial decisions).\nServed as editorial secretary to meet publication schedules and strengthen institutional communication."
-  },
-  {
-    "objectID": "datavisualization.en.html",
-    "href": "datavisualization.en.html",
-    "title": "Dataviz",
-    "section": "",
-    "text": "In this section, I show some charts created to explore data. In this case, they come from:"
-  },
-  {
-    "objectID": "datavisualization.en.html#womens-representation-in-cabinets-worldwide.",
-    "href": "datavisualization.en.html#womens-representation-in-cabinets-worldwide.",
-    "title": "Dataviz",
-    "section": "Women’s representation in cabinets worldwide.",
-    "text": "Women’s representation in cabinets worldwide.\n\n\n\n\n\n\n\n\nEstadísticas descriptivas de representación de ministras en el período 1966 a 2023\n\n\nRegión completa en todo el período\n\n\nTotal Ministras\nCargos totales (suma)\nProporción de ministras en todo el período\nPromedio país-año\nMediana país-año\nIQR país-año\nN país-año\n\n\n\n\n2,622\n21,345\n12.3%\n10.5%\n6.7%\n17.2%\n1,044\n\n\n\n\n\nFuente. Elaboración propia\n\n\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset"
-  },
-  {
-    "objectID": "datavisualization.en.html#porcentaje-de-ministras-en-américa-latina.-1980-2023",
-    "href": "datavisualization.en.html#porcentaje-de-ministras-en-américa-latina.-1980-2023",
-    "title": "Dataviz",
-    "section": "Porcentaje de ministras en América Latina. 1980-2023",
-    "text": "Porcentaje de ministras en América Latina. 1980-2023\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset\n\n\n\n\n\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset"
-  },
-  {
-    "objectID": "consultoria.en.html",
-    "href": "consultoria.en.html",
-    "title": "Consulting",
-    "section": "",
-    "text": "I provide consulting and technical support for applied research projects on democracy, gender, and public policy. My work combines data collection and systematization, database building, the preparation of executive-ready deliverables, and support for outreach and dissemination activities."
-  },
-  {
-    "objectID": "consultoria.en.html#consulting-and-applied-research",
-    "href": "consultoria.en.html#consulting-and-applied-research",
-    "title": "Consulting",
-    "section": "",
-    "text": "I provide consulting and technical support for applied research projects on democracy, gender, and public policy. My work combines data collection and systematization, database building, the preparation of executive-ready deliverables, and support for outreach and dissemination activities."
-  },
-  {
-    "objectID": "consultoria.en.html#project-gender-and-political-finance",
-    "href": "consultoria.en.html#project-gender-and-political-finance",
-    "title": "Consulting",
-    "section": "Project: Gender and political finance",
-    "text": "Project: Gender and political finance\nResearch Assistant — COLAB — Colaboratorio en Derecho y Desarrollo, Universidad Torcuato Di Tella | Mar. 2024 – Feb. 2025\n\nCollected and systematized regulations, financing practices, and relevant cases using official documents, databases, organizational reports, and media coverage.\nBuilt and maintained databases and comparative tables to analyze how campaign finance rules affect the political participation of women and other underrepresented groups.\nProduced written outputs (memos, executive summaries, and presentations) for the research team and dissemination activities.\nSupported meeting organization and coordination with key stakeholders (agendas, materials, and tracking agreements)."
-  },
-  {
-    "objectID": "consultoria.en.html#project-crianza-juntos",
-    "href": "consultoria.en.html#project-crianza-juntos",
-    "title": "Consulting",
-    "section": "Project: Crianza Juntos",
-    "text": "Project: Crianza Juntos\nResearch Assistant — UTDT – Government of the Province of Buenos Aires | 2018–2019\n\nSupported applied research in a university–government partnership (systematization and technical support for project development)."
-  },
-  {
-    "objectID": "consultoria.html",
-    "href": "consultoria.html",
-    "title": "Consultoría",
-    "section": "",
-    "text": "Desarrollo consultorías y apoyo técnico para proyectos de investigación aplicada en democracia, género y políticas públicas. Mi trabajo combina relevamiento y sistematización de información, construcción de bases de datos, elaboración de insumos ejecutivos y soporte para actividades de incidencia y difusión.\n\n\nAsistente de Investigación - COLAB — Colaboratorio en Derecho y Desarrollo, Universidad Torcuato Di Tella | mar. 2024 – feb. 2025\n\nRelevamiento y sistematización de normativa, prácticas de financiamiento y casos relevantes a partir de documentos oficiales, bases de datos, informes de organizaciones y cobertura periodística.\nConstrucción y mantenimiento de bases de datos y cuadros comparativos para analizar el impacto de las reglas de financiamiento en la participación política de mujeres y otros grupos subrepresentados.\nElaboración de insumos escritos (memos, resúmenes ejecutivos y presentaciones) para el equipo de investigación y actividades de difusión.\nApoyo a la organización de reuniones y coordinación con actores clave (agendas, materiales y registro de acuerdos).\n\n\n\n\nAsistente de Investigación UTDT – Gobierno de la Provincia de Buenos Aires | 2018–2019\n\nApoyo a investigación aplicada en articulación universidad–gobierno (sistematización y soporte técnico para el desarrollo del proyecto)."
-  },
-  {
-    "objectID": "consultoria.html#proyecto-género-y-financiamiento-de-la-política",
-    "href": "consultoria.html#proyecto-género-y-financiamiento-de-la-política",
-    "title": "Consultoría",
-    "section": "",
-    "text": "Asistente de Investigación - COLAB — Colaboratorio en Derecho y Desarrollo, Universidad Torcuato Di Tella | mar. 2024 – feb. 2025\n\nRelevamiento y sistematización de normativa, prácticas de financiamiento y casos relevantes a partir de documentos oficiales, bases de datos, informes de organizaciones y cobertura periodística.\nConstrucción y mantenimiento de bases de datos y cuadros comparativos para analizar el impacto de las reglas de financiamiento en la participación política de mujeres y otros grupos subrepresentados.\nElaboración de insumos escritos (memos, resúmenes ejecutivos y presentaciones) para el equipo de investigación y actividades de difusión.\nApoyo a la organización de reuniones y coordinación con actores clave (agendas, materiales y registro de acuerdos)."
-  },
-  {
-    "objectID": "consultoria.html#proyecto-crianza-juntos",
-    "href": "consultoria.html#proyecto-crianza-juntos",
-    "title": "Consultoría",
-    "section": "",
-    "text": "Asistente de Investigación UTDT – Gobierno de la Provincia de Buenos Aires | 2018–2019\n\nApoyo a investigación aplicada en articulación universidad–gobierno (sistematización y soporte técnico para el desarrollo del proyecto)."
+    "objectID": "index.html#stack-de-trabajo",
+    "href": "index.html#stack-de-trabajo",
+    "title": "Sobre mí",
+    "section": "Stack de trabajo",
+    "text": "Stack de trabajo\n\n  R\n  Quarto\n  Git / GitHub\n  Tidyverse\n  Reproducibilidad\n  Datos abiertos\n\n\n\nContacto\n\n\n¿Querés conversar sobre un proyecto, charla o colaboración? Escribime.\n\n\n&lt;a href=\"https://github.com/anabellanilom\" target=\"_blank\" title=\"GitHub\"&gt;&lt;i class=\"bi bi-github\"&gt;&lt;/i&gt;&lt;/a&gt;\n&lt;a href=\"https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es\" target=\"_blank\" title=\"Google Scholar\"&gt;&lt;i class=\"bi bi-mortarboard\"&gt;&lt;/i&gt;&lt;/a&gt;\n&lt;a href=\"https://orcid.org/0000-0001-7394-8589\" target=\""
   },
   {
     "objectID": "datavisualization.html",
@@ -266,6 +126,27 @@
     "text": "Porcentaje de ministras en América Latina. 1980-2023\n\n\n\n\nFuente: Elaboración propia con datos de whogov-dataset"
   },
   {
+    "objectID": "consultoria.html",
+    "href": "consultoria.html",
+    "title": "Consultoría",
+    "section": "",
+    "text": "Desarrollo consultorías y apoyo técnico para proyectos de investigación aplicada en democracia, género y políticas públicas. Mi trabajo combina relevamiento y sistematización de información, construcción de bases de datos, elaboración de insumos ejecutivos y soporte para actividades de incidencia y difusión.\n\n\nAsistente de Investigación - COLAB — Colaboratorio en Derecho y Desarrollo, Universidad Torcuato Di Tella | mar. 2024 – feb. 2025\n\nRelevamiento y sistematización de normativa, prácticas de financiamiento y casos relevantes a partir de documentos oficiales, bases de datos, informes de organizaciones y cobertura periodística.\nConstrucción y mantenimiento de bases de datos y cuadros comparativos para analizar el impacto de las reglas de financiamiento en la participación política de mujeres y otros grupos subrepresentados.\nElaboración de insumos escritos (memos, resúmenes ejecutivos y presentaciones) para el equipo de investigación y actividades de difusión.\nApoyo a la organización de reuniones y coordinación con actores clave (agendas, materiales y registro de acuerdos).\n\n\n\n\nAsistente de Investigación UTDT – Gobierno de la Provincia de Buenos Aires | 2018–2019\n\nApoyo a investigación aplicada en articulación universidad–gobierno (sistematización y soporte técnico para el desarrollo del proyecto)."
+  },
+  {
+    "objectID": "consultoria.html#proyecto-género-y-financiamiento-de-la-política",
+    "href": "consultoria.html#proyecto-género-y-financiamiento-de-la-política",
+    "title": "Consultoría",
+    "section": "",
+    "text": "Asistente de Investigación - COLAB — Colaboratorio en Derecho y Desarrollo, Universidad Torcuato Di Tella | mar. 2024 – feb. 2025\n\nRelevamiento y sistematización de normativa, prácticas de financiamiento y casos relevantes a partir de documentos oficiales, bases de datos, informes de organizaciones y cobertura periodística.\nConstrucción y mantenimiento de bases de datos y cuadros comparativos para analizar el impacto de las reglas de financiamiento en la participación política de mujeres y otros grupos subrepresentados.\nElaboración de insumos escritos (memos, resúmenes ejecutivos y presentaciones) para el equipo de investigación y actividades de difusión.\nApoyo a la organización de reuniones y coordinación con actores clave (agendas, materiales y registro de acuerdos)."
+  },
+  {
+    "objectID": "consultoria.html#proyecto-crianza-juntos",
+    "href": "consultoria.html#proyecto-crianza-juntos",
+    "title": "Consultoría",
+    "section": "",
+    "text": "Asistente de Investigación UTDT – Gobierno de la Provincia de Buenos Aires | 2018–2019\n\nApoyo a investigación aplicada en articulación universidad–gobierno (sistematización y soporte técnico para el desarrollo del proyecto)."
+  },
+  {
     "objectID": "gestion.html",
     "href": "gestion.html",
     "title": "Gestión",
@@ -287,108 +168,45 @@
     "text": "Gestión editorial\n\nAsistente Editorial — Revista Gioja (UBA Derecho) (2023 – actualidad)\n\nComunicación con autores, evaluadores y equipo editorial; coordinación con equipo técnico.\nOrganización de agenda editorial: control de plazos, recordatorios y seguimiento del circuito de evaluación/publicación.\nSistematización de información y documentación en bases compartidas, asegurando trazabilidad y orden del proceso.\n\n\n\nSecretaria Editorial — Revista SAAP (2017 – 2019)\n\nCoordinación del circuito de evaluación de artículos (envío, recordatorios y registro de decisiones).\nTrabajé como secretaria editorial para cumplir cronogramas de publicación y fortalecer la comunicación institucional."
   },
   {
-    "objectID": "publications.en.html",
-    "href": "publications.en.html",
-    "title": "Publications",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publicaciones",
     "section": "",
-    "text": "Camerlo, M., Clerici, P., & Molina, A. (2024). “Party powers and ministerial recruitment: The Argentine case.” Colombia Internacional, 120.\n(Article link)\nMolina, A. (2024). “Gender representation in government cabinets (1997–2023).” Revista SAAP, 18(1).\n(Research note link)\nMolina, A. (2023). “Weak presidents, present women ministers: Gender representation in Latin America (1999–2019).” Estado, Gobierno y Gestión Pública, 21(41).*\n(Article link)\nCamerlo, M., Malamud, A., & Molina, A. (2022). “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” Regional & Federal Studies.\n(Article link)"
+    "text": "Camerlo, M., Clerici, P., & Molina, A. (2024). “Poderes partidarios y reclutamiento ministerial: El caso argentino.” Colombia Internacional, 120.\n(Link al artículo)\nMolina, A. (2024). “La representación de género en los gabinetes de gobierno (1997–2023).” Revista SAAP, 18(1).\n(Link a la nota de investigación)\nMolina, A. (2023). “Presidentes débiles y ministras presentes: La representación de género en América Latina (1999–2019).” Estado, Gobierno y Gestión Pública, 21(41).\n(Link al artículo)\nCamerlo, M., Malamud, A., & Molina, A. (2022). “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” Regional & Federal Studies.\n(Link al artículo)"
   },
   {
-    "objectID": "publications.en.html#peer-reviewed-articles-and-research-notes",
-    "href": "publications.en.html#peer-reviewed-articles-and-research-notes",
-    "title": "Publications",
+    "objectID": "publications.html#artículos-y-notas-con-revisión-por-pares",
+    "href": "publications.html#artículos-y-notas-con-revisión-por-pares",
+    "title": "Publicaciones",
     "section": "",
-    "text": "Camerlo, M., Clerici, P., & Molina, A. (2024). “Party powers and ministerial recruitment: The Argentine case.” Colombia Internacional, 120.\n(Article link)\nMolina, A. (2024). “Gender representation in government cabinets (1997–2023).” Revista SAAP, 18(1).\n(Research note link)\nMolina, A. (2023). “Weak presidents, present women ministers: Gender representation in Latin America (1999–2019).” Estado, Gobierno y Gestión Pública, 21(41).*\n(Article link)\nCamerlo, M., Malamud, A., & Molina, A. (2022). “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” Regional & Federal Studies.\n(Article link)"
+    "text": "Camerlo, M., Clerici, P., & Molina, A. (2024). “Poderes partidarios y reclutamiento ministerial: El caso argentino.” Colombia Internacional, 120.\n(Link al artículo)\nMolina, A. (2024). “La representación de género en los gabinetes de gobierno (1997–2023).” Revista SAAP, 18(1).\n(Link a la nota de investigación)\nMolina, A. (2023). “Presidentes débiles y ministras presentes: La representación de género en América Latina (1999–2019).” Estado, Gobierno y Gestión Pública, 21(41).\n(Link al artículo)\nCamerlo, M., Malamud, A., & Molina, A. (2022). “Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020.” Regional & Federal Studies.\n(Link al artículo)"
   },
   {
-    "objectID": "publications.en.html#other-publications",
-    "href": "publications.en.html#other-publications",
-    "title": "Publications",
-    "section": "Other publications",
-    "text": "Other publications\nGamboa, R., Segovia, C., Dockendorff, A., Cárdenas Arguedas, S., Hernández-Gutiérrez, J. C., Chasquetti, D., González, E., & Molina, A. (2025). “Descriptive and substantive representation in Latin America: Progress and challenges.” IBEROAMERICANA. América Latina, 25(89), 209–246. (Debate forum)\n(Article link) · (DOI)"
+    "objectID": "publications.html#otras-publicaciones",
+    "href": "publications.html#otras-publicaciones",
+    "title": "Publicaciones",
+    "section": "Otras publicaciones",
+    "text": "Otras publicaciones\nGamboa, R., Segovia, C., Dockendorff, A., Cárdenas Arguedas, S., Hernández-Gutiérrez, J. C., Chasquetti, D., González, E., & Molina, A. (2025). “Representación Descriptiva y Sustantiva en América Latina. Avances y desafíos.” IBEROAMERICANA. América Latina, 25(89), 209–246. (Foro de debate)\n(Link al artículo) · (DOI)"
   },
   {
-    "objectID": "publications.en.html#outreach-and-media-analysis",
-    "href": "publications.en.html#outreach-and-media-analysis",
-    "title": "Publications",
-    "section": "Outreach and media analysis",
-    "text": "Outreach and media analysis\nMolina, A. (2023). “Presidential elections in Argentina: An open race in a context of crisis.” PEX Network (August 11, 2023). Pre-PASO analysis with six key points to understand the electoral scenario and uncertainty amid crisis. (Article link)"
+    "objectID": "publications.html#divulgación-y-análisis-en-medios",
+    "href": "publications.html#divulgación-y-análisis-en-medios",
+    "title": "Publicaciones",
+    "section": "Divulgación y análisis en medios",
+    "text": "Divulgación y análisis en medios\nMolina, A. (2023). “Elecciones presidenciales en Argentina: competencia abierta en un contexto de crisis.” PEX Network (11 de agosto de 2023). Análisis pre-PASO con seis claves para entender el escenario electoral y la incertidumbre en un contexto de crisis. (Link a la nota)"
   },
   {
-    "objectID": "research.en.html",
-    "href": "research.en.html",
-    "title": "Research",
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Charlas",
     "section": "",
-    "text": "My research agenda focuses on political representation and gender, cabinets and ministerial recruitment, political parties and political finance, with an emphasis on Latin America. I work with comparative politics approaches and the production of evidence for academic debates and public policy discussions."
+    "text": "En esta sección reúno charlas, conferencias, paneles y presentaciones en las que participé y en las que voy a participar. La idea es que puedas ver en qué estoy trabajando, dónde lo conversamos, y (cuando se puede) acceder a materiales: slides, pósters, papers o grabaciones.\n\nPróximas: eventos confirmados (si es virtual, incluyo huso horario).\nArchivo: actividades pasadas, con enlaces a materiales cuando estén disponibles.\n\n\n\n\n\n\nEn esta charla presenté un resumen de mi tesis de doctorado: ¿Personalismo o institucionalización? Los dos caminos hacia los gabinetes presidenciales paritarios en América Latina (1999–2019), para el GICP de Género y Políticas Públicas de la UBA."
   },
   {
-    "objectID": "research.en.html#masters-thesis",
-    "href": "research.en.html#masters-thesis",
-    "title": "Research",
-    "section": "Master’s thesis",
-    "text": "Master’s thesis\nPresidential strategies, participation, and integration. Women’s appointments to Latin American cabinets (1999–2019) (UTDT, 2021).\nComparative analysis of 18 countries (1999–2019) on gender integration in presidential cabinets.\nView record in the UTDT Repository"
-  },
-  {
-    "objectID": "research.en.html#research-projects",
-    "href": "research.en.html#research-projects",
-    "title": "Research",
-    "section": "Research projects",
-    "text": "Research projects\nPresidential Cabinets Project\nI am part of this collaborative comparative politics project focused on the composition, formation, and dynamics of presidential cabinets in the Americas.\nProject description"
-  },
-  {
-    "objectID": "research.en.html#research-experience",
-    "href": "research.en.html#research-experience",
-    "title": "Research",
-    "section": "Research experience",
-    "text": "Research experience\n\nDoctoral Fellow — UBACyT and CONICET\nGioja Institute, Faculty of Law, University of Buenos Aires (UBA) | 2018–2024\nConducted doctoral research, producing academic work on political institutions, representation, and gender.\nCo-Director — Project “Women’s Political Careers in Subnational Contexts”\nUniversidad Torcuato Di Tella (UTDT) | 2021–2022\nCo-led a project aimed at understanding women’s trajectories and the conditions of access to power at the subnational level.\nResearcher — PIDAE Project “Legislation on Political Parties in Argentina”\nFaculty of Law, University of Buenos Aires (UBA) | 2019–2022\nResearch on party regulation: legal mapping, systematization, and analysis of reform debates.\nAssociate Researcher — UBACyT Project “Political Coalitions in Latin America”\nUniversity of Buenos Aires (UBA) | 2016–2018\nParticipated in comparative research on political coalitions in the region."
-  },
-  {
-    "objectID": "research.en.html#scholarships-and-awards",
-    "href": "research.en.html#scholarships-and-awards",
-    "title": "Research",
-    "section": "Scholarships and awards",
-    "text": "Scholarships and awards\n\nMobility Grant — Office of Science and Technology, UBA | 2022\nDoctoral Completion Grant — CONICET | 2022–2024\nDoctoral Fellowship Renewal — UBACyT | 2021\nMobility Grant — Office of Science and Technology, UBA | 2020\nUBACyT Doctoral Fellowship (Res. No. 1245/18) — Ambrosio L. Gioja Institute, Faculty of Law, UBA | 2018–2022"
-  },
-  {
-    "objectID": "research.en.html#conferences-and-professional-presentations",
-    "href": "research.en.html#conferences-and-professional-presentations",
-    "title": "Research",
-    "section": "Conferences and professional presentations",
-    "text": "Conferences and professional presentations\n2025\n\nPresenter — “Ministerial partisanship and types of government in Latin America: classification, tensions, and strategies across contexts of party institutionalization”\nPanel: Government dynamics and cabinets in Latin America | IX Uruguayan Congress of Political Science (AUCiP) | Faculty of Social Sciences, UdelaR | Montevideo, Uruguay | December 3–5, 2025\n\n2023\n\nPresenter — “Party linkages in Argentine presidential cabinets (2003–2023)”\n27th World Congress of Political Science (IPSA) | Buenos Aires | July 15–19, 2023\nPanel Chair — “Government partisanship in presidential systems: comparative evidence from Latin America”\n27th World Congress of Political Science (IPSA) | Buenos Aires | July 15–19, 2023\nPresenter — “Gender representation in Argentine presidential cabinets (1999–2019)”\nConference “Politics Under Strain” | Buenos Aires | July 18–21, 2023\n\n2022\n\nPresenter — “Parity in Argentina: dimensions and impact”\n3rd International Seminar on Political Reforms in Latin America | Mexico City | September 28–30, 2022\n\n2021\n\nPresenter — “Women in subnational executive branches”\n15th National Congress of Political Science (SAAP) | Rosario | November 10–13, 2021\nDiscussant — “Toward inclusive political representation”\n15th National Congress of Political Science (SAAP) | Rosario | November 10–13, 2021\nPresenter — “Regulating political parties in Argentina: What, how, and why reform?”\n15th National Congress of Political Science (SAAP) | Rosario | November 10–13, 2021\n\n2019\n\nPresenter — “Cracks in the glass: women’s participation in Latin American cabinets”\n14th National Congress of Political Science (SAAP) | UNSAM, Buenos Aires | July 17–20, 2019\n\n2017\n\nPresenter — “Coalitions: a veto against political parity in Latin American cabinets”\n9th Latin American Congress of Political Science (ALACIP) | Montevideo | 2017\n\n2016\n\nPresenter — “The Armed Forces from a gender perspective: analysis of the cases of Brazil and Argentina”\nPolitical Science Conference (UBA) | Buenos Aires | 2016\nPresenter — “Coalitions and women’s political participation: countries of the Andean region”\n12th National and 5th International Conference on Democracy | Rosario | 2016\n\n2011\n\nPresenter — “21st-century capitalism, crisis, and reconfigurations: lights and shadows in Latin America”\n9th Sociology Conference (UBA) | Buenos Aires | 2011"
-  },
-  {
-    "objectID": "talks.en.html",
-    "href": "talks.en.html",
-    "title": "Talks",
+    "objectID": "talks.html#charlas-y-presentaciones",
+    "href": "talks.html#charlas-y-presentaciones",
+    "title": "Charlas",
     "section": "",
-    "text": "In this section I compile talks, conferences, panels, and presentations I have taken part in (and will take part in). The idea is simple: so you can see what I’m working on, where we discussed it, and (when available) access materials such as slides, posters, papers, or recordings.\n\nUpcoming: confirmed events (if virtual, I include the time zone).\nArchive: past activities, with links to materials when available.\n\n\n\n\n\n\nIn this talk I presented a summary of my PhD dissertation: Personalism or institutionalization? Two pathways toward gender-parity presidential cabinets** in Latin America (1999–2019)*, for the UBA’s GICP on Gender and Public Policies."
-  },
-  {
-    "objectID": "talks.en.html#talks-and-presentations",
-    "href": "talks.en.html#talks-and-presentations",
-    "title": "Talks",
-    "section": "",
-    "text": "In this section I compile talks, conferences, panels, and presentations I have taken part in (and will take part in). The idea is simple: so you can see what I’m working on, where we discussed it, and (when available) access materials such as slides, posters, papers, or recordings.\n\nUpcoming: confirmed events (if virtual, I include the time zone).\nArchive: past activities, with links to materials when available.\n\n\n\n\n\n\nIn this talk I presented a summary of my PhD dissertation: Personalism or institutionalization? Two pathways toward gender-parity presidential cabinets** in Latin America (1999–2019)*, for the UBA’s GICP on Gender and Public Policies."
-  },
-  {
-    "objectID": "teaching.en.html",
-    "href": "teaching.en.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "My teaching combines methods (quantitative and qualitative), comparative politics, and institutions, with experience at both the undergraduate and graduate levels at UBA, UTDT, UCALP, and UNSAM."
-  },
-  {
-    "objectID": "teaching.en.html#current-courses",
-    "href": "teaching.en.html#current-courses",
-    "title": "Teaching",
-    "section": "Current courses",
-    "text": "Current courses\nAssociate Professor — Comparative Political Systems\nBA in Political Science and International Relations, Universidad Católica de La Plata (UCALP) — 2025–present\nInstructor of Record — Quantitative Methods and Techniques for Planning and Evaluation\nMaster’s in Planning and Evaluation of Public Policies, UNSAM — 2025–present\nInstructor of Record — QCA (Qualitative Comparative Analysis) with R\nApplied Methodology Program in Political and Social Research, UNSAM — October 2025\nInstructor of Record — External Thesis Workshop (Master’s and PhD programs)\nFaculty of Law, UBA — 2024–present\n\nAs Teaching Assistant\nComparative Politics and Political Economy in South America\nMaster’s in International Studies, UTDT — 2025–present\nQualitative Analysis Tools\nMaster’s in Public Policy, UTDT — 2024–present\nPolitical Actors and Processes\nBA in Political Science and International Relations, UTDT — 2023–present\nResearch Design and Methodology\nBA in Political Science and International Relations, UTDT — 2021–present\nFirst Teaching Assistant (Interim) — Political Sociology\nFaculty of Social Sciences, UBA — 2018–present"
-  },
-  {
-    "objectID": "teaching.en.html#previous-teaching-experience",
-    "href": "teaching.en.html#previous-teaching-experience",
-    "title": "Teaching",
-    "section": "Previous teaching experience",
-    "text": "Previous teaching experience\nInstructor of Record — Gender and Diversity\nInternational Center for Political Studies, UNSAM — 2024\nMember of the teaching team — Feminist Political Theory (Advanced Study Workshop)\nFaculty of Law, UBA — 2024\nAdjunct Professor (ad honorem) — Gender and Comparative Politics\nFaculty of Social Sciences, UBA — 2022–2024\nTeaching Assistant — Comparative Politics\nBA in Political Science and International Relations, UTDT — 2020–2023\nTeaching Assistant — Introduction to Political Science\nBA in Political Science and International Relations, UTDT — 2018–2021"
+    "text": "En esta sección reúno charlas, conferencias, paneles y presentaciones en las que participé y en las que voy a participar. La idea es que puedas ver en qué estoy trabajando, dónde lo conversamos, y (cuando se puede) acceder a materiales: slides, pósters, papers o grabaciones.\n\nPróximas: eventos confirmados (si es virtual, incluyo huso horario).\nArchivo: actividades pasadas, con enlaces a materiales cuando estén disponibles.\n\n\n\n\n\n\nEn esta charla presenté un resumen de mi tesis de doctorado: ¿Personalismo o institucionalización? Los dos caminos hacia los gabinetes presidenciales paritarios en América Latina (1999–2019), para el GICP de Género y Políticas Públicas de la UBA."
   }
 ]
