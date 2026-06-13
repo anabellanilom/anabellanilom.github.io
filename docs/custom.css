@@ -512,6 +512,112 @@
 }
 
 /* ---------------------------------------------------------
+   9. INVESTIGACIÓN (proyectos, experiencia, becas)
+   --------------------------------------------------------- */
+.project-card {
+  background: #fff;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.6rem;
+  margin: 1.2rem 0 1.8rem 0;
+}
+
+.project-card.current {
+  border-left: 4px solid var(--color-accent);
+  background: var(--color-bg-soft);
+}
+
+.status-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 0.2rem 0.7rem;
+  border-radius: 999px;
+  margin-bottom: 0.6rem;
+}
+
+.status-badge.ongoing {
+  background: var(--color-accent);
+  color: #fff;
+}
+
+.status-badge.collab {
+  background: var(--color-primary);
+  color: #fff;
+}
+
+.project-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin: 0 0 0.4rem 0;
+  line-height: 1.4;
+}
+
+.project-meta {
+  font-size: 0.88rem;
+  color: var(--color-muted);
+  margin: 0 0 0.7rem 0;
+}
+
+.project-summary {
+  font-size: 0.95rem;
+  color: var(--color-text);
+  line-height: 1.6;
+  margin: 0 0 0.8rem 0;
+}
+
+.project-team {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin: 0 0 0.8rem 0;
+}
+
+.project-team strong {
+  color: var(--color-text);
+}
+
+.project-link {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+.project-link:hover {
+  text-decoration: underline;
+}
+
+.course-desc {
+  font-size: 0.9rem;
+  color: var(--color-text);
+  margin: 0.4rem 0 0 0;
+  line-height: 1.55;
+}
+
+/* Becas y reconocimientos */
+.award-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 1.2rem 0 2rem 0;
+}
+
+.award-item {
+  border-left: 3px solid var(--color-primary);
+  padding: 0.3rem 0 0.3rem 0.9rem;
+  font-size: 0.92rem;
+  color: var(--color-text);
+}
+
+.award-item .award-org {
+  color: var(--color-muted);
+  font-size: 0.85rem;
+}
+
+/* ---------------------------------------------------------
    Responsive
    --------------------------------------------------------- */
 @media (max-width: 640px) {
