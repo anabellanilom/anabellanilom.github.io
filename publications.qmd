@@ -7,92 +7,92 @@ editor: source
 ## Artículos y notas con revisión por pares
 
 ```{=html}
+<div class="pub-list">
 
+  <div class="pub-card">
+    <div class="pub-year">2024</div>
+    <div class="pub-content">
+      <div class="pub-title">Poderes partidarios y reclutamiento ministerial: El caso argentino</div>
+      <div class="pub-meta">Camerlo, M., Clerici, P., &amp; Molina, A. (2024). <span class="journal">Colombia Internacional, 120.</span></div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.7440/colombiaint120.2024.02" target="_blank">Ver artículo →</a>
+      </div>
+    </div>
+  </div>
 
-  
-    2024
-    
-      Poderes partidarios y reclutamiento ministerial: El caso argentino
-      Camerlo, M., Clerici, P., & Molina, A. (2024). Colombia Internacional, 120.
-      
-        Ver artículo →
-      
-    
-  
+  <div class="pub-card">
+    <div class="pub-year">2024</div>
+    <div class="pub-content">
+      <div class="pub-title">La representación de género en los gabinetes de gobierno (1997–2023)</div>
+      <div class="pub-meta">Molina, A. (2024). <span class="journal">Revista SAAP, 18(1).</span></div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.46468/rsaap.18.1.n1" target="_blank">Ver nota de investigación →</a>
+      </div>
+    </div>
+  </div>
 
-  
-    2024
-    
-      La representación de género en los gabinetes de gobierno (1997–2023)
-      Molina, A. (2024). Revista SAAP, 18(1).
-      
-        Ver nota de investigación →
-      
-    
-  
+  <div class="pub-card">
+    <div class="pub-year">2023</div>
+    <div class="pub-content">
+      <div class="pub-title">Presidentes débiles y ministras presentes: La representación de género en América Latina (1999–2019)</div>
+      <div class="pub-meta">Molina, A. (2023). <span class="journal">Estado, Gobierno y Gestión Pública, 21(41).</span></div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.5354/0717-8980.2023.71534" target="_blank">Ver artículo →</a>
+      </div>
+    </div>
+  </div>
 
-  
-    2023
-    
-      Presidentes débiles y ministras presentes: La representación de género en América Latina (1999–2019)
-      Molina, A. (2023). Estado, Gobierno y Gestión Pública, 21(41).
-      
-        Ver artículo →
-      
-    
-  
+  <div class="pub-card">
+    <div class="pub-year">2022</div>
+    <div class="pub-content">
+      <div class="pub-title">Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020</div>
+      <div class="pub-meta">Camerlo, M., Malamud, A., &amp; Molina, A. (2022). <span class="journal">Regional &amp; Federal Studies.</span></div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1080/13597566.2022.2144255" target="_blank">Ver artículo →</a>
+      </div>
+    </div>
+  </div>
 
-  
-    2022
-    
-      Fluid paths to the cabinet in federal presidential systems: Argentina 1983–2020
-      Camerlo, M., Malamud, A., & Molina, A. (2022). Regional & Federal Studies.
-      
-        Ver artículo →
-      
-    
-  
-
-
+</div>
 ```
 
 ## Otras publicaciones
 
 ```{=html}
+<div class="pub-list">
 
+  <div class="pub-card">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <span class="pub-tag">Foro de debate</span>
+      <div class="pub-title">Representación Descriptiva y Sustantiva en América Latina. Avances y desafíos</div>
+      <div class="pub-meta">Gamboa, R., Segovia, C., Dockendorff, A., Cárdenas Arguedas, S., Hernández-Gutiérrez, J. C., Chasquetti, D., González, E., &amp; Molina, A. (2025). <span class="journal">IBEROAMERICANA. América Latina, 25(89), 209–246.</span></div>
+      <div class="pub-links">
+        <a href="https://journals.iai.spk-berlin.de/index.php/iberoamericana/article/view/3200" target="_blank">Ver artículo →</a>
+        <a href="https://doi.org/10.18441/ibam.25.2025.89.209-246" target="_blank">DOI →</a>
+      </div>
+    </div>
+  </div>
 
-  
-    2025
-    
-      Foro de debate
-      Representación Descriptiva y Sustantiva en América Latina. Avances y desafíos
-      Gamboa, R., Segovia, C., Dockendorff, A., Cárdenas Arguedas, S., Hernández-Gutiérrez, J. C., Chasquetti, D., González, E., & Molina, A. (2025). IBEROAMERICANA. América Latina, 25(89), 209–246.
-      
-        Ver artículo →
-        DOI →
-      
-    
-  
-
-
+</div>
 ```
 
 ## Divulgación y análisis en medios
 
 ```{=html}
+<div class="pub-list">
 
+  <div class="pub-card">
+    <div class="pub-year">2023</div>
+    <div class="pub-content">
+      <span class="pub-tag">Análisis en medios</span>
+      <div class="pub-title">Elecciones presidenciales en Argentina: competencia abierta en un contexto de crisis</div>
+      <div class="pub-meta">Molina, A. (2023). <span class="journal">PEX Network</span> (11 de agosto de 2023). Análisis pre-PASO con seis claves para entender el escenario electoral y la incertidumbre en un contexto de crisis.</div>
+      <div class="pub-links">
+        <a href="https://pex-network.com/2023/08/11/elecciones-presidenciales-en-argentina-competencia-abierta-en-un-contexto-de-crisis/" target="_blank">Leer la nota →</a>
+      </div>
+    </div>
+  </div>
 
-  
-    2023
-    
-      Análisis en medios
-      Elecciones presidenciales en Argentina: competencia abierta en un contexto de crisis
-      Molina, A. (2023). PEX Network (11 de agosto de 2023). Análisis pre-PASO con seis claves para entender el escenario electoral y la incertidumbre en un contexto de crisis.
-      
-        Leer la nota →
-      
-    
-  
-
-
+</div>
 ```
