@@ -1,56 +1,130 @@
 ---
 title: "Actividad docente"
 format: html
-editor: visual
+editor: source
 ---
 
 Mi docencia combina métodos (cuantitativos y cualitativos), política comparada e instituciones, con experiencia en grado y posgrado en UBA, UTDT, UCALP y UNSAM.
 
+## Próximos cursos
+
+```{=html}
+<div class="course-list">
+
+  <div class="course-card upcoming">
+    <span class="course-role">Próximo seminario</span>
+    <div class="course-title">QCA (Análisis Cualitativo Comparado) con R — 2ª edición 2026</div>
+    <p class="course-meta">Programa de Metodología Aplicada en Investigación Política y Social (PMet), Escuela de Política y Gobierno, UNSAM</p>
+    <a class="course-link" href="https://www.unsam.edu.ar/escuelas/epyg/pmet/seminarios-2026.php" target="_blank">Ver seminario e inscripción →</a>
+  </div>
+
+</div>
+```
+
 ## Cursos actuales
 
-**Profesora Asociada — Sistemas Políticos Comparados**\
-Lic. en Ciencia Política y Relaciones Internacionales, Universidad Católica de La Plata (UCALP) — *2025–actualidad*
+```{=html}
+<div class="course-list">
 
-**Profesora a cargo — Métodos y Técnicas Cuantitativas para la Planificación y la Evaluación**\
-Maestría en Planificación y Evaluación de Políticas Públicas, UNSAM — *2025–actualidad*
+  <div class="course-card">
+    <span class="course-role">Profesora Asociada</span>
+    <div class="course-title">Sistemas Políticos Comparados</div>
+    <p class="course-meta">Lic. en Ciencia Política y Relaciones Internacionales, Universidad Católica de La Plata (UCALP) — 2025–actualidad</p>
+  </div>
 
-**Profesora a cargo — QCA (Análisis Cualitativo Comparado) con R**\
-Programa de Metodología Aplicada en Investigación Política y Social, UNSAM — *octubre 2025*
+  <div class="course-card">
+    <span class="course-role">Profesora a cargo</span>
+    <div class="course-title">Métodos y Técnicas Cuantitativas para la Planificación y la Evaluación</div>
+    <p class="course-meta">Maestría en Planificación y Evaluación de Políticas Públicas, UNSAM — 2025–actualidad</p>
+  </div>
 
-**Profesora a cargo — Taller de Tesis Externo (maestrías y doctorado)**\
-Facultad de Derecho, UBA — *2024–actualidad*
+  <div class="course-card">
+    <span class="course-role">Profesora a cargo</span>
+    <div class="course-title">QCA (Análisis Cualitativo Comparado) con R</div>
+    <p class="course-meta">Programa de Metodología Aplicada en Investigación Política y Social, UNSAM — octubre 2025</p>
+  </div>
+
+  <div class="course-card">
+    <span class="course-role">Profesora a cargo</span>
+    <div class="course-title">Taller de Tesis Externo (maestrías y doctorado)</div>
+    <p class="course-meta">Facultad de Derecho, UBA — 2024–actualidad</p>
+  </div>
+
+</div>
+```
 
 ### Como Profesora Asistente
 
-**Política y Economía Comparada en América del Sur**\
-Maestría en Estudios Internacionales, UTDT — *2025–actualidad*
+```{=html}
+<div class="course-list">
 
-**Instrumentos de Análisis Cualitativo**\
-Maestría en Políticas Públicas, UTDT — *2024–actualidad*
+  <div class="course-card">
+    <span class="course-role">Profesora Asistente</span>
+    <div class="course-title">Política y Economía Comparada en América del Sur</div>
+    <p class="course-meta">Maestría en Estudios Internacionales, UTDT — 2025–actualidad</p>
+  </div>
 
-**Actores y Procesos Políticos**\
-Lic. en Ciencia Política y Relaciones Internacionales, UTDT — *2023–actualidad*
+  <div class="course-card">
+    <span class="course-role">Profesora Asistente</span>
+    <div class="course-title">Instrumentos de Análisis Cualitativo</div>
+    <p class="course-meta">Maestría en Políticas Públicas, UTDT — 2024–actualidad</p>
+  </div>
 
-**Diseño y Metodología de Investigación**\
-Lic. en Ciencia Política y Relaciones Internacionales, UTDT — *2021–actualidad*
+  <div class="course-card">
+    <span class="course-role">Profesora Asistente</span>
+    <div class="course-title">Actores y Procesos Políticos</div>
+    <p class="course-meta">Lic. en Ciencia Política y Relaciones Internacionales, UTDT — 2023–actualidad</p>
+  </div>
 
-**Ayudante de Primera Interina — Sociología Política**\
-Facultad de Ciencias Sociales, UBA — *2018–actualidad*
+  <div class="course-card">
+    <span class="course-role">Profesora Asistente</span>
+    <div class="course-title">Diseño y Metodología de Investigación</div>
+    <p class="course-meta">Lic. en Ciencia Política y Relaciones Internacionales, UTDT — 2021–actualidad</p>
+  </div>
+
+  <div class="course-card">
+    <span class="course-role">Ayudante de Primera Interina</span>
+    <div class="course-title">Sociología Política</div>
+    <p class="course-meta">Facultad de Ciencias Sociales, UBA — 2018–actualidad</p>
+  </div>
+
+</div>
+```
 
 ## Experiencia docente previa
 
-**Profesora a cargo — Género y Diversidad**\
-Centro Internacional de Estudios Políticos, UNSAM — *2024*
+```{=html}
+<div class="course-list">
 
-**Miembro del equipo docente — Teoría Política Feminista (Taller de Estudio Profundizado)**\
-Facultad de Derecho, UBA — *2024*
+  <div class="course-card">
+    <span class="course-role">Profesora a cargo</span>
+    <div class="course-title">Género y Diversidad</div>
+    <p class="course-meta">Centro Internacional de Estudios Políticos, UNSAM — 2024</p>
+  </div>
 
-**Profesora Adjunta ad honorem — Género y Política Comparada**\
-Facultad de Ciencias Sociales, UBA — *2022–2024*
+  <div class="course-card">
+    <span class="course-role">Equipo docente</span>
+    <div class="course-title">Teoría Política Feminista (Taller de Estudio Profundizado)</div>
+    <p class="course-meta">Facultad de Derecho, UBA — 2024</p>
+  </div>
 
-**Profesora Asistente — Política Comparada**\
-Lic. en Ciencia Política y Relaciones Internacionales, UTDT — *2020–2023*
+  <div class="course-card">
+    <span class="course-role">Profesora Adjunta ad honorem</span>
+    <div class="course-title">Género y Política Comparada</div>
+    <p class="course-meta">Facultad de Ciencias Sociales, UBA — 2022–2024</p>
+  </div>
 
-**Profesora Asistente — Introducción a la Ciencia Política**\
-Lic. en Ciencia Política y Relaciones Internacionales, UTDT — *2018–2021*
+  <div class="course-card">
+    <span class="course-role">Profesora Asistente</span>
+    <div class="course-title">Política Comparada</div>
+    <p class="course-meta">Lic. en Ciencia Política y Relaciones Internacionales, UTDT — 2020–2023</p>
+  </div>
 
+  <div class="course-card">
+    <span class="course-role">Profesora Asistente</span>
+    <div class="course-title">Introducción a la Ciencia Política</div>
+    <p class="course-meta">Lic. en Ciencia Política y Relaciones Internacionales, UTDT — 2018–2021</p>
+  </div>
+
+</div>
+```
