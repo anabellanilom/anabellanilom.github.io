@@ -16,6 +16,23 @@ Mi agenda de investigación se centra en representación política y género, ga
   <p class="project-summary">El proyecto analiza comparativamente los niveles de partidismo ministerial en los gabinetes presidenciales de Argentina, Brasil, Chile y Uruguay entre 2000 y 2025, a partir de la tipología desarrollada por Camerlo y Castaldo (2023). Busca superar la dicotomía clásica "partidista / no partidista" e identificar los factores institucionales, partidarios y estratégicos que explican la composición de los gabinetes en contextos de distinta institucionalización partidaria.</p>
   <p class="project-team"><strong>Co-dirección:</strong> Lic. Nicolás Cereijo (UCALP). <strong>Equipo:</strong> Fernando Pedro Bellocq, Patricio Nehuén Lorenzo y Martina Carrizo (estudiantes de la Lic. en Ciencia Política y Relaciones Internacionales, UCALP).</p>
 </div>
+
+<div class="project-card">
+  <span class="status-badge collab">Colaboración en curso</span>
+  <div class="project-title">Presidential Cabinets Project</div>
+  <p class="project-summary">Formo parte de este proyecto colaborativo de política comparada centrado en la composición, formación y dinámica de gabinetes presidenciales en las Américas.</p>
+  <a class="project-link" href="https://pex-network.com/2018/08/16/government-formation-and-minister-turnover-in-presidential-cabinets-comparative-analysis-in-the-americas/" target="_blank">Descripción del proyecto →</a>
+</div>
+```
+
+## Tesis doctoral
+
+```{=html}
+<div class="project-card">
+  <div class="project-title">Dos caminos hacia los gabinetes presidenciales paritarios en América Latina: La institucionalización de los sistemas de partidos y la representación de género en los gobiernos nacionales (1999–2019)</div>
+  <p class="project-meta">Tesis doctoral · Doctorado en Ciencias Sociales, Universidad de Buenos Aires (UBA), 2025</p>
+  <p class="project-summary">Investigación comparada sobre los gabinetes presidenciales de América Latina entre 1999 y 2019, que explora cómo la institucionalización de los sistemas de partidos incide en los caminos hacia la paridad de género en los gobiernos nacionales de la región.</p>
+</div>
 ```
 
 ## Tesis de maestría
@@ -26,17 +43,6 @@ Mi agenda de investigación se centra en representación política y género, ga
   <p class="project-meta">Tesis de maestría · Universidad Torcuato Di Tella (UTDT), 2021</p>
   <p class="project-summary">Análisis comparado de 18 países (1999–2019) sobre integración de género en gabinetes presidenciales.</p>
   <a class="project-link" href="https://repositorio.utdt.edu/handle/20.500.13098/12017" target="_blank">Ver registro en Repositorio UTDT →</a>
-</div>
-```
-
-## Proyectos de investigación
-
-```{=html}
-<div class="project-card">
-  <span class="status-badge collab">Colaboración en curso</span>
-  <div class="project-title">Presidential Cabinets Project</div>
-  <p class="project-summary">Formo parte de este proyecto colaborativo de política comparada centrado en la composición, formación y dinámica de gabinetes presidenciales en las Américas.</p>
-  <a class="project-link" href="https://pex-network.com/2018/08/16/government-formation-and-minister-turnover-in-presidential-cabinets-comparative-analysis-in-the-americas/" target="_blank">Descripción del proyecto →</a>
 </div>
 ```
 
