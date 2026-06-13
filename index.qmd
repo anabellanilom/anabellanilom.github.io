@@ -58,20 +58,20 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
 ```{=html}
 <div class="services-grid">
   <a href="research.html" class="service-card">
-    <h3>Investigaci&oacute;n</h3>
-    <p>G&eacute;nero, instituciones pol&iacute;ticas y m&eacute;todos comparados en Am&eacute;rica Latina.</p>
+    <h3>Investigación</h3>
+    <p>Género, instituciones políticas y métodos comparados en América Latina.</p>
   </a>
-  <a href="consultoria.html" class="service-card">
-    <h3>Consultor&iacute;a</h3>
-    <p>Investigaci&oacute;n aplicada, dise&ntilde;o de encuestas y articulaci&oacute;n institucional.</p>
+  <a href="publications.html" class="service-card">
+    <h3>Publicaciones</h3>
+    <p>Artículos, notas de investigación y producción de divulgación.</p>
   </a>
   <a href="teaching.html" class="service-card">
     <h3>Docencia</h3>
-    <p>M&eacute;todos cuantitativos y cualitativos, pol&iacute;tica comparada e instituciones.</p>
+    <p>Métodos cuantitativos y cualitativos, política comparada e instituciones.</p>
   </a>
   <a href="datavisualization.html" class="service-card">
     <h3>Dataviz</h3>
-    <p>Visualizaciones para explorar y comunicar datos pol&iacute;ticos.</p>
+    <p>Visualizaciones para explorar y comunicar datos políticos.</p>
   </a>
 </div>
 ```
@@ -80,14 +80,14 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
 
 ```{=html}
 <ul class="tag-list">
-  <li>G&eacute;nero y poder ejecutivo</li>
+  <li>Género y poder ejecutivo</li>
   <li>Gabinetes y reclutamiento ministerial</li>
   <li>Instituciones y paridad</li>
-  <li>Representaci&oacute;n pol&iacute;tica</li>
-  <li>Pol&iacute;tica comparada en Am&eacute;rica Latina</li>
+  <li>Representación política</li>
+  <li>Política comparada en América Latina</li>
   <li>QCA</li>
   <li>Encuestas</li>
-  <li>An&aacute;lisis mixto</li>
+  <li>Análisis mixto</li>
 </ul>
 ```
 
@@ -107,6 +107,7 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
 ```{=html}
 <div id="contacto" class="contact-section">
   <h2>Contacto</h2>
+  <p>¿Querés conversar sobre un proyecto, charla o colaboración? Escribime.</p>
   <a href="mailto:anabella.anilom@gmail.com" class="contact-email-btn">anabella.anilom@gmail.com</a>
   <div class="contact-icons">
     <a href="https://github.com/anabellanilom" target="_blank" title="GitHub">

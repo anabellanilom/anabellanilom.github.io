@@ -4,7 +4,7 @@ format: html
 editor: source
 ---
 
-## Artículos y notas con revisión por pares
+## Artículos con revisión por pares
 
 ```{=html}
 <div class="pub-list">
