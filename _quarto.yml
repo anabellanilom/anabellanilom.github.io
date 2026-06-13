@@ -12,9 +12,7 @@ website:
       - href: publications.qmd
       - href: research.qmd
       - href: teaching.qmd
-      - href: talks.qmd
-      - href: consultoria.qmd
-      - href: gestion.qmd
+      - href: more.qmd
       - href: datavisualization.qmd
     right:
       - icon: github

@@ -107,7 +107,6 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
 ```{=html}
 <div id="contacto" class="contact-section">
   <h2>Contacto</h2>
-  <p>&iquest;Quer&eacute;s conversar sobre un proyecto, charla o colaboraci&oacute;n? Escribime.</p>
   <a href="mailto:anabella.anilom@gmail.com" class="contact-email-btn">anabella.anilom@gmail.com</a>
   <div class="contact-icons">
     <a href="https://github.com/anabellanilom" target="_blank" title="GitHub">
