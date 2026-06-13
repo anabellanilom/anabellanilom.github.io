@@ -1,55 +1,136 @@
 ---
 title: "Teaching"
 format: html
-editor: visual
+editor: source
 ---
 
 My teaching combines methods (quantitative and qualitative), comparative politics, and institutions, with experience at both the undergraduate and graduate levels at UBA, UTDT, UCALP, and UNSAM.
 
+## Upcoming courses
+
+```{=html}
+<div class="course-list">
+
+  <div class="course-card upcoming">
+    <span class="course-role">Upcoming seminar</span>
+    <div class="course-title">QCA (Qualitative Comparative Analysis) with R — 2nd edition 2026</div>
+    <p class="course-meta">Applied Methodology Program in Political and Social Research (PMet), School of Politics and Government, UNSAM</p>
+    <a class="course-link" href="https://www.unsam.edu.ar/escuelas/epyg/pmet/seminarios-2026.php" target="_blank">View seminar and registration →</a>
+  </div>
+
+</div>
+```
+
 ## Current courses
 
-**Associate Professor — Comparative Political Systems**\
-BA in Political Science and International Relations, Universidad Católica de La Plata (UCALP) — *2025–present*
+```{=html}
+<div class="course-list">
 
-**Instructor of Record — Quantitative Methods and Techniques for Planning and Evaluation**\
-Master’s in Planning and Evaluation of Public Policies, UNSAM — *2025–present*
+  <div class="course-card">
+    <span class="course-role">Associate Professor</span>
+    <div class="course-title">Comparative Political Systems</div>
+    <p class="course-meta">BA in Political Science and International Relations, Universidad Católica de La Plata (UCALP) — 2025–present</p>
+  </div>
 
-**Instructor of Record — QCA (Qualitative Comparative Analysis) with R**\
-Applied Methodology Program in Political and Social Research, UNSAM — *October 2025*
+  <div class="course-card">
+    <span class="course-role">Instructor of Record</span>
+    <div class="course-title">Final Degree Seminar</div>
+    <p class="course-meta">BA in Political Science, Universidad Nacional de Tres de Febrero (UNTREF) — 2026–present</p>
+  </div>
 
-**Instructor of Record — External Thesis Workshop (Master’s and PhD programs)**\
-Faculty of Law, UBA — *2024–present*
+  <div class="course-card">
+    <span class="course-role">Instructor of Record</span>
+    <div class="course-title">Quantitative Methods and Techniques for Planning and Evaluation</div>
+    <p class="course-meta">Master's in Planning and Evaluation of Public Policies, UNSAM — 2025–present</p>
+  </div>
+
+  <div class="course-card">
+    <span class="course-role">Instructor of Record</span>
+    <div class="course-title">QCA (Qualitative Comparative Analysis) with R</div>
+    <p class="course-meta">Applied Methodology Program in Political and Social Research, UNSAM — October 2025</p>
+  </div>
+
+  <div class="course-card">
+    <span class="course-role">Instructor of Record</span>
+    <div class="course-title">External Thesis Workshop (Master's and PhD programs)</div>
+    <p class="course-meta">Faculty of Law, UBA — 2024–present</p>
+  </div>
+
+</div>
+```
 
 ### As Teaching Assistant
 
-**Comparative Politics and Political Economy in South America**\
-Master’s in International Studies, UTDT — *2025–present*
+```{=html}
+<div class="course-list">
 
-**Qualitative Analysis Tools**\
-Master’s in Public Policy, UTDT — *2024–present*
+  <div class="course-card">
+    <span class="course-role">Teaching Assistant</span>
+    <div class="course-title">Comparative Politics and Political Economy in South America</div>
+    <p class="course-meta">Master's in International Studies, UTDT — 2025–present</p>
+  </div>
 
-**Political Actors and Processes**\
-BA in Political Science and International Relations, UTDT — *2023–present*
+  <div class="course-card">
+    <span class="course-role">Teaching Assistant</span>
+    <div class="course-title">Qualitative Analysis Tools</div>
+    <p class="course-meta">Master's in Public Policy, UTDT — 2024–present</p>
+  </div>
 
-**Research Design and Methodology**\
-BA in Political Science and International Relations, UTDT — *2021–present*
+  <div class="course-card">
+    <span class="course-role">Teaching Assistant</span>
+    <div class="course-title">Political Actors and Processes</div>
+    <p class="course-meta">BA in Political Science and International Relations, UTDT — 2023–present</p>
+  </div>
 
-**First Teaching Assistant (Interim) — Political Sociology**\
-Faculty of Social Sciences, UBA — *2018–present*
+  <div class="course-card">
+    <span class="course-role">Teaching Assistant</span>
+    <div class="course-title">Research Design and Methodology</div>
+    <p class="course-meta">BA in Political Science and International Relations, UTDT — 2021–present</p>
+  </div>
+
+  <div class="course-card">
+    <span class="course-role">First Teaching Assistant (Interim)</span>
+    <div class="course-title">Political Sociology</div>
+    <p class="course-meta">Faculty of Social Sciences, UBA — 2018–present</p>
+  </div>
+
+</div>
+```
 
 ## Previous teaching experience
 
-**Instructor of Record — Gender and Diversity**\
-International Center for Political Studies, UNSAM — *2024*
+```{=html}
+<div class="course-list">
 
-**Member of the teaching team — Feminist Political Theory (Advanced Study Workshop)**\
-Faculty of Law, UBA — *2024*
+  <div class="course-card">
+    <span class="course-role">Instructor of Record</span>
+    <div class="course-title">Gender and Diversity</div>
+    <p class="course-meta">International Center for Political Studies, UNSAM — 2024</p>
+  </div>
 
-**Adjunct Professor (ad honorem) — Gender and Comparative Politics**\
-Faculty of Social Sciences, UBA — *2022–2024*
+  <div class="course-card">
+    <span class="course-role">Teaching team member</span>
+    <div class="course-title">Feminist Political Theory (Advanced Study Workshop)</div>
+    <p class="course-meta">Faculty of Law, UBA — 2024</p>
+  </div>
 
-**Teaching Assistant — Comparative Politics**\
-BA in Political Science and International Relations, UTDT — *2020–2023*
+  <div class="course-card">
+    <span class="course-role">Adjunct Professor (ad honorem)</span>
+    <div class="course-title">Gender and Comparative Politics</div>
+    <p class="course-meta">Faculty of Social Sciences, UBA — 2022–2024</p>
+  </div>
 
-**Teaching Assistant — Introduction to Political Science**\
-BA in Political Science and International Relations, UTDT — *2018–2021* 
+  <div class="course-card">
+    <span class="course-role">Teaching Assistant</span>
+    <div class="course-title">Comparative Politics</div>
+    <p class="course-meta">BA in Political Science and International Relations, UTDT — 2020–2023</p>
+  </div>
+
+  <div class="course-card">
+    <span class="course-role">Teaching Assistant</span>
+    <div class="course-title">Introduction to Political Science</div>
+    <p class="course-meta">BA in Political Science and International Relations, UTDT — 2018–2021</p>
+  </div>
+
+</div>
+```
