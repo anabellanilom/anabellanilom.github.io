@@ -111,7 +111,6 @@ Podés ver mis publicaciones, docencia, charlas y mi CV en las secciones del sit
 ```{=html}
 <div id="contacto" class="contact-section">
   <h2>Contacto</h2>
-  <p>&iquest;Quer&eacute;s conversar sobre un proyecto, charla o colaboraci&oacute;n? Escribime.</p>
   <div class="contact-icons">
     <a href="https://github.com/anabellanilom" target="_blank" title="GitHub"><i class="bi bi-github"></i></a>
     <a href="https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es" target="_blank" title="Google Scholar"><i class="bi bi-mortarboard"></i></a>
