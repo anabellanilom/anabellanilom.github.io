@@ -1,44 +1,131 @@
 ---
 title: "About me"
 format: html
-editor: visual
+editor: source
 ---
 
-::::: columns
-::: {.column width="30%"}
-![](images/perfil-circulo-512.png){.profile-pic}
-:::
+```{=html}
+<div class="hero">
+  <div class="hero-photo">
+    <img src="../images/perfil-circulo-512.png" alt="Anabella Molina">
+  </div>
+  <div class="hero-text">
+    <h1>Anabella Molina</h1>
+    <p class="hero-tagline">Political Scientist &middot; PhD in Social Sciences (UBA) &middot; Gender and Political Institutions in Latin America</p>
+    <div class="hero-buttons">
+      <a href="../cv/CV_Anabella_Molina.pdf" class="btn-primary" target="_blank">View CV</a>
+      <a href="#contact" class="btn-secondary">Contact</a>
+    </div>
+  </div>
+</div>
+```
 
-::: {.column width="70%"}
-
-I’m Anabella Molina, a political scientist, PhD in Social Sciences (University of Buenos Aires) and MA in Political Science (Universidad Torcuato Di Tella). My work sits at the intersection of gender, political institutions, and empirical evidence, with a focus on Latin America.
+I'm a political scientist, PhD in Social Sciences (University of Buenos Aires) and MA in Political Science (Universidad Torcuato Di Tella). My work sits at the intersection of gender, political institutions, and empirical evidence, with a focus on Latin America.
 
 Beyond my academic work, I take part in applied research projects and institutional coordination, building partnerships among organizations, local governments, and universities. Methodologically, I work with survey design, comparative methods, QCA, and R.
 
-You can find my publications, teaching, talks, and CV in the sections of this website.\
-Download my CV (PDF).
+You can find my publications, teaching, talks, and CV in the sections of this website.
 
-### Work stack
+## Career path
 
-R · Quarto · Git/GitHub · Tidyverse · Reproducibility · Open data
+```{=html}
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-year">2013</span>
+    <div class="timeline-desc">BA in Political Science &mdash; University of Buenos Aires</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-year">2020</span>
+    <div class="timeline-desc">Research stay &mdash; University of Lisbon</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-year">2021</span>
+    <div class="timeline-desc">MA in Political Science &mdash; Universidad Torcuato Di Tella</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-year">2023</span>
+    <div class="timeline-desc">Research stay &mdash; University of Lisbon</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-year">2025</span>
+    <div class="timeline-desc">PhD in Social Sciences &mdash; University of Buenos Aires</div>
+  </div>
+</div>
+```
 
-### Interests
+## What I do
 
-- Gender and executive power; cabinets and ministerial recruitment
-- Institutions, parity rules, and political representation
-- Comparative politics in Latin America
-- Methods: QCA, surveys, mixed-methods analysis, and R
+```{=html}
+<div class="services-grid">
+  <a href="research.html" class="service-card">
+    <h3>Research</h3>
+    <p>Gender, political institutions, and comparative methods in Latin America.</p>
+  </a>
+  <a href="publications.html" class="service-card">
+    <h3>Publications</h3>
+    <p>Articles, research notes, and outreach pieces.</p>
+  </a>
+  <a href="teaching.html" class="service-card">
+    <h3>Teaching</h3>
+    <p>Quantitative and qualitative methods, comparative politics, and institutions.</p>
+  </a>
+  <a href="datavisualization.html" class="service-card">
+    <h3>Dataviz</h3>
+    <p>Visualizations to explore and communicate political data.</p>
+  </a>
+</div>
+```
 
-### Education
+## Interests
 
-- PhD in Social Sciences — University of Buenos Aires (2025)
-- MA in Political Science — Universidad Torcuato Di Tella (2021)
-- BA in Political Science — University of Buenos Aires (2013)
+```{=html}
+<ul class="tag-list">
+  <li>Gender and executive power</li>
+  <li>Cabinets and ministerial recruitment</li>
+  <li>Institutions and parity</li>
+  <li>Political representation</li>
+  <li>Comparative politics in Latin America</li>
+  <li>QCA</li>
+  <li>Surveys</li>
+  <li>Mixed-methods analysis</li>
+</ul>
+```
 
-### Research stays
+## Work stack
 
-- University of Lisbon — Research stay (2020)
-- University of Lisbon — Research stay (2023)
+```{=html}
+<ul class="tag-list tag-stack">
+  <li>R</li>
+  <li>Quarto</li>
+  <li>Git / GitHub</li>
+  <li>Tidyverse</li>
+  <li>Reproducibility</li>
+  <li>Open data</li>
+</ul>
+```
 
-:::
-:::::
+```{=html}
+<div id="contact" class="contact-section">
+  <h2>Contact</h2>
+  <p>Want to talk about a project, talk, or collaboration? Get in touch.</p>
+  <a href="mailto:anabella.anilom@gmail.com" class="contact-email-btn">anabella.anilom@gmail.com</a>
+  <div class="contact-icons">
+    <a href="https://github.com/anabellanilom" target="_blank" title="GitHub">
+      <span class="icon-circle"><i class="bi bi-github"></i></span>
+      GitHub
+    </a>
+    <a href="https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es" target="_blank" title="Google Scholar">
+      <span class="icon-circle"><i class="bi bi-mortarboard"></i></span>
+      Scholar
+    </a>
+    <a href="https://orcid.org/0000-0001-7394-8589" target="_blank" title="ORCID">
+      <span class="icon-circle"><i class="bi bi-person-badge"></i></span>
+      ORCID
+    </a>
+    <a href="https://www.linkedin.com/in/draanabellamolina" target="_blank" title="LinkedIn">
+      <span class="icon-circle"><i class="bi bi-linkedin"></i></span>
+      LinkedIn
+    </a>
+  </div>
+</div>
+```
