@@ -17,19 +17,29 @@ website:
     right:
       - icon: github
         href: https://github.com/anabellanilom
+        aria-label: GitHub
       - text: "{{< ai google-scholar >}}"
         href: "https://scholar.google.com/citations?user=KLz7F4IAAAAJ&hl=es"
+        aria-label: Google Scholar
         target: _blank
         rel: me
       - text: "{{< ai orcid >}}"
         href: "https://orcid.org/0000-0001-7394-8589"
+        aria-label: ORCID
         target: _blank
         rel: me
       - icon: linkedin
         href: https://www.linkedin.com/in/draanabellamolina
+        aria-label: LinkedIn
       - icon: envelope
         href: mailto:anabella.anilom@gmail.com
+        aria-label: Email
   site-url: https://anabellanilom.github.io
+  description: "Politóloga y Doctora en Ciencias Sociales (UBA). Investigación, docencia y visualización de datos sobre género e instituciones políticas en América Latina."
+  image: "images/social-card.png"
+  open-graph:
+    locale: es_AR
+    site-name: "Anabella Molina"
 
   twitter-card:
     # opcional, si querés preview linda cuando compartís el link
